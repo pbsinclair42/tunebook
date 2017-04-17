@@ -1,0 +1,9 @@
+\contentsline {chapter}{Songs}{2}
+\contentsline {section}{\"Aling B\"aling}{2}
+\contentsline {section}{Anderson's Coast}{2}
+\contentsline {section}{Bold Sir Rylas}{5}
+\contentsline {section}{Dundee Doag}{7}
+\contentsline {section}{Farewell to Nova Scotia}{9}
+\contentsline {section}{Fuck EUSA}{10}
+\contentsline {section}{Gloomy December}{12}
+\contentsline {section}{Good old mountain dew}{13}

@@ -1,0 +1,533 @@
+\documentclass[a4paper]{report}
+\usepackage{graphicx, unnumberedtotoc, titlesec, ulem}
+\graphicspath{ {jigs/} {slipjigs/} {reels/} {polkas/} {polskas/} {slowairs/} {strathspeys/} {other/} {songs/} {photos/} }
+\usepackage[a5paper, top=1cm, bottom=1.8cm, left=1cm, right=1cm]{geometry}
+\setlength\parindent{0pt}
+\setcounter{secnumdepth}{-1}
+\pagestyle{plain}
+
+\newcommand{\sectiontitle}[1]{
+\addcontentsline{toc}{chapter}{#1}
+\setlength\topsep{0pt}
+\setlength\parskip{0pt}
+\begin{center}
+\huge{\textbf{#1}}
+\end{center}
+}
+
+\newcommand{\tunetitle}[1]{
+\setlength\topsep{0pt}
+\setlength\parskip{0pt}
+\begin{center}
+\large{\textbf{#1}}
+\end{center}
+}
+
+\newcommand{\composer}[2]{
+\setlength\topsep{0pt}
+\setlength\parskip{0pt}
+\small{#2} \hfill \small{#1}
+\vspace{2pt}
+}
+
+\newcommand{\tune}[2]{
+\tunespecial{#1}{#1}{#2}
+}
+
+\newcommand{\tunespecial}[3]{
+\melodyspecial{#1}{#2}{#3}{}
+}
+
+\newcommand{\melody}[3]{
+\melodyspecial{#1}{#1}{#2}{#3}
+}
+
+\newcommand{\melodyspecial}[4]{
+\vspace{10pt}
+\addcontentsline{toc}{section}{#1}
+\begin{minipage}{\textwidth}
+\tunetitle{#1}
+\composer{#3}{#4}
+
+\includegraphics[width=\textwidth]{"#2"}
+\end{minipage}
+}
+
+\newcommand{\comment}[1]{
+\setlength\topsep{0pt}
+\setlength\parskip{0pt}
+\begin{center}
+\small{#1\vspace{10pt}}
+\end{center}
+}
+
+\newcommand{\song}[3]{
+\songspecial{#1}{#1}{#2}{#3}
+}
+
+\newcommand{\songspecial}[4]{
+\melodyspecial{#1}{#2}{#3}{#4}
+
+\vspace{10px}
+
+{\obeylines \input{"lyrics/#2.tex"}}
+}
+
+\renewcommand{\verse}[1]{
+\begin{minipage}{\textwidth}
+\center{
+#1
+\vspace{10px}
+}
+\end{minipage}
+}
+
+\newcommand{\chorus}[1]{
+\verse{\textit{#1}}
+}
+
+\newcommand{\photo}[3][\textwidth]{
+\vspace{20pt}
+\begin{center}
+\includegraphics[width=#1]{#2}
+\end{center}
+\begin{center}
+\small{#3}
+\end{center}
+}
+
+\begin{document}
+
+\tableofcontents
+
+\pagebreak
+
+\iffalse
+\sectiontitle{Jigs}
+
+\tune{Agent Craig}{Ryan Murphy}
+
+\tune{Banish Misfortune}{}
+
+\tune{The Banshee's Wail Over The Mangle Pit}{}
+
+\tune{Blackberry Festival Footrace}{David Fisher}
+
+\tune{Car y Phoosee}{}
+\comment{Also known as the Manx Wedding Tune}
+
+\tune{Carol Gibson's Patter}{Coll Williamson}
+
+\tune{Cavers of Kirkcudbright}{Mike Vass}
+
+\tune{Crossing Warness}{Stewart Shearer}
+
+\tune{The Dusty Windowsill}{John Harling}
+
+\tune{The Famous Baravan}{Gordon Duncan}
+
+\tune{Fifty Pounds Cashback}{Fraser Shaw, Kevin O'Neill and John Somerville}
+\comment{Or to give it its full name, "A Bottle Of Vodka, Forty Embassy Red And \pounds 50 Cashback, Please"}
+
+\tune{For Reals}{Hanneke Cassel}
+
+\tune{Fox in the Flour}{Adam Dahmer}
+
+\tune{Gyn Ennym}
+
+\tune{Leslie's March}
+
+\tune{Lisnagunn}{Brendan Ring}
+
+\tune{Jig O' Beer}{Gordon Duncan}
+
+\tune{Jig of Mass Destruction}{Caerketton Ceilidh Band}
+
+\tune{Jiggery Pokerwork}{John Spiers}
+
+\tune{Jump at the Sun}{John Kirkpatrick}
+
+\tune{Maureen's Jig}{Fergie MacDonald}
+
+\tune{Mouse in the Kitchen}{Colin Farrell}
+
+\tune{The Mystery Inch}{David Kosky}
+
+\tune{Norrie's Carry-out}{Ewen Henderson, Ross Saunders and Gary Innes}
+
+\tune{One Pint Down}{Paul Sinclair}
+
+\tune{The Poetic Milkman}{Ian Hardie}
+
+\tune{The Sailor's Wife}
+
+\vspace{20pt}
+
+\tune{The Soup Dragon}{Gordon Duncan}
+
+\tune{Three Little Boats}
+
+\vspace{15pt}
+
+\tune{Victoria's Jig}{Ian Lowthian}
+
+\tune{Toast}{Coll Williamson}
+\comment{Composed on the FolkSoc Ireland trip 2017, in ode to the amount of toast we ate}
+
+\vspace{5pt}
+
+\tune{Zakynthos Jig}{Roger Wilson}
+
+\sectiontitle{Slip Jigs}
+
+\tune{Fantomenland}
+
+\vspace{10pt}
+
+\tune{Hats Off to Dodd}{Padraig Rynne}
+
+\vspace{10pt}
+
+\tune{The Witch Island}{Janos Lang}
+
+\pagebreak
+
+\sectiontitle{Reels}
+
+\tune{Baby Broon}{Patsy Reid}
+
+\tune{Ben C Niven}{Iain MacCrimmon}
+
+\tune{Bulgarian Red}{Charlie McKerron}
+
+\tune{Calgary Fiddlers' Welcome to Shetland}{Andrew Gifford}
+
+\tune{Clueless}{Gordon Duncan}
+
+\tune{The Dirty Bee}{Ross Ainslie}
+
+\tune{Dot the Dragon's Eyes}{Hanneke Cassel}
+
+\tune{Drowsy Maggie}
+
+\tune{Edinburgh Rock}{David Lim}
+
+\tune{High Drive}{Gordon Duncan}
+
+\tunespecial{Homage \`a Edmond Parizeau}{Homage a Edmond Parizeau}{Marcel Messervier}
+
+\tune{Hull's Reel}{John Morris Rankin}
+
+\tune{Hurlock's Reel}{Tom Anderson}
+
+\tune{Kitchen Criminal}{Norman Mackay/Ruairidh Macmillan}
+
+\tune{Kitchen Girl}
+
+\vspace{10pt}
+
+\tune{The Knockard Elf}{Stephen Saint}
+
+\tune{Leila's Birthday}{Hanneke Cassel}
+
+\tune{Lexie MacAskill's}{Dr. John McAskill}
+
+\tune{Maggie's Pancakes}{Stuart Morison}
+
+\tune{The Magic Fiddle}
+
+\vspace{10pt}
+
+\tune{Maverick Angels}{Brendan Ring}
+
+\tune{Miss Shepherd}{James Scott Skinner}
+
+\tune{Miss Susan Cooper}{Ronnie Cooper}
+
+\tune{Pressed for Time}{Gordon Duncan}
+
+\tune{Pumpkin's Fancy}{Terry Tully}
+
+\tune{Ramnee Ceilidh}{Gordon Duncan}
+
+\tune{The Red Haired Boy}
+
+\tune{Salty Boys}{Kris Drever}
+
+\tune{Sinfully Delicious}{Ciarán Ryan}
+
+\tune{Smelling Fresh}{James Duncan Mackenzie}
+
+\tune{Staten Island}
+
+\vspace{5pt}
+
+\tune{Superfly}{Kevin O'Neill}
+
+\tune{Taybank Shenanigans}{Ross Ainslie}
+
+\tunespecial{The Trip to Herv\'e's}{The Trip to Herve's}{Michael McGoldrick}
+
+\tune{The Trip to the Market}{Adam Sutherland}
+
+\tune{Trondheimsfjorden}
+
+\tune{Wolf in the Whiskey}{Adam Dahmer}
+
+\pagebreak
+
+\sectiontitle{Polkas}
+
+\tune{Ballydesmond}
+
+\tune{Belgian}
+
+\tune{Denis Murphy's}
+
+\tune{Egan's}
+
+\tune{For the Young}{Mairearad Green}
+
+\tunespecial{G\"ardebyl\aa ten}{Gardebylaten}
+
+\vspace{15pt}
+
+\tune{Hoy Polka}
+
+\tune{Hoy Tune}
+
+\comment{Also known as Wiggen}
+
+\tune{John Ryan's}
+
+\vspace{15pt}
+
+\tune{Mina Olen Mees (I am a Man)}
+
+\tune{No Fixed Abode}{Mairearad Green}
+
+\tune{The Tolka Polka}{Donal Lunny}
+
+\tune{The Vatersay Ambulance}{Colm O' Rua}
+
+\pagebreak
+
+\sectiontitle{Polskas}
+
+\tunespecial{Backman's L\aa t}{Backman's Lat}
+
+\vspace{12pt}
+
+\tune{Ek Lunda}{Vikste-Lasse}
+
+\tune{Festen}
+
+\tunespecial{Flodh\"ast Polska}{Flodhast Polska}
+
+\tunespecial{Glad L\aa t}{Glad Lat}{Pekkos Helmer}
+
+\tune{Hellulaulu Polska}
+
+\tune{Juringius Polska}{Magnus Juringius}
+
+\tunespecial{Kn\"ackebr\"od}{Knackebrod}
+
+\vspace{10pt}
+
+\tunespecial{Nystr\"om's Polska}{Nystrom's Polska}
+
+\tune{Polska Efter Carl-Erik Berndt}{Lasse Nilsson}
+\comment{Also known as Sl\"angpolska fr\aa n Sexdrega}
+
+\tunespecial{Sl\"angpolska efter Byss-Kalle}{Slangpolska efter Byss-Kalle}{Byss-Kalle}
+
+\pagebreak
+
+\tune{The Vankarin}{Andy May}
+\comment{Also known as Shotgun Polska}
+
+\tune{Vinden}{Jan Ekedahl}
+
+\pagebreak
+
+\sectiontitle{Slow Airs + Waltzes}
+
+\tune{Chasing daylight}{Gary Innes}
+
+\tune{Da Auld Resting Chair}{Tom Anderson}
+
+\tune{Da Greenland Man's Tune}
+
+\tune{Easter Island}{Ross Ainslie}
+
+\tune{Farewell to Uist}{Fred Morrison}
+
+\tune{Farley Bridge}{Duncan Chisholm}
+
+\tune{Flatwater Fran}{Phil Cunningham}
+
+\tune{Gillian's Waltz}{Gordon Gunn}
+
+\tune{The Lounge Bar}{Annlaug Børsheim}
+
+\tune{Maggie West's}{Mairearad Green}
+
+\tune{Mangersta Beach}{Aidan O'Rourke}
+
+\tune{Miss Rowan Davis}{Phil Cunningham}
+
+\tune{Ny Kirree fo Niaghty}
+
+\comment{Also known as The Sheep Under The Snow}
+
+\tune{Stronsay Waltz}{James "Pyo" Chalmers}
+
+\tune{Vals Efter Lasse I Lyby}{Lasse Nilsson}
+
+\pagebreak
+
+\sectiontitle{Strathspeys}
+
+\tune{Ben Williams of Tiree}{John Somerville}
+
+\tune{Calum's Road}{Donald Shaw}
+
+\tune{The Hut on Staffin Island}{Phil Cunningham}
+
+\pagebreak
+
+\sectiontitle{The Rest}
+
+\tune{L'Air Mignonne}{Simon Riopel}
+
+\tune{Bear Dance}
+
+\vspace{5pt}
+
+\tune{Jasper's Mazurka}{Jasper Stewart}
+
+\tune{The Lochaber Badger}{Fred Morrison}
+
+\tune{Mazurka dans les Petites Fleurs}{Myriam De Bonte}
+
+\tune{Mylecharaine's March}
+
+\vspace{10pt}
+
+\tune{Oarsmen Go Berserk}{Olov Johansson, Mikael Marin}
+\comment{Also known as Roddare I B\"ars\"ark}
+
+\tune{Rackenitza}
+
+\vspace{10pt}
+
+\tune{Rose of Raby}{Dave Shepherd}
+
+\fi
+
+%\photo[300px]{anglershaven.jpg}{Enjoying the last evening in The Anglers Haven with Patsy}
+
+\sectiontitle{Songs}
+
+\songspecial{\"Aling B\"aling}{Aling Baling}{}{}
+\comment{Translation: 
+
+``\"Aling B\"aling (a troll) ate up twenty people, but still he wasn't full.  He ate up a horse, drank up a swamp, then jumped over a wall, but just then his stomach burst open."  
+
+Deep lyrics indeed.}
+
+\song{Anderson's Coast}{John Warner}{}
+
+\pagebreak
+
+\song{Bold Sir Rylas}{}{}
+
+%\song{Captain Ward}{}{}  //TODO
+\pagebreak
+\song{Dundee Doag}{Harry Hagan}{Steve Inglis}
+
+\pagebreak
+
+\song{Farewell to Nova Scotia}{}{}
+
+\pagebreak
+
+\song{Fuck EUSA}{Adam Dahmer}{}
+\comment{To be finished on a Tierce de Picardie (major third).  Any resemblance to any student associations (living or deceased) is entirely \sout{deliberate} coincidental.}
+
+\pagebreak
+
+\song{Gloomy December}{Robert Burns}
+
+\pagebreak
+
+\song{Good old mountain dew}{Bascom Lamar Lunsford and Scotty Wiseman}{}
+
+\pagebreak
+
+%\song{Greenland (is a hell of a place)}{}{}
+
+%\song{Guise o Tough}{}{}
+
+%\song{Hang Me, oh Hang Me}{}{}
+
+%\song{Hanging Johnny}{}{}
+
+%\song{Hey ho nobody home}{}{}
+
+%\song{I Love my Love}{Gustav Holst}{}
+
+%\song{I’ll Fly Away}{Albert E. Brumley}{Albert E. Brumley}
+
+%\song{If I was a Blackbird}{}{}
+
+%\song{John Ball}{Sydney Carter}{Sydney Carter}
+
+%\song{Keep your feet still Geordie hinnie}{Joe Wilson}{Benjamin Hanby}
+
+%\song{Little Black Pony}{}{}
+
+%\song{Midnight Feast}{Lal Waterson, Oliver Knight}{Lal Waterson, Oliver Knight}
+
+%\song{Midnight Meat Party}{FolkSoc}{FolkSoc}
+
+%\song{The Moose Song}{Tom Payton}{}
+
+%\song{Noah’s Ark Shanty}{}{}
+
+%\song{Norlan’ Wind (The Wild Geese Song)}{Jim Reid}{Violet Jacob}
+
+%\song{Oak and Ash and Thorn}{Peter Bellamy}{Rudyard Kipling}
+
+%\song{Plov}{}{Lewis Williamson}
+
+%\song{Poor Ned}{Trevor Lucas}{Trevor Lucas}
+
+%\song{Prickle Eye Bush}{}{}
+
+%\song{Railway station porter}{}{}
+
+%\song{Rattlin’ Bog}{}{}
+
+%\song{Rocky Top}{Felice and Boudleaux Bryant}{Felice and Boudleaux Bryant}
+
+%\song{Shady Grove}{}{}
+
+%\song{The Sly Bold Rambler}{Adam Dahmer}{Adam Dahmer}
+
+%\song{Swedish Beauty Contest}{}{}
+
+%\song{Tattie jock}{}{}
+
+%\song{The Last Shanty (A Sailor Ain’t A Sailor)}{Tom Lewis}{Tom Lewis}
+
+%\song{Twelve folk days of Christmas}{}{Ian McCalman/Nick Keir}
+
+%\song{Ushag Veg Ruy}{}{}
+
+%\song{Weetabix and Cheese}{FolkSoc}{FolkSoc}
+
+%\song{Wild Mountain Thyme}{Francis McPeake 1st}{Francis McPeake 1st}
+
+%\song{Working On A Building}{}{}
+\end{document}
