@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  17 APR 2017 23:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  25 APR 2017 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -418,10 +418,10 @@ aling".png, id=9, 540.8205pt x 108.8868pt>
 File: songs/"Aling Baling".png Graphic file (type png)
 
 <use songs/"Aling Baling".png>
-Package pdftex.def Info: songs/"Aling Baling".png used on input line 432.
+Package pdftex.def Info: songs/"Aling Baling".png used on input line 428.
 (pdftex.def)             Requested size: 364.1953pt x 73.32593pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--432
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 
  []
 
@@ -430,10 +430,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 432--432
 File: songs/"Anderson's Coast".png Graphic file (type png)
 
 <use songs/"Anderson's Coast".png>
-Package pdftex.def Info: songs/"Anderson's Coast".png used on input line 439.
+Package pdftex.def Info: songs/"Anderson's Coast".png used on input line 435.
 (pdftex.def)             Requested size: 364.1953pt x 183.07793pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--439
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
 
  []
 
@@ -447,10 +447,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
 File: songs/"Bold Sir Rylas".png Graphic file (type png)
 
 <use songs/"Bold Sir Rylas".png>
-Package pdftex.def Info: songs/"Bold Sir Rylas".png used on input line 443.
+Package pdftex.def Info: songs/"Bold Sir Rylas".png used on input line 439.
 (pdftex.def)             Requested size: 364.1953pt x 146.32742pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--443
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
 
  []
 
@@ -489,10 +489,10 @@ Missing character: There is no ù in font cmr10!
 File: songs/"Dundee Doag".png Graphic file (type png)
 
 <use songs/"Dundee Doag".png>
-Package pdftex.def Info: songs/"Dundee Doag".png used on input line 447.
+Package pdftex.def Info: songs/"Dundee Doag".png used on input line 443.
 (pdftex.def)             Requested size: 364.1953pt x 145.35408pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--447
+Underfull \hbox (badness 10000) in paragraph at lines 443--443
 
  []
 
@@ -507,10 +507,10 @@ File: songs/"Farewell to Nova Scotia".png Graphic file (type png)
 
 <use songs/"Farewell to Nova Scotia".png>
 Package pdftex.def Info: songs/"Farewell to Nova Scotia".png used on input line
- 451.
+ 447.
 (pdftex.def)             Requested size: 364.1953pt x 69.577pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--451
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
 
  []
 
@@ -524,10 +524,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--4
 File: songs/"Fuck EUSA".png Graphic file (type png)
 
 <use songs/"Fuck EUSA".png>
-Package pdftex.def Info: songs/"Fuck EUSA".png used on input line 455.
+Package pdftex.def Info: songs/"Fuck EUSA".png used on input line 451.
 (pdftex.def)             Requested size: 364.1953pt x 181.53038pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--455
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
 
  []
 
@@ -580,10 +580,10 @@ Missing character: There is no ô in font cmr10!
 File: songs/"Gloomy December".png Graphic file (type png)
 
 <use songs/"Gloomy December".png>
-Package pdftex.def Info: songs/"Gloomy December".png used on input line 461.
+Package pdftex.def Info: songs/"Gloomy December".png used on input line 457.
 (pdftex.def)             Requested size: 364.1953pt x 272.70114pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--461
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
 
  []
 
@@ -593,10 +593,10 @@ File: songs/"Good old mountain dew".png Graphic file (type png)
 
 <use songs/"Good old mountain dew".png>
 Package pdftex.def Info: songs/"Good old mountain dew".png used on input line 4
-64.
+60.
 (pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 460--460
 
  []
 
@@ -605,25 +605,273 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
 
-) [13 <./songs/Good old mountain dew.png>] (./tunebook.aux) ) 
+) [13 <./songs/Good old mountain dew.png>]
+<songs/"Greenland (is a hell of a place)".png, id=66, 540.8205pt x 161.6439pt>
+File: songs/"Greenland (is a hell of a place)".png Graphic file (type png)
+
+<use songs/"Greenland (is a hell of a place)".png>
+Package pdftex.def Info: songs/"Greenland (is a hell of a place)".png used on i
+nput line 464.
+(pdftex.def)             Requested size: 364.1953pt x 108.85333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+
+ []
+
+(./lyrics/Greenland (is a hell of a place).tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+
+ []
+
+) <songs/"Guise o' Tough".png, id=67, 540.8205pt x 166.7028pt>
+File: songs/"Guise o' Tough".png Graphic file (type png)
+
+<use songs/"Guise o' Tough".png>
+Package pdftex.def Info: songs/"Guise o' Tough".png used on input line 466.
+(pdftex.def)             Requested size: 364.1953pt x 112.26007pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+
+ []
+
+[14 <./songs/Greenland (is a hell of a place).png>]
+(./lyrics/Guise o' Tough.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+
+ []
+
+[15 <./songs/Guise o' Tough.png>]) [16]
+<songs/"Hey, ho, Nobody Home".png, id=79, 540.8205pt x 106.4778pt>
+File: songs/"Hey, ho, Nobody Home".png Graphic file (type png)
+
+<use songs/"Hey, ho, Nobody Home".png>
+Package pdftex.def Info: songs/"Hey, ho, Nobody Home".png used on input line 47
+4.
+(pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+
+ []
+
+(./lyrics/Hey, ho, Nobody Home.tex) [17 <./songs/Hey, ho, Nobody Home.png>]
+<songs/"If I were a Blackbird".png, id=84, 540.8205pt x 216.81pt>
+File: songs/"If I were a Blackbird".png Graphic file (type png)
+
+<use songs/"If I were a Blackbird".png>
+Package pdftex.def Info: songs/"If I were a Blackbird".png used on input line 4
+82.
+(pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--482
+
+ []
+
+(./lyrics/If I were a Blackbird.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+
+ []
+
+) [18 <./songs/If I were a Blackbird.png>]
+<songs/"Little Black Pony".png, id=89, 540.8205pt x 161.6439pt>
+File: songs/"Little Black Pony".png Graphic file (type png)
+
+<use songs/"Little Black Pony".png>
+Package pdftex.def Info: songs/"Little Black Pony".png used on input line 494.
+(pdftex.def)             Requested size: 364.1953pt x 108.85333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+
+ []
+
+(./lyrics/Little Black Pony.tex
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [19 <./songs/Little Black Pony.png>]) [20]
+<songs/"Midnight Feast".png, id=98, 541.0614pt x 271.9761pt>
+File: songs/"Midnight Feast".png Graphic file (type png)
+
+<use songs/"Midnight Feast".png>
+Package pdftex.def Info: songs/"Midnight Feast".png used on input line 498.
+(pdftex.def)             Requested size: 364.1953pt x 183.07793pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+
+ []
+
+(./lyrics/Midnight Feast.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+
+ []
+
+) [21 <./songs/Midnight Feast.png>]
+<songs/"The Moose Song".png, id=103, 540.8205pt x 435.0654pt>
+File: songs/"The Moose Song".png Graphic file (type png)
+
+<use songs/"The Moose Song".png>
+Package pdftex.def Info: songs/"The Moose Song".png used on input line 506.
+(pdftex.def)             Requested size: 364.1953pt x 292.97932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+
+ []
+
+(./lyrics/The Moose Song.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+
+ []
+
+[22 <./songs/The Moose Song.png>]) [23]
+<songs/"Oak and Ash and Thorn".png, id=111, 540.8205pt x 106.4778pt>
+File: songs/"Oak and Ash and Thorn".png Graphic file (type png)
+
+<use songs/"Oak and Ash and Thorn".png>
+Package pdftex.def Info: songs/"Oak and Ash and Thorn".png used on input line 5
+18.
+(pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+
+ []
+
+(./lyrics/Oak and Ash and Thorn.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+
+ []
+
+[24 <./songs/Oak and Ash and Thorn.png>]) [25]
+<songs/"Plov".png, id=120, 540.8205pt x 159.2349pt>
+File: songs/"Plov".png Graphic file (type png)
+ <use songs/"Plov".png>
+Package pdftex.def Info: songs/"Plov".png used on input line 522.
+(pdftex.def)             Requested size: 364.1953pt x 107.23108pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+
+ []
+
+(./lyrics/Plov.tex) [26 <./songs/Plov.png>]
+<songs/"Poor Ned".png, id=125, 540.8205pt x 324.7332pt>
+File: songs/"Poor Ned".png Graphic file (type png)
+
+<use songs/"Poor Ned".png>
+Package pdftex.def Info: songs/"Poor Ned".png used on input line 527.
+(pdftex.def)             Requested size: 364.1953pt x 218.68004pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+
+ []
+
+(./lyrics/Poor Ned.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+
+ []
+
+[27 <./songs/Poor Ned.png>]) [28]
+<songs/"Prickle Eye Bush".png, id=133, 540.8205pt x 103.8279pt>
+File: songs/"Prickle Eye Bush".png Graphic file (type png)
+
+<use songs/"Prickle Eye Bush".png>
+Package pdftex.def Info: songs/"Prickle Eye Bush".png used on input line 530.
+(pdftex.def)             Requested size: 364.1953pt x 69.9192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--530
+
+ []
+
+(./lyrics/Prickle Eye Bush.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+
+ []
+
+) [29 <./songs/Prickle Eye Bush.png>] [30]
+<songs/"Railway station porter".png, id=141, 540.8205pt x 437.7153pt>
+File: songs/"Railway station porter".png Graphic file (type png)
+
+<use songs/"Railway station porter".png>
+Package pdftex.def Info: songs/"Railway station porter".png used on input line 
+534.
+(pdftex.def)             Requested size: 364.1953pt x 294.76381pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
+
+ []
+
+(./lyrics/Railway station porter.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+
+ []
+
+) [31 <./songs/Railway station porter.png>] [32]
+<songs/"Rattlin' Bog".png, id=150, 540.8205pt x 214.401pt>
+File: songs/"Rattlin' Bog".png Graphic file (type png)
+
+<use songs/"Rattlin' Bog".png>
+Package pdftex.def Info: songs/"Rattlin' Bog".png used on input line 538.
+(pdftex.def)             Requested size: 364.1953pt x 144.38072pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--538
+
+ []
+
+(./lyrics/Rattlin' Bog.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+
+ []
+
+[33 <./songs/Rattlin' Bog.png>]) [34]
+<songs/"Rocky Top".png, id=158, 540.8205pt x 327.1422pt>
+File: songs/"Rocky Top".png Graphic file (type png)
+
+<use songs/"Rocky Top".png>
+Package pdftex.def Info: songs/"Rocky Top".png used on input line 543.
+(pdftex.def)             Requested size: 364.1953pt x 220.30228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+
+ []
+
+(./lyrics/Rocky Top.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+
+ []
+
+[35 <./songs/Rocky Top.png>]) [36]
+<songs/"Shady Grove".png, id=166, 540.8205pt x 106.4778pt>
+File: songs/"Shady Grove".png Graphic file (type png)
+
+<use songs/"Shady Grove".png>
+Package pdftex.def Info: songs/"Shady Grove".png used on input line 546.
+(pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
+
+ []
+
+(./lyrics/Shady Grove.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+
+ []
+
+) [37 <./songs/Shady Grove.png>] (./tunebook.aux) ) 
 Here is how much of TeX's memory you used:
- 9913 strings out of 493013
- 185418 string characters out of 6136994
+ 10018 strings out of 493013
+ 188516 string characters out of 6136994
  221174 words of memory out of 5000000
- 13389 multiletter control sequences out of 15000+600000
+ 13449 multiletter control sequences out of 15000+600000
  6516 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,30p,10483b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2016/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti10.pfb>
-Output written on tunebook.pdf (13 pages, 931176 bytes).
+<c:/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
+fb>
+Output written on tunebook.pdf (37 pages, 2287195 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 193 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
