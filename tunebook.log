@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  25 APR 2017 19:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  27 APR 2017 01:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,25 +853,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--4
 
  []
 
-) [37 <./songs/Shady Grove.png>] (./tunebook.aux) ) 
+) [37 <./songs/Shady Grove.png>]
+<songs/"The Sly Bold Rambler".png, id=172, 540.8205pt x 215.8464pt>
+File: songs/"The Sly Bold Rambler".png Graphic file (type png)
+
+<use songs/"The Sly Bold Rambler".png>
+Package pdftex.def Info: songs/"The Sly Bold Rambler".png used on input line 55
+1.
+(pdftex.def)             Requested size: 364.1953pt x 145.35408pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+
+ []
+
+(./lyrics/The Sly Bold Rambler.tex
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[38 <./songs/The Sly Bold Rambler.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+) [39] [40]
+<songs/"Swedish Beauty Contest".png, id=183, 540.8205pt x 112.5003pt>
+File: songs/"Swedish Beauty Contest".png Graphic file (type png)
+
+<use songs/"Swedish Beauty Contest".png>
+Package pdftex.def Info: songs/"Swedish Beauty Contest".png used on input line 
+554.
+(pdftex.def)             Requested size: 364.1953pt x 75.75932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
+
+ []
+
+(./lyrics/Swedish Beauty Contest.tex) [41 <./songs/Swedish Beauty Contest.png>]
+(./tunebook.aux) ) 
 Here is how much of TeX's memory you used:
- 10018 strings out of 493013
- 188516 string characters out of 6136994
- 221174 words of memory out of 5000000
- 13449 multiletter control sequences out of 15000+600000
+ 10032 strings out of 493013
+ 189004 string characters out of 6136994
+ 222174 words of memory out of 5000000
+ 13457 multiletter control sequences out of 15000+600000
  6516 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,30p,10483b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
-fb>
-Output written on tunebook.pdf (37 pages, 2287195 bytes).
+<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tunebook.pdf (41 pages, 2434422 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 209 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -22,3 +22,5 @@
 \contentsline {section}{Rattlin' Bog}{33}
 \contentsline {section}{Rocky Top}{35}
 \contentsline {section}{Shady Grove}{37}
+\contentsline {section}{The Sly Bold Rambler}{38}
+\contentsline {section}{Swedish Beauty Contest}{41}
