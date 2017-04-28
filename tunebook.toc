@@ -24,3 +24,7 @@
 \contentsline {section}{Shady Grove}{37}
 \contentsline {section}{The Sly Bold Rambler}{38}
 \contentsline {section}{Swedish Beauty Contest}{41}
+\contentsline {section}{Tattie jock}{42}
+\contentsline {section}{The Last Shanty}{44}
+\contentsline {section}{The Twelve Folk Days of Christmas}{46}
+\contentsline {section}{Ushag Veg Ruy}{48}
