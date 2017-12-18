@@ -6,6 +6,22 @@
 \setcounter{secnumdepth}{-1}
 \pagestyle{plain}
 
+\usepackage[printwatermark]{xwatermark}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\newsavebox\mybox
+\savebox\mybox{\tikz[color=red,opacity=0.3]\node{DRAFT};}
+\iffalse
+\newwatermark*[
+  allpages,
+  angle=55,
+  scale=14,
+  xpos=-60,
+  ypos=45
+]{\usebox\mybox}
+\fi
+
 \newcommand{\sectiontitle}[1]{
 \addcontentsline{toc}{chapter}{#1}
 \setlength\topsep{0pt}
@@ -44,8 +60,9 @@
 
 \newcommand{\melodyspecial}[4]{
 \vspace{10pt}
-\addcontentsline{toc}{section}{#1}
 \begin{minipage}{\textwidth}
+\phantomsection
+\addcontentsline{toc}{section}{#1}
 \tunetitle{#1}
 \composer{#3}{#4}
 
@@ -77,9 +94,9 @@
 \begin{minipage}{\textwidth}
 \center{
 #1
-\vspace{10px}
 }
 \end{minipage}
+\vspace{19px}
 }
 
 \newcommand{\chorus}[1]{
@@ -87,22 +104,77 @@
 }
 
 \newcommand{\photo}[3][\textwidth]{
-\vspace{20pt}
-\begin{center}
+\vspace{10px}
+\center{
 \includegraphics[width=#1]{#2}
-\end{center}
-\begin{center}
+
 \small{#3}
-\end{center}
+}
+}
+
+\newcommand{\cocktail}[4]{
+\vspace{10px}
+\center{
+\includegraphics[width=30px]{cocktail.png}
+
+\textbf{\large{#1}}
+}
+
+\center{
+\normalsize{{#2}}
+}
+
+\center{
+\small{\textit{Serving Instructions:} #3}
+}
+\vspace{10px}
+\center{
+\small{#4}
+}
+}
+
+\newcommand{\maintitle}[1]{
+\center{\fontfamily{phv}{\textbf{\fontsize{32.5px}{32.5px}\selectfont #1}}}
 }
 
 \begin{document}
+\thispagestyle{empty}
+\vspace*{18px}
+\maintitle{The Folksoc Collection}
 
-\tableofcontents
+\vspace{24px}
+
+\includegraphics[width=325px]{unilogo.png}
+
+\vspace{7px}
+
+\maintitle{Book 3}
+\vspace{13px}
+\maintitle{December 2017}
 
 \pagebreak
 
+\thispagestyle{empty}
+\hspace{0pt}
+\vfill
+\begin{flushleft}
+1st edition 18/12/17
+\end{flushleft}
+\vfill
+\hspace{0pt}
+\pagebreak
+
+\pagenumbering{roman}
+\tableofcontents
+\cleardoublepage
+\pagenumbering{arabic}
+
+\pagebreak
+
+\newpage\null\thispagestyle{empty}\newpage
+
 \sectiontitle{Jigs}
+\setcounter{page}{1}
 
 \tune{Agent Craig}{Ryan Murphy}
 
@@ -113,7 +185,7 @@
 \tune{Blackberry Festival Footrace}{David Fisher}
 
 \tune{Car y Phoosee}{}
-\comment{Also known as the Manx Wedding Tune}
+\comment{Also known as ``The Manx Wedding Tune"}
 
 \tune{Carol Gibson's Patter}{Coll Williamson}
 
@@ -121,9 +193,13 @@
 
 \tune{Crossing Warness}{Stewart Shearer}
 
+\photo[230px]{ferrysession.jpg}{Crossing \sout{Warness} the Pentland Firth to Orkney with a traditional ferry session}
+
 \tune{The Dusty Windowsill}{John Harling}
 
 \tune{The Famous Baravan}{Gordon Duncan}
+
+\comment{{\copyright} Grian Music}
 
 \tune{Fifty Pounds Cashback}{Fraser Shaw, Kevin O'Neill and John Somerville}
 \comment{Or to give it its full name, ``A Bottle Of Vodka, Forty Embassy Red And \pounds 50 Cashback, Please"}
@@ -136,11 +212,13 @@
 
 \tune{Leslie's March}
 
-\tune{Lisnagunn}{Brendan Ring}
+\tune{Lisnagun Jig}{Brendan Ring}
 
-\tune{Jig O' Beer}{Gordon Duncan}
+\tune{Jig o' Beer}{Gordon Duncan}
 
-\tune{Jig of Mass Destruction}{Caerketton Ceilidh Band}
+\comment{{\copyright} Grian Music}
+
+\tune{Jig of Mass Destruction}{Bryan McAlister}
 
 \tune{Jiggery Pokerwork}{John Spiers}
 
@@ -166,24 +244,35 @@
 
 \tune{Three Little Boats}
 
-\vspace{15pt}
+\tune{Toast}{Coll Williamson}
+
+\comment{Composed on the FolkSoc Ireland trip 2017, in ode to the amount of toast we ate}
+
+\photo[350px]{toast2.jpg}{Cat, Hamish and Paul enjoying the classic FolkSoc-at-3am-in-Ireland meal}
+
+\tune{Together Again}{Paul Sinclair}
+
+\vspace{5px}
 
 \tune{Victoria's Jig}{Ian Lowthian}
 
-\tune{Toast}{Coll Williamson}
-\comment{Composed on the FolkSoc Ireland trip 2017, in ode to the amount of toast we ate}
-
-\vspace{5pt}
-
 \tune{Zakynthos Jig}{Roger Wilson}
+
+\vspace{10px}
+
+\photo[330px]{offsession.jpg}{Scott earns a round of applause in Orkney, probably for deciding to not sing Caledonia}
 
 \sectiontitle{Slip Jigs}
 
-\tune{Fantomenland}
+\tune{Hats Off to Dodd}{Padraig Rynne}
 
 \vspace{10pt}
 
-\tune{Hats Off to Dodd}{Padraig Rynne}
+\tune{The Grinder}
+
+\vspace{10pt}
+
+\tune{Paddy be Easy}
 
 \vspace{10pt}
 
@@ -201,7 +290,11 @@
 
 \tune{Calgary Fiddlers' Welcome to Shetland}{Andrew Gifford}
 
+\comment{{\copyright} MCPS/PRS}
+
 \tune{Clueless}{Gordon Duncan}
+
+\comment{{\copyright} Grian Music}
 
 \tune{The Dirty Bee}{Ross Ainslie}
 
@@ -209,13 +302,17 @@
 
 \tune{Drowsy Maggie}
 
+\photo[260px]{drowsyfolksoc.jpg}{Drowsy FolkSoc}
+
 \vspace{10pt}
 
 \tune{Edinburgh Rock}{David Lim}
 
 \tune{High Drive}{Gordon Duncan}
 
-\tunespecial{Homage \`a Edmond Parizeau}{Homage a Edmond Parizeau}{Marcel Messervier}
+\comment{{\copyright} Grian Music}
+
+\tunespecial{Homage \`a Edmond Parizeau}{Homage a Edmond Parizeau}{}
 
 \tune{Hull's Reel}{John Morris Rankin}
 
@@ -229,15 +326,17 @@
 
 \tune{The Knockard Elf}{Stephen Saint}
 
+\photo[260px]{orkneyswim.jpg}{``Ok Mr O'Seidon, please identify which of these mad folkies stole your seashells"}
+
 \tune{Leila's Birthday}{Hanneke Cassel}
 
-\tune{Lexie MacAskill's}{Dr. John McAskill}
+\tune{Lexy MacAskill's}{Dr. John MacAskill}
 
 \tune{Maggie's Pancakes}{Stuart Morison}
 
 \tune{The Magic Fiddle}
 
-\vspace{10pt}
+\photo[250px]{fiddlebodhran.jpg}{Joan and Paul trying to remember how the tune actually goes...}
 
 \tune{Maverick Angels}{Brendan Ring}
 
@@ -247,17 +346,27 @@
 
 \tune{Pressed for Time}{Gordon Duncan}
 
+\comment{{\copyright} Grian Music}
+
 \tune{Pumpkin's Fancy}{Terry Tully}
+
+\photo[290px]{suff.jpg}{Tunes by the cathedral at St Andrews University Folk Festival 2017}
 
 \tune{Ramnee Ceilidh}{Gordon Duncan}
 
-\vspace{5pt}
+\comment{{\copyright} Grian Music}
 
 \tune{The Red Haired Boy}
 
+\photo[230px]{albumcover.jpg}{Rowan, Adam, Rachael and Oisin accidentally create a perfect album cover}
+
+\vspace{5pt}
+
 \tune{Salty Boys}{Kris Drever}
 
-\tune{Sinfully Delicious}{Ciarán Ryan}
+\comment{{\copyright} Reveal Publishing}
+
+\tune{Sinfully Delicious}{Ciar\'{a}n Ryan}
 
 \tune{Smelling Fresh}{James Duncan Mackenzie}
 
@@ -275,7 +384,7 @@
 
 \tune{Trondheimsfjorden}
 
-\vspace{20pt}
+\vspace{2pt}
 
 \tune{Wolf in the Whiskey}{Adam Dahmer}
 
@@ -285,7 +394,11 @@
 
 \tune{Ballydesmond}
 
+\comment{Also known as ``The Ballydesmond Polka No. 1"}
+
 \tune{Belgian}
+
+\vspace{10pt}
 
 \tune{Denis Murphy's}
 
@@ -293,7 +406,7 @@
 
 \tune{Finskapolka}
 
-\comment{Also known as The Hoy Polka}
+\comment{Also known as ``The Hoy Polka"}
 
 \tune{For the Young}{Mairearad Green}
 
@@ -301,17 +414,27 @@
 
 \tune{John Ryan's}
 
-\tune{Mina Olen Mees (I am a Man)}
+\comment{Also known as ``The Armagh Polka"}
 
-\tune{No Fixed Abode}{Mairearad Green}
+\tune{Mina Olen Mees}
+
+\comment{Also known as ``I am a Man"}
+
+\tune{No Fixed Abode}{Padraig O'Neill, Gillian Frame}
+
+\vspace{10px}
 
 \tune{The Tolka Polka}{Donal Lunny}
 
+\comment{{\copyright} Donal Lunny Music (DLM)}
+
 \tune{The Vatersay Ambulance}{Colm O' Rua}
+
+\vspace{10px}
 
 \tune{Wiggen}
 
-\comment{Also known as The Hoy Tune}
+\comment{Also known as ``The Hoy Tune"}
 
 \pagebreak
 
@@ -323,15 +446,27 @@
 
 \tune{Ek Lunda}{Vikste-Lasse}
 
+\comment{Also known as ``Eklundapolska No. 3"}
+
+\photo[250px]{masquerade.jpg}{Ralph, Paul and Eamon looking the part for a masquerade ceilidh}
+
+\tune{Fantomenland}
+
+\vspace{10pt}
+
 \tune{Festen}
 
-\tunespecial{Glad L\aa t}{Glad Lat}{Pekkos Helmer}
+\vspace{10pt}
+
+\tunespecial{Glal\aa ten}{Glad Lat}{Pekkos Helmer}
 
 \tune{Hellulaulu Polska}
 
 \vspace{15pt}
 
 \tunespecial{Hullu Sakari}{Hullu Sakari}
+
+\vspace{20pt}
 
 \tune{Juringius Polska}{Magnus Juringius}
 
@@ -340,9 +475,9 @@
 \vspace{15pt}
 
 \tune{Polska Efter Carl-Erik Berndt}{Lasse Nilsson}
-\comment{Also known as Sl\"angpolska fr\aa n Sexdrega}
+\comment{Also known as ``Sl\"angpolska fr\aa n Sexdrega"}
 
-\tunespecial{Polka Fr\aa n M\"ork\"o}{Polska Fran Morko}{Anders Gustaf Andersson}
+\tunespecial{Polska Fr\aa n M\"ork\"o}{Polska Fran Morko}{Anders Gustaf Andersson}
 
 \tune{Signepolskan}
 
@@ -351,7 +486,7 @@
 \tunespecial{Sl\"angpolska efter Byss-Kalle}{Slangpolska efter Byss-Kalle}{Byss-Kalle}
 
 \tune{The Vankarin}{Andy May}
-\comment{Also known as Shotgun Polska}
+\comment{Also known as ``Shotgun Polska"}
 
 \tune{Vinden}{Jan Ekedahl}
 
@@ -359,11 +494,9 @@
 
 \sectiontitle{Slow Airs + Waltzes}
 
-\tune{Chasing daylight}{Gary Innes}
-
 \tune{Da Auld Resting Chair}{Tom Anderson}
 
-\tune{Da Greenland Man's Tune}
+\tune{Chasing Daylight}{Gary Innes}
 
 \tune{Easter Island}{Ross Ainslie}
 
@@ -371,9 +504,19 @@
 
 \tune{Farley Bridge}{Duncan Chisholm}
 
+\comment{www.duncanchisholm.com}
+
 \tune{Flatwater Fran}{Phil Cunningham}
 
 \tune{Gillian's Waltz}{Gordon Gunn}
+
+\comment{{\copyright} Grian Music}
+
+\tune{Da Greenland Man's Tune}
+
+\vspace{10px}
+
+\photo[340px]{bigorkneysesh3.jpg}{Mega hostel session in Orkney, joined by St Andrews FolkSoc}
 
 \tune{The Lounge Bar}{Annlaug Børsheim}
 
@@ -383,13 +526,15 @@
 
 \tune{Miss Rowan Davis}{Phil Cunningham}
 
-\tune{Ny Kirree fo Niaghty}
+\tune{Kirree fo Niaghtey}
 
-\comment{Also known as The Sheep Under The Snow}
+\comment{Also known as ``The Sheep Under The Snow"}
 
 \tune{Stronsay Waltz}{James ``Pyo" Chalmers}
 
-\tune{Vals Efter Lasse I Lyby}{Lasse Nilsson}
+\tune{Vals Efter Lasse i Lyby}{Lasse Nilsson}
+
+\photo[260px]{dualwhistles.jpg}{Oisin finds the perfect person to duet with: himself}
 
 \pagebreak
 
@@ -401,6 +546,10 @@
 
 \tune{The Hut on Staffin Island}{Phil Cunningham}
 
+\vspace{10px}
+
+\photo[310px]{tallships.jpg}{Taking a break from tunes to explore the tall ships at the Orkney Folk Festival}
+
 \pagebreak
 
 \sectiontitle{The Rest}
@@ -409,7 +558,9 @@
 
 \vspace{10pt}
 
-\tune{Jasper's Mazurka}{Jasper Stewart}
+\tune{Ethnica}{Jasper Stewart}
+
+\comment{Also known as ``Jasper's Mazurka"}
 
 \tune{The Lochaber Badger}{Fred Morrison}
 
@@ -419,17 +570,18 @@
 
 \vspace{10pt}
 
-\tune{Oarsmen Go Berserk}{Olov Johansson, Mikael Marin}
-\comment{Also known as Roddare I B\"ars\"ark}
-
 \tune{Rackenitza}
 
-\vspace{10pt}
+\tunespecial{Roddare i B\"ars\"ark}{Oarsmen Go Berserk}{Olov Johansson, Mikael Marin}
+\comment{Also known as ``Oarsmen Go Berserk"}
+
+\vspace{1pt}
 
 \tune{Rose of Raby}{Dave Shepherd}
 
+\photo[300px]{anglershaven.jpg}{Enjoying the last evening in The Anglers Haven with Patsy}
+
 \pagebreak
-%\photo[300px]{anglershaven.jpg}{Enjoying the last evening in The Anglers Haven with Patsy}
 
 \sectiontitle{Songs}
 
@@ -444,6 +596,8 @@ Deep, meaningful lyrics indeed.}
 
 \song{Anderson's Coast}{John Warner}{}
 
+\photo[240px]{intenseeamon.jpg}{Who knows what deep thoughts Eamon is thinking...}
+
 \pagebreak
 
 \song{The Ballad of the Orphir Taxi}{Robert Burns}{FolkSoc}
@@ -456,7 +610,11 @@ Deep, meaningful lyrics indeed.}
 
 \song{Bold Sir Rylas}{}{}
 
+\pagebreak
+
 \song{Captain Ward}{Peter Bellamy}
+
+\photo[230px]{ceilidhdolla.jpg}{Coll showing off his style}
 
 \pagebreak
 
@@ -466,6 +624,8 @@ Deep, meaningful lyrics indeed.}
 
 \song{Farewell to Nova Scotia}{}{}
 
+\photo[280px]{openingwine.jpg}{Scott demonstrating the best way of opening a bottle of wine}
+
 \pagebreak
 
 \song{Fuck EUSA}{Adam Dahmer}{}
@@ -473,11 +633,15 @@ Deep, meaningful lyrics indeed.}
 
 \pagebreak
 
-\song{The Georgemas Junction Blues}{Johnny Cash}{FolkSoc}
+\song{The Georgemas Junction Blues}{Johnny Cash}{Oisin Plumb}
 
-\comment{The Far North Line goes from Inverness through to Georgemas Junction, Thurso, then back to Georgemas and on to Wick.  It so happened that while taking this train up to Thurso for the 2014 FolkSoc Orkney Folk Festival trip, the traffic signals at all the level crossings on the route were down, meaning that the train had to travel at 5 mph through all 136 of them...  Upon arriving in Georgemas Junction, the train then decided to head straight to Wick, kicking all of FolkSoc out to wait for a bus to Thurso.  Georgemas Junction is not generally regarded as being a great hive of activity and excitement.  Thus, this masterpiece was created.
+\comment{The Far North Line goes from Inverness through to Georgemas Junction, Thurso, then back to Georgemas and on to Wick.  It so happened that while taking this train up to Thurso for the 2014 FolkSoc Orkney Folk Festival trip, the traffic signals at all the level crossings on the route were down, meaning that the train had to travel at 5 mph through all 136 of them...  }
+
+\comment{Upon arriving in Georgemas Junction, the train then decided to head straight to Wick, kicking all of FolkSoc out to wait for a bus to Thurso.  Georgemas Junction is not generally regarded as being a great hive of activity and excitement.  Thus, this masterpiece was created.
 
 To be played with a musical interlude between verses three and four, ideally of electric guitar, drum kit and heckling of irate passengers.}
+
+\photo[300px]{roadtoerrogal.jpg}{Mari posing during a hike to the top of snowy Errigal}
 
 \pagebreak
 
@@ -485,19 +649,25 @@ To be played with a musical interlude between verses three and four, ideally of 
 
 \pagebreak
 
-\song{Good old mountain dew}{Bascom Lamar Lunsford and Scotty Wiseman}{}
+\song{Greenland (is a hell of a place)}{}{}
 
 \pagebreak
 
-\song{Greenland (is a hell of a place)}{}{}
+\song{Good Old Mountain Dew}{Bascom Lamar Lunsford and Scotty Wiseman}{}
+
+\photo[290px]{freshersfair.jpg}{Alison hard at work recruiting new members at the Freshers' Fair}
 
 \pagebreak
 
 \song{Guise o' Tough}{}{}
 
+\photo[330px]{accordionstack.jpg}{It was a bit of a squeeze, but we got Coll, Paul and Scott all on one chair}
+
 \pagebreak
 
 \song{Hang Me, Oh Hang Me}{}{}
+
+\photo[290px]{paint2.jpg}{Repainting the FolkSoc room marigold yellow, two years before EUSA stole it and turned it both literally and figuratively grey}
 
 \pagebreak
 
@@ -505,9 +675,15 @@ To be played with a musical interlude between verses three and four, ideally of 
 
 \pagebreak
 
-\song{Hey, ho, Nobody Home}{}{}
+\song{Hey, Ho, Nobody Home}{}{}
 
 \comment{To be sung as a round, each new line starting every 2 bars.}
+
+\vspace{10px}
+
+\cocktail{The Linguistician}{1 glass of cola (preferably Coca-Cola)\\
+1 measure of sambuca (or more, if need be)\\
+1 liberal splash of grenadine}{Mix thoroughly, and serve cold. Consume before the cola has lost its sparkle. When toasting, every salute must begin with the phrase `(To) the Linguistician' in either Gaelic or English, so as to honour both the drink and the hero for whom it was named. Whosoever disregards this custom may be punished with looks of incredulity and/or sundry multilingual curses.}{The drink is named in honour of the grandfatherly but ribald Gaelic scholar, wine aficionado, and folk music enthusiast, Iain MacAonghuis, who often insisted to FolkSoc members that he was not - as they claimed - a `linguist' (that is, a student of linguistic theory) but rather a `linguistician' (that is, a practitioner of languages).}
 
 \pagebreak
 
@@ -521,47 +697,61 @@ To be played with a musical interlude between verses three and four, ideally of 
 
 \song{Keep Your Feet Still Geordey Hinny}{Joe Wilson}{Benjamin Hanby}
 
+\photo[330px]{officialorkneysession.jpg}{Open air session at the Orkney Folk Festival}
+
 \pagebreak
 
 \song{The Last Shanty}{Tom Lewis}
 
 \comment{Also known as ``A Sailor Ain't A Sailor"}
 
+\photo[330px]{hownottoburrito.jpg}{Paul demonstrates how not to eat a burrito}
+
 \pagebreak
 
 \song{Little Black Pony}{}{}
+
+\photo[250px]{standingstones.jpg}{Alice, Adam, Eilidh, Eva and Anita find a five thousand year old hiding spot}
 
 \pagebreak
 
 \song{Midnight Feast}{Lal Waterson, Oliver Knight}{}
 
+\photo[300px]{lewisandrowan.jpg}{Tiny Rowan looks up in wonderment at Giant Lewis}
+
 \pagebreak
 
-\song{Midnight Meat Party}{FolkSoc}
+\song{Midnight Meat Party}{Lewis Williamson, Cat Knott, et al.}
 
-\comment{Written on the final evening of the FolkSoc week in Ireland 2014 during the titular midnight meat party, where \~7 people finished off more meat than would feed twice as many hungry students.  
+\comment{Written on the final evening of the FolkSoc week in Ireland 2014 during the titular midnight meat party, where {\raise.17ex\hbox{$\scriptstyle\sim$}}7 people finished off more meat than would feed twice as many hungry students.  
 
 The original plan for writing the riff was to find a bible, take the first letter of the first word on every page, keep only those which corresponded to a note, then use those notes in that order to write a melody.  As it turned out, the house we were renting had no bible anywhere, so we made do with a copy of Johnny Cash's autobiography instead; the next closest thing after all!  The melody of the song itself was then composed to fit around the riff, which is played throughout.  
 
 The infamous DJ Mo mentioned in the song is a local Donegal DJ who attended one of the sessions we played.  Every time he passed by, he would insist on shouting ``Knowing me, knowing you, Edinburgh!", to which we'd have to reply ``Aha, aha", a la ABBA: hence the chorus.}
 
+\photo[290px]{noroomintheinn.jpg}{``That's what you get for playing Scotland the Brave!"}
+
 \pagebreak
 
 \song{The Moose Song}{Tom Payton}{}
+
+\photo[330px]{ireland2015.jpg}{The brave survivors of the 2015 FolkSoc trip to Ireland}
 
 \pagebreak
 
 \song{Noah's Ark Shanty}{}{}
 
+\cocktail{Death to EUSA}{1 glass tonic water\\
+1 measure vodka (or more, as needed)\\
+1 generous splash of lime cordial\\
+Optional: a garnish of sliced lime\\
+1 measure of undying remembrance of FolkSoc's mistreatment at the hands of the cruel EUSArper}{Mix ingredients deliberately, while staring pointedly at the glass and meditating on man's wanton mistreatment of his fellow man. Having considered human suffering and its perpetrators, think then on the - godwilling - inevitable triumph of good over evil, and find grim solace in the thought that future generations of FolkSoc might be born into a world free of tyranny, and see the restoration of their people's ancestral lands. Distil and concentrate these meditations and feelings into a potent elixir of equal parts hope and rage, and proclaim in a non-rhotic accent, in the hearing of all assembled, and in sight of whatever gods there may be: `Fuck YOU, sir!'}{The drink is named in `honour' of the Edinburgh University Students Association who, over the course of two decades of political wrangling, broken agreements, and false promises, succeeded in confiscating the room granted to FolkSoc by the university.}
+
 \pagebreak
 
 \song{Norlan' Wind}{Jim Reid}{Violet Jacob}
 
-\comment{Also known as "The Wild Geese Song"}
-
-\pagebreak
-
-\song{Oak and Ash and Thorn}{Peter Bellamy}{Rudyard Kipling}
+\comment{Also known as ``The Wild Geese Song"}
 
 \pagebreak
 
@@ -569,27 +759,39 @@ The infamous DJ Mo mentioned in the song is a local Donegal DJ who attended one 
 
 \comment{To be sung as a round, each new line starting every 8 bars.
 
-Originally a folk song with the words "Lie lie lie lie", the words got replaced by FolkSoc in honour of Lewis' weekend away classic, the Uzbek meal plov (lamb, carrots, rice, onions, garlic, and cumin).}
+Originally a folk song with the words ``Lie lie lie lie", the words got replaced by FolkSoc in honour of Lewis's weekend away classic, the Uzbek meal plov (lamb, carrots, rice, onions, garlic, and cumin).}
+
+\pagebreak
+
+\song{Oak and Ash and Thorn}{Peter Bellamy}{Rudyard Kipling}
+
+\photo[330px]{bowdancing.jpg}{Zoe demonstrates how to sword dance on Shapinsay}
 
 \pagebreak
 
 \song{Poor Ned}{Trevor Lucas}
 
+\photo[330px]{tractor.jpg}{When in Shapinsay, do as the Shapinsonians do}
+
 \pagebreak
 
 \song{Prickle Eye Bush}{}{}
 
+\photo[330px]{chillysonggroupnethybridge.jpg}{Sleeping bags and blankets needed during a chilly song group at the 2014 weekend away}
+
 \pagebreak
 
-\song{Railway station porter}{}{}
+\song{Railway Station Porter}{}{}
+
+\photo[310px]{mattygroves.png}{Singing songs round the campfire all night long in Orkney}
+
+\photo[310px]{cannon.jpg}{``All right, I promise not to sing Rattlin' Bog again this trip!"}
 
 \pagebreak
 
 \song{Rattlin' Bog}{}{}
 
-\pagebreak
-
-\song{Rocky Top}{Felice and Boudleaux Bryant}
+\photo[300px]{lasertag.jpg}{After spending a week living together, sometimes you just want to shoot your friends with a laser!}
 
 \pagebreak
 
@@ -599,17 +801,27 @@ Originally a folk song with the words "Lie lie lie lie", the words got replaced 
 
 \song{The Sly Bold Rambler}{Adam Dahmer}
 
+\photo[270px]{president.jpg}{Adam modelling the latest in Scottish fashion}
+
 \pagebreak
 
 \song{Swedish Beauty Contest}{}{}
 
+\comment{English translation thanks to Edvin Ekman.}
+
+\photo[330px]{suff2.jpg}{FolkSoc at the University of St Andrews Folk Festival 2017}
+
 \pagebreak
 
-\song{Tattie jock}{}{}
+\song{Tattie Jock}{}{}
+
+\photo[310px]{scott.jpg}{Scott serenading the pub crowds at the Orkney Folk Festival session}
+
+\photo[310px]{lab.jpg}{Oisin, Rachael and Adam explore the science of folk music (and thermonuclear physics)}
 
 \pagebreak
 
-\song{The Twelve Folk Days of Christmas}{Trad}{Ian McCalman/Nick Keir}
+\song{The Twelve Folk Days of Christmas}{}{Ian McCalman/Nick Keir}
 
 \comment{It's currently tradition to sing this at every FolkSoc Christmas meal.}
 
@@ -617,18 +829,26 @@ Originally a folk song with the words "Lie lie lie lie", the words got replaced 
 
 \song{Ushag Veg Ruy}{}{}
 
+\photo[330px]{christmasband.jpg}{FolkSoc's brass(ish) Christmas band prepares for carolling}
+
 \pagebreak
 
 \song{Weetabix and Cheese}{FolkSoc}
 
 \comment{Written on the FolkSoc week in Ireland in January 2016, filled with many in-jokes that no one will understand by the time this goes to print.  I will give one pro tip though: don't mix Weetabix, milk, blackcurrant diluting juice, and cheese.  That was not my finest hour.}
 
+\photo[330px]{activityawards.jpg}{Paul, Loris, Siggy, and Cat play for the EUSA Activity Awards, where FolkSoc won `Best Event' for the first Scottish Universities Folk Festival, and Oisin won `Star Committee Member'}
+
 \pagebreak
 
 \song{Wild Mountain Thyme}{Francis McPeake 1st}
 
+\photo[280px]{eyes.jpg}{``Eye-eye, Captain Morgan!"}
+
 \pagebreak
 
-\song{Working On A Building}{}{}
+\song{Working on a Building}{}{}
+
+\photo[330px]{byepiano.jpg}{How many folkies does it take to (literally) throw out a piano?}
 
 \end{document}

@@ -1,176 +1,178 @@
-\contentsline {chapter}{Jigs}{6}
-\contentsline {section}{Agent Craig}{6}
-\contentsline {section}{Banish Misfortune}{6}
-\contentsline {section}{The Banshee's Wail Over The Mangle Pit}{6}
-\contentsline {section}{Blackberry Festival Footrace}{7}
-\contentsline {section}{Car y Phoosee}{7}
-\contentsline {section}{Carol Gibson's Patter}{8}
-\contentsline {section}{Cavers of Kirkcudbright}{8}
-\contentsline {section}{Crossing Warness}{9}
-\contentsline {section}{The Dusty Windowsill}{9}
-\contentsline {section}{The Famous Baravan}{10}
-\contentsline {section}{Fifty Pounds Cashback}{10}
-\contentsline {section}{For Reals}{11}
-\contentsline {section}{Fox in the Flour}{11}
-\contentsline {section}{Gyn Ennym}{12}
-\contentsline {section}{Leslie's March}{13}
-\contentsline {section}{Lisnagunn}{13}
-\contentsline {section}{Jig O' Beer}{13}
-\contentsline {section}{Jig of Mass Destruction}{14}
-\contentsline {section}{Jiggery Pokerwork}{14}
-\contentsline {section}{Jump at the Sun}{15}
-\contentsline {section}{Maureen's Jig}{15}
-\contentsline {section}{Mouse in the Kitchen}{15}
-\contentsline {section}{The Mystery Inch}{16}
-\contentsline {section}{Norrie's Carry-out}{16}
-\contentsline {section}{One Pint Down}{16}
-\contentsline {section}{The Poetic Milkman}{17}
-\contentsline {section}{The Sailor's Wife}{17}
-\contentsline {section}{The Soup Dragon}{18}
-\contentsline {section}{Three Little Boats}{18}
-\contentsline {section}{Victoria's Jig}{19}
-\contentsline {section}{Toast}{19}
-\contentsline {section}{Zakynthos Jig}{20}
-\contentsline {chapter}{Slip Jigs}{20}
-\contentsline {section}{Fantomenland}{21}
-\contentsline {section}{Hats Off to Dodd}{21}
-\contentsline {section}{The Witch Island}{21}
-\contentsline {chapter}{Reels}{22}
-\contentsline {section}{Baby Broon}{22}
-\contentsline {section}{Ben C Niven}{22}
-\contentsline {section}{Bulgarian Red}{23}
-\contentsline {section}{Calgary Fiddlers' Welcome to Shetland}{23}
-\contentsline {section}{Clueless}{23}
-\contentsline {section}{The Dirty Bee}{24}
-\contentsline {section}{Dot the Dragon's Eyes}{24}
-\contentsline {section}{Drowsy Maggie}{25}
-\contentsline {section}{Edinburgh Rock}{25}
-\contentsline {section}{High Drive}{26}
-\contentsline {section}{Homage \`a Edmond Parizeau}{26}
-\contentsline {section}{Hull's Reel}{27}
-\contentsline {section}{Hurlock's Reel}{27}
-\contentsline {section}{Kitchen Criminal}{28}
-\contentsline {section}{Kitchen Girl}{28}
-\contentsline {section}{The Knockard Elf}{29}
-\contentsline {section}{Leila's Birthday}{29}
-\contentsline {section}{Lexie MacAskill's}{30}
-\contentsline {section}{Maggie's Pancakes}{30}
-\contentsline {section}{The Magic Fiddle}{31}
-\contentsline {section}{Maverick Angels}{31}
-\contentsline {section}{Miss Shepherd}{32}
-\contentsline {section}{Miss Susan Cooper}{32}
-\contentsline {section}{Pressed for Time}{32}
-\contentsline {section}{Pumpkin's Fancy}{33}
-\contentsline {section}{Ramnee Ceilidh}{34}
-\contentsline {section}{The Red Haired Boy}{35}
-\contentsline {section}{Salty Boys}{35}
-\contentsline {section}{Sinfully Delicious}{36}
-\contentsline {section}{Smelling Fresh}{36}
-\contentsline {section}{Staten Island}{36}
-\contentsline {section}{Superfly}{37}
-\contentsline {section}{Taybank Shenanigans}{37}
-\contentsline {section}{The Trip to Herv\'e's}{38}
-\contentsline {section}{The Trip to the Market}{38}
-\contentsline {section}{Trondheimsfjorden}{38}
-\contentsline {section}{Wolf in the Whiskey}{39}
-\contentsline {chapter}{Polkas}{40}
-\contentsline {section}{Ballydesmond}{40}
-\contentsline {section}{Belgian}{40}
-\contentsline {section}{Denis Murphy's}{40}
-\contentsline {section}{Egan's}{40}
-\contentsline {section}{Finskapolka}{41}
-\contentsline {section}{For the Young}{41}
-\contentsline {section}{G\"ardebyl\r aten}{41}
-\contentsline {section}{John Ryan's}{42}
-\contentsline {section}{Mina Olen Mees (I am a Man)}{42}
-\contentsline {section}{No Fixed Abode}{42}
-\contentsline {section}{The Tolka Polka}{42}
-\contentsline {section}{The Vatersay Ambulance}{42}
-\contentsline {section}{Wiggen}{42}
-\contentsline {chapter}{Polskas}{44}
-\contentsline {section}{Backman's L\r at}{44}
-\contentsline {section}{Ek Lunda}{44}
-\contentsline {section}{Festen}{44}
-\contentsline {section}{Glad L\r at}{45}
-\contentsline {section}{Hellulaulu Polska}{45}
-\contentsline {section}{Hullu Sakari}{45}
-\contentsline {section}{Juringius Polska}{46}
-\contentsline {section}{Nystr\"om's Polska}{46}
-\contentsline {section}{Polska Efter Carl-Erik Berndt}{46}
-\contentsline {section}{Polka Fr\r an M\"ork\"o}{47}
-\contentsline {section}{Signepolskan}{47}
-\contentsline {section}{Sl\"angpolska efter Byss-Kalle}{47}
-\contentsline {section}{The Vankarin}{48}
-\contentsline {section}{Vinden}{48}
-\contentsline {chapter}{Slow Airs + Waltzes}{49}
-\contentsline {section}{Chasing daylight}{49}
-\contentsline {section}{Da Auld Resting Chair}{49}
-\contentsline {section}{Da Greenland Man's Tune}{49}
-\contentsline {section}{Easter Island}{50}
-\contentsline {section}{Farewell to Uist}{50}
-\contentsline {section}{Farley Bridge}{50}
-\contentsline {section}{Flatwater Fran}{50}
-\contentsline {section}{Gillian's Waltz}{51}
-\contentsline {section}{The Lounge Bar}{51}
-\contentsline {section}{Maggie West's}{52}
-\contentsline {section}{Mangersta Beach}{52}
-\contentsline {section}{Miss Rowan Davis}{53}
-\contentsline {section}{Ny Kirree fo Niaghty}{53}
-\contentsline {section}{Stronsay Waltz}{53}
-\contentsline {section}{Vals Efter Lasse I Lyby}{54}
-\contentsline {chapter}{Strathspeys}{55}
-\contentsline {section}{Ben Williams of Tiree}{55}
-\contentsline {section}{Calum's Road}{55}
-\contentsline {section}{The Hut on Staffin Island}{55}
-\contentsline {chapter}{The Rest}{57}
-\contentsline {section}{Bear Dance}{57}
-\contentsline {section}{Jasper's Mazurka}{57}
-\contentsline {section}{The Lochaber Badger}{57}
-\contentsline {section}{Mazurka dans les Petites Fleurs}{57}
-\contentsline {section}{Mylecharaine's March}{57}
-\contentsline {section}{Oarsmen Go Berserk}{58}
-\contentsline {section}{Rackenitza}{58}
-\contentsline {section}{Rose of Raby}{59}
-\contentsline {chapter}{Songs}{60}
-\contentsline {section}{\"Aling B\"aling}{60}
-\contentsline {section}{Anderson's Coast}{61}
-\contentsline {section}{The Ballad of the Orphir Taxi}{63}
-\contentsline {section}{Bold Sir Rylas}{65}
-\contentsline {section}{Captain Ward}{66}
-\contentsline {section}{Dundee Doag}{69}
-\contentsline {section}{Farewell to Nova Scotia}{71}
-\contentsline {section}{Fuck EUSA}{72}
-\contentsline {section}{The Georgemas Junction Blues}{74}
-\contentsline {section}{Gloomy December}{75}
-\contentsline {section}{Good old mountain dew}{76}
-\contentsline {section}{Greenland (is a hell of a place)}{77}
-\contentsline {section}{Guise o' Tough}{78}
-\contentsline {section}{Hang Me, Oh Hang Me}{80}
-\contentsline {section}{Hanging Johnny}{82}
-\contentsline {section}{Hey, ho, Nobody Home}{83}
-\contentsline {section}{If I were a Blackbird}{84}
-\contentsline {section}{John Ball}{85}
-\contentsline {section}{Keep Your Feet Still Geordey Hinny}{86}
-\contentsline {section}{The Last Shanty}{88}
-\contentsline {section}{Little Black Pony}{90}
-\contentsline {section}{Midnight Feast}{92}
-\contentsline {section}{Midnight Meat Party}{93}
-\contentsline {section}{The Moose Song}{95}
-\contentsline {section}{Noah's Ark Shanty}{97}
-\contentsline {section}{Norlan' Wind}{99}
-\contentsline {section}{Oak and Ash and Thorn}{100}
-\contentsline {section}{Plov}{102}
-\contentsline {section}{Poor Ned}{103}
-\contentsline {section}{Prickle Eye Bush}{105}
-\contentsline {section}{Railway station porter}{107}
-\contentsline {section}{Rattlin' Bog}{109}
-\contentsline {section}{Rocky Top}{111}
-\contentsline {section}{Shady Grove}{113}
-\contentsline {section}{The Sly Bold Rambler}{114}
-\contentsline {section}{Swedish Beauty Contest}{117}
-\contentsline {section}{Tattie jock}{118}
-\contentsline {section}{The Twelve Folk Days of Christmas}{120}
-\contentsline {section}{Ushag Veg Ruy}{122}
-\contentsline {section}{Weetabix and Cheese}{124}
-\contentsline {section}{Wild Mountain Thyme}{126}
-\contentsline {section}{Working On A Building}{127}
+\contentsline {chapter}{Jigs}{1}{chapter*.1}
+\contentsline {section}{Agent Craig}{1}{section*.2}
+\contentsline {section}{Banish Misfortune}{1}{section*.3}
+\contentsline {section}{The Banshee's Wail Over The Mangle Pit}{2}{section*.4}
+\contentsline {section}{Blackberry Festival Footrace}{2}{section*.5}
+\contentsline {section}{Car y Phoosee}{3}{section*.6}
+\contentsline {section}{Carol Gibson's Patter}{3}{section*.7}
+\contentsline {section}{Cavers of Kirkcudbright}{4}{section*.8}
+\contentsline {section}{Crossing Warness}{4}{section*.9}
+\contentsline {section}{The Dusty Windowsill}{5}{section*.10}
+\contentsline {section}{The Famous Baravan}{5}{section*.11}
+\contentsline {section}{Fifty Pounds Cashback}{6}{section*.12}
+\contentsline {section}{For Reals}{6}{section*.13}
+\contentsline {section}{Fox in the Flour}{7}{section*.14}
+\contentsline {section}{Gyn Ennym}{7}{section*.15}
+\contentsline {section}{Leslie's March}{8}{section*.16}
+\contentsline {section}{Lisnagun Jig}{8}{section*.17}
+\contentsline {section}{Jig o' Beer}{9}{section*.18}
+\contentsline {section}{Jig of Mass Destruction}{9}{section*.19}
+\contentsline {section}{Jiggery Pokerwork}{10}{section*.20}
+\contentsline {section}{Jump at the Sun}{10}{section*.21}
+\contentsline {section}{Maureen's Jig}{10}{section*.22}
+\contentsline {section}{Mouse in the Kitchen}{11}{section*.23}
+\contentsline {section}{The Mystery Inch}{11}{section*.24}
+\contentsline {section}{Norrie's Carry-out}{12}{section*.25}
+\contentsline {section}{One Pint Down}{12}{section*.26}
+\contentsline {section}{The Poetic Milkman}{13}{section*.27}
+\contentsline {section}{The Sailor's Wife}{13}{section*.28}
+\contentsline {section}{The Soup Dragon}{14}{section*.29}
+\contentsline {section}{Three Little Boats}{14}{section*.30}
+\contentsline {section}{Toast}{15}{section*.31}
+\contentsline {section}{Together Again}{16}{section*.32}
+\contentsline {section}{Victoria's Jig}{16}{section*.33}
+\contentsline {section}{Zakynthos Jig}{17}{section*.34}
+\contentsline {chapter}{Slip Jigs}{17}{section*.34}
+\contentsline {section}{Hats Off to Dodd}{18}{section*.35}
+\contentsline {section}{The Grinder}{18}{section*.36}
+\contentsline {section}{Paddy be Easy}{18}{section*.37}
+\contentsline {section}{The Witch Island}{18}{section*.38}
+\contentsline {chapter}{Reels}{19}{section*.38}
+\contentsline {section}{Baby Broon}{19}{section*.39}
+\contentsline {section}{Ben C Niven}{19}{section*.40}
+\contentsline {section}{Bulgarian Red}{20}{section*.41}
+\contentsline {section}{Calgary Fiddlers' Welcome to Shetland}{20}{section*.42}
+\contentsline {section}{Clueless}{21}{section*.43}
+\contentsline {section}{The Dirty Bee}{21}{section*.44}
+\contentsline {section}{Dot the Dragon's Eyes}{22}{section*.45}
+\contentsline {section}{Drowsy Maggie}{22}{section*.46}
+\contentsline {section}{Edinburgh Rock}{23}{section*.47}
+\contentsline {section}{High Drive}{23}{section*.48}
+\contentsline {section}{Homage \`a Edmond Parizeau}{24}{section*.49}
+\contentsline {section}{Hull's Reel}{24}{section*.50}
+\contentsline {section}{Hurlock's Reel}{25}{section*.51}
+\contentsline {section}{Kitchen Criminal}{25}{section*.52}
+\contentsline {section}{Kitchen Girl}{26}{section*.53}
+\contentsline {section}{The Knockard Elf}{26}{section*.54}
+\contentsline {section}{Leila's Birthday}{27}{section*.55}
+\contentsline {section}{Lexy MacAskill's}{27}{section*.56}
+\contentsline {section}{Maggie's Pancakes}{28}{section*.57}
+\contentsline {section}{The Magic Fiddle}{28}{section*.58}
+\contentsline {section}{Maverick Angels}{29}{section*.59}
+\contentsline {section}{Miss Shepherd}{29}{section*.60}
+\contentsline {section}{Miss Susan Cooper}{29}{section*.61}
+\contentsline {section}{Pressed for Time}{30}{section*.62}
+\contentsline {section}{Pumpkin's Fancy}{31}{section*.63}
+\contentsline {section}{Ramnee Ceilidh}{32}{section*.64}
+\contentsline {section}{The Red Haired Boy}{32}{section*.65}
+\contentsline {section}{Salty Boys}{33}{section*.66}
+\contentsline {section}{Sinfully Delicious}{33}{section*.67}
+\contentsline {section}{Smelling Fresh}{34}{section*.68}
+\contentsline {section}{Staten Island}{34}{section*.69}
+\contentsline {section}{Superfly}{34}{section*.70}
+\contentsline {section}{Taybank Shenanigans}{35}{section*.71}
+\contentsline {section}{The Trip to Herv\'e's}{35}{section*.72}
+\contentsline {section}{The Trip to the Market}{36}{section*.73}
+\contentsline {section}{Trondheimsfjorden}{36}{section*.74}
+\contentsline {section}{Wolf in the Whiskey}{36}{section*.75}
+\contentsline {chapter}{Polkas}{37}{section*.75}
+\contentsline {section}{Ballydesmond}{37}{section*.76}
+\contentsline {section}{Belgian}{37}{section*.77}
+\contentsline {section}{Denis Murphy's}{37}{section*.78}
+\contentsline {section}{Egan's}{37}{section*.79}
+\contentsline {section}{Finskapolka}{38}{section*.80}
+\contentsline {section}{For the Young}{38}{section*.81}
+\contentsline {section}{G\"ardebyl\r aten}{38}{section*.82}
+\contentsline {section}{John Ryan's}{39}{section*.83}
+\contentsline {section}{Mina Olen Mees}{39}{section*.84}
+\contentsline {section}{No Fixed Abode}{39}{section*.85}
+\contentsline {section}{The Tolka Polka}{39}{section*.86}
+\contentsline {section}{The Vatersay Ambulance}{40}{section*.87}
+\contentsline {section}{Wiggen}{40}{section*.88}
+\contentsline {chapter}{Polskas}{41}{section*.88}
+\contentsline {section}{Backman's L\r at}{41}{section*.89}
+\contentsline {section}{Ek Lunda}{41}{section*.90}
+\contentsline {section}{Fantomenland}{42}{section*.91}
+\contentsline {section}{Festen}{42}{section*.92}
+\contentsline {section}{Glal\r aten}{42}{section*.93}
+\contentsline {section}{Hellulaulu Polska}{43}{section*.94}
+\contentsline {section}{Hullu Sakari}{43}{section*.95}
+\contentsline {section}{Juringius Polska}{43}{section*.96}
+\contentsline {section}{Nystr\"om's Polska}{44}{section*.97}
+\contentsline {section}{Polska Efter Carl-Erik Berndt}{44}{section*.98}
+\contentsline {section}{Polska Fr\r an M\"ork\"o}{45}{section*.99}
+\contentsline {section}{Signepolskan}{45}{section*.100}
+\contentsline {section}{Sl\"angpolska efter Byss-Kalle}{45}{section*.101}
+\contentsline {section}{The Vankarin}{46}{section*.102}
+\contentsline {section}{Vinden}{46}{section*.103}
+\contentsline {chapter}{Slow Airs + Waltzes}{47}{section*.103}
+\contentsline {section}{Da Auld Resting Chair}{47}{section*.104}
+\contentsline {section}{Chasing Daylight}{47}{section*.105}
+\contentsline {section}{Easter Island}{47}{section*.106}
+\contentsline {section}{Farewell to Uist}{48}{section*.107}
+\contentsline {section}{Farley Bridge}{48}{section*.108}
+\contentsline {section}{Flatwater Fran}{48}{section*.109}
+\contentsline {section}{Gillian's Waltz}{49}{section*.110}
+\contentsline {section}{Da Greenland Man's Tune}{49}{section*.111}
+\contentsline {section}{The Lounge Bar}{50}{section*.112}
+\contentsline {section}{Maggie West's}{50}{section*.113}
+\contentsline {section}{Mangersta Beach}{51}{section*.114}
+\contentsline {section}{Miss Rowan Davis}{51}{section*.115}
+\contentsline {section}{Kirree fo Niaghtey}{51}{section*.116}
+\contentsline {section}{Stronsay Waltz}{52}{section*.117}
+\contentsline {section}{Vals Efter Lasse i Lyby}{52}{section*.118}
+\contentsline {chapter}{Strathspeys}{53}{section*.118}
+\contentsline {section}{Ben Williams of Tiree}{53}{section*.119}
+\contentsline {section}{Calum's Road}{53}{section*.120}
+\contentsline {section}{The Hut on Staffin Island}{54}{section*.121}
+\contentsline {chapter}{The Rest}{55}{section*.121}
+\contentsline {section}{Bear Dance}{55}{section*.122}
+\contentsline {section}{Ethnica}{55}{section*.123}
+\contentsline {section}{The Lochaber Badger}{55}{section*.124}
+\contentsline {section}{Mazurka dans les Petites Fleurs}{55}{section*.125}
+\contentsline {section}{Mylecharaine's March}{56}{section*.126}
+\contentsline {section}{Rackenitza}{56}{section*.127}
+\contentsline {section}{Roddare i B\"ars\"ark}{57}{section*.128}
+\contentsline {section}{Rose of Raby}{57}{section*.129}
+\contentsline {chapter}{Songs}{58}{section*.129}
+\contentsline {section}{\"Aling B\"aling}{58}{section*.130}
+\contentsline {section}{Anderson's Coast}{59}{section*.131}
+\contentsline {section}{The Ballad of the Orphir Taxi}{61}{section*.132}
+\contentsline {section}{Bold Sir Rylas}{63}{section*.133}
+\contentsline {section}{Captain Ward}{65}{section*.134}
+\contentsline {section}{Dundee Doag}{67}{section*.135}
+\contentsline {section}{Farewell to Nova Scotia}{69}{section*.136}
+\contentsline {section}{Fuck EUSA}{71}{section*.137}
+\contentsline {section}{The Georgemas Junction Blues}{73}{section*.138}
+\contentsline {section}{Gloomy December}{75}{section*.139}
+\contentsline {section}{Greenland (is a hell of a place)}{76}{section*.140}
+\contentsline {section}{Good Old Mountain Dew}{77}{section*.141}
+\contentsline {section}{Guise o' Tough}{79}{section*.142}
+\contentsline {section}{Hang Me, Oh Hang Me}{81}{section*.143}
+\contentsline {section}{Hanging Johnny}{83}{section*.144}
+\contentsline {section}{Hey, Ho, Nobody Home}{84}{section*.145}
+\contentsline {section}{If I were a Blackbird}{85}{section*.146}
+\contentsline {section}{John Ball}{86}{section*.147}
+\contentsline {section}{Keep Your Feet Still Geordey Hinny}{87}{section*.148}
+\contentsline {section}{The Last Shanty}{89}{section*.149}
+\contentsline {section}{Little Black Pony}{91}{section*.150}
+\contentsline {section}{Midnight Feast}{93}{section*.151}
+\contentsline {section}{Midnight Meat Party}{95}{section*.152}
+\contentsline {section}{The Moose Song}{97}{section*.153}
+\contentsline {section}{Noah's Ark Shanty}{99}{section*.154}
+\contentsline {section}{Norlan' Wind}{101}{section*.155}
+\contentsline {section}{Plov}{102}{section*.156}
+\contentsline {section}{Oak and Ash and Thorn}{103}{section*.157}
+\contentsline {section}{Poor Ned}{105}{section*.158}
+\contentsline {section}{Prickle Eye Bush}{107}{section*.159}
+\contentsline {section}{Railway Station Porter}{109}{section*.160}
+\contentsline {section}{Rattlin' Bog}{111}{section*.161}
+\contentsline {section}{Shady Grove}{113}{section*.162}
+\contentsline {section}{The Sly Bold Rambler}{114}{section*.163}
+\contentsline {section}{Swedish Beauty Contest}{117}{section*.164}
+\contentsline {section}{Tattie Jock}{118}{section*.165}
+\contentsline {section}{The Twelve Folk Days of Christmas}{121}{section*.166}
+\contentsline {section}{Ushag Veg Ruy}{123}{section*.167}
+\contentsline {section}{Weetabix and Cheese}{125}{section*.168}
+\contentsline {section}{Wild Mountain Thyme}{127}{section*.169}
+\contentsline {section}{Working on a Building}{129}{section*.170}
