@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  18 DEC 2017 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.3)  1 FEB 2018 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,7 +853,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <32.622> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 143.
 
-<photos/unilogo.png, id=714, 246.6816pt x 246.6816pt>
+<photos/unilogo.png, id=7, 246.6816pt x 246.6816pt>
 File: photos/unilogo.png Graphic file (type png)
  <use photos/unilogo.png>
 Package pdftex.def Info: photos/unilogo.png used on input line 147.
@@ -877,1639 +877,1660 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.174 \newpage\null\thispagestyle{empty}\newpage
+l.176 \newpage\null\thispagestyle{empty}\newpage
                                                  [1
 
 ]
-<jigs/"Agent Craig".png, id=933, 540.8205pt x 201.8742pt>
+<jigs/"Agent Craig".png, id=396, 540.8205pt x 201.8742pt>
 File: jigs/"Agent Craig".png Graphic file (type png)
 
 <use jigs/"Agent Craig".png>
-Package pdftex.def Info: jigs/"Agent Craig".png used on input line 179.
+Package pdftex.def Info: jigs/"Agent Craig".png used on input line 181.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<jigs/"Banish Misfortune".png, id=935, 540.8205pt x 314.1336pt>
+<jigs/"Banish Misfortune".png, id=398, 540.8205pt x 314.1336pt>
 File: jigs/"Banish Misfortune".png Graphic file (type png)
 
 <use jigs/"Banish Misfortune".png>
-Package pdftex.def Info: jigs/"Banish Misfortune".png used on input line 181.
+Package pdftex.def Info: jigs/"Banish Misfortune".png used on input line 183.
 (pdftex.def)             Requested size: 364.1953pt x 211.54211pt.
 
-<jigs/"The Banshee's Wail Over The Mangle Pit".png, id=936, 540.8205pt x 201.87
+<jigs/"The Banshee's Wail Over The Mangle Pit".png, id=399, 540.8205pt x 201.87
 42pt>
 File: jigs/"The Banshee's Wail Over The Mangle Pit".png Graphic file (type png)
 
  <use jigs/"The Banshee's Wail Over The Mangle Pit".png>
 Package pdftex.def Info: jigs/"The Banshee's Wail Over The Mangle Pit".png used
- on input line 183.
+ on input line 185.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 
+l.186 
        [1 <./jigs/Agent Craig.png> <./jigs/Banish Misfortune.png>]
-<jigs/"Blackberry Festival Footrace".png, id=943, 540.8205pt x 322.5651pt>
+<jigs/"Blackberry Festival Footrace".png, id=406, 540.8205pt x 322.5651pt>
 File: jigs/"Blackberry Festival Footrace".png Graphic file (type png)
 
 <use jigs/"Blackberry Festival Footrace".png>
 Package pdftex.def Info: jigs/"Blackberry Festival Footrace".png used on input 
-line 185.
+line 187.
 (pdftex.def)             Requested size: 364.1953pt x 217.22pt.
 
-<jigs/"Car y Phoosee".png, id=944, 540.8205pt x 312.2064pt>
+<jigs/"Car y Phoosee".png, id=407, 540.8205pt x 312.2064pt>
 File: jigs/"Car y Phoosee".png Graphic file (type png)
 
 <use jigs/"Car y Phoosee".png>
-Package pdftex.def Info: jigs/"Car y Phoosee".png used on input line 187.
+Package pdftex.def Info: jigs/"Car y Phoosee".png used on input line 189.
 (pdftex.def)             Requested size: 364.1953pt x 210.24431pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.188 ...t{Also known as ``The Manx Wedding Tune"}
+l.190 ...t{Also known as ``The Manx Wedding Tune"}
                                                    [2 <./jigs/The Banshee's Wai
 l Over The Mangle Pit.png> <./jigs/Blackberry Festival Footrace.png>]
-<jigs/"Carol Gibson's Patter".png, id=950, 540.8205pt x 202.1151pt>
+<jigs/"Carol Gibson's Patter".png, id=413, 540.8205pt x 202.1151pt>
 File: jigs/"Carol Gibson's Patter".png Graphic file (type png)
 
 <use jigs/"Carol Gibson's Patter".png>
 Package pdftex.def Info: jigs/"Carol Gibson's Patter".png used on input line 19
-0.
+2.
 (pdftex.def)             Requested size: 364.1953pt x 136.10722pt.
 
-<jigs/"Cavers of Kirkcudbright".png, id=951, 540.8205pt x 204.0423pt>
+<jigs/"Cavers of Kirkcudbright".png, id=414, 540.8205pt x 204.0423pt>
 File: jigs/"Cavers of Kirkcudbright".png Graphic file (type png)
 
 <use jigs/"Cavers of Kirkcudbright".png>
 Package pdftex.def Info: jigs/"Cavers of Kirkcudbright".png used on input line 
-192.
+194.
 (pdftex.def)             Requested size: 364.1953pt x 137.40501pt.
  [3 <./jigs/Car y Phoosee.png> <./jigs/Carol Gibson's Patter.png>]
-<jigs/"Crossing Warness".png, id=958, 540.8205pt x 202.356pt>
+<jigs/"Crossing Warness".png, id=421, 540.8205pt x 202.356pt>
 File: jigs/"Crossing Warness".png Graphic file (type png)
 
 <use jigs/"Crossing Warness".png>
-Package pdftex.def Info: jigs/"Crossing Warness".png used on input line 194.
+Package pdftex.def Info: jigs/"Crossing Warness".png used on input line 196.
 (pdftex.def)             Requested size: 364.1953pt x 136.26945pt.
 
-<photos/ferrysession.jpg, id=959, 963.6pt x 642.4pt>
+<photos/ferrysession.jpg, id=422, 963.6pt x 642.4pt>
 File: photos/ferrysession.jpg Graphic file (type jpg)
 
 <use photos/ferrysession.jpg>
-Package pdftex.def Info: photos/ferrysession.jpg used on input line 196.
+Package pdftex.def Info: photos/ferrysession.jpg used on input line 198.
 (pdftex.def)             Requested size: 230.86334pt x 153.90468pt.
 
-<jigs/"The Dusty Windowsill".png, id=960, 540.8205pt x 316.3017pt>
+<jigs/"The Dusty Windowsill".png, id=423, 540.8205pt x 316.3017pt>
 File: jigs/"The Dusty Windowsill".png Graphic file (type png)
 
 <use jigs/"The Dusty Windowsill".png>
-Package pdftex.def Info: jigs/"The Dusty Windowsill".png used on input line 198
+Package pdftex.def Info: jigs/"The Dusty Windowsill".png used on input line 200
 .
 (pdftex.def)             Requested size: 364.1953pt x 213.00214pt.
  [4 <./jigs/Cavers of Kirkcudbright.png> <./jigs/Crossing Warness.png> <./photo
 s/ferrysession.jpg>]
-<jigs/"The Famous Baravan".png, id=967, 540.8205pt x 202.1151pt>
+<jigs/"The Famous Baravan".png, id=430, 540.8205pt x 202.1151pt>
 File: jigs/"The Famous Baravan".png Graphic file (type png)
 
 <use jigs/"The Famous Baravan".png>
-Package pdftex.def Info: jigs/"The Famous Baravan".png used on input line 200.
+Package pdftex.def Info: jigs/"The Famous Baravan".png used on input line 202.
 (pdftex.def)             Requested size: 364.1953pt x 136.10722pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 202.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 204.
 
 
 (c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 202.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
 
-<jigs/"Fifty Pounds Cashback".png, id=968, 540.8205pt x 312.2064pt>
+<jigs/"Fifty Pounds Cashback".png, id=431, 540.8205pt x 312.2064pt>
 File: jigs/"Fifty Pounds Cashback".png Graphic file (type png)
 
 <use jigs/"Fifty Pounds Cashback".png>
 Package pdftex.def Info: jigs/"Fifty Pounds Cashback".png used on input line 20
-4.
+6.
 (pdftex.def)             Requested size: 364.1953pt x 210.24431pt.
  [5 <./jigs/The Dusty Windowsill.png> <./jigs/The Famous Baravan.png>]
-<jigs/"For Reals".png, id=977, 540.8205pt x 203.8014pt>
+<jigs/"For Reals".png, id=440, 540.8205pt x 203.8014pt>
 File: jigs/"For Reals".png Graphic file (type png)
 
 <use jigs/"For Reals".png>
-Package pdftex.def Info: jigs/"For Reals".png used on input line 207.
+Package pdftex.def Info: jigs/"For Reals".png used on input line 209.
 (pdftex.def)             Requested size: 364.1953pt x 137.2428pt.
 
-<jigs/"Fox in the Flour".png, id=978, 540.8205pt x 315.0972pt>
+<jigs/"Fox in the Flour".png, id=441, 540.8205pt x 315.0972pt>
 File: jigs/"Fox in the Flour".png Graphic file (type png)
 
 <use jigs/"Fox in the Flour".png>
-Package pdftex.def Info: jigs/"Fox in the Flour".png used on input line 209.
+Package pdftex.def Info: jigs/"Fox in the Flour".png used on input line 211.
 (pdftex.def)             Requested size: 364.1953pt x 212.19101pt.
  [6 <./jigs/Fifty Pounds Cashback.png> <./jigs/For Reals.png>] <jigs/"Gyn Ennym
-".png, id=986, 540.8205pt x 205.9695pt>
+".png, id=449, 540.8205pt x 205.9695pt>
 File: jigs/"Gyn Ennym".png Graphic file (type png)
 
 <use jigs/"Gyn Ennym".png>
-Package pdftex.def Info: jigs/"Gyn Ennym".png used on input line 212.
+Package pdftex.def Info: jigs/"Gyn Ennym".png used on input line 214.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<jigs/"Leslie's March".png, id=987, 540.8205pt x 312.2064pt>
+<jigs/"Leslie's March".png, id=450, 540.8205pt x 312.2064pt>
 File: jigs/"Leslie's March".png Graphic file (type png)
 
 <use jigs/"Leslie's March".png>
-Package pdftex.def Info: jigs/"Leslie's March".png used on input line 214.
+Package pdftex.def Info: jigs/"Leslie's March".png used on input line 216.
 (pdftex.def)             Requested size: 364.1953pt x 210.24431pt.
 
-<jigs/"Lisnagun Jig".png, id=988, 540.8205pt x 258.7266pt>
+<jigs/"Lisnagun Jig".png, id=451, 540.8205pt x 258.7266pt>
 File: jigs/"Lisnagun Jig".png Graphic file (type png)
 
 <use jigs/"Lisnagun Jig".png>
-Package pdftex.def Info: jigs/"Lisnagun Jig".png used on input line 215.
+Package pdftex.def Info: jigs/"Lisnagun Jig".png used on input line 217.
 (pdftex.def)             Requested size: 364.1953pt x 174.23021pt.
  [7 <./jigs/Fox in the Flour.png> <./jigs/Gyn Ennym.png>] <jigs/"Jig o' Beer".p
-ng, id=995, 540.8205pt x 201.8742pt>
+ng, id=458, 540.8205pt x 201.8742pt>
 File: jigs/"Jig o' Beer".png Graphic file (type png)
 
 <use jigs/"Jig o' Beer".png>
-Package pdftex.def Info: jigs/"Jig o' Beer".png used on input line 217.
+Package pdftex.def Info: jigs/"Jig o' Beer".png used on input line 219.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
  [8 <./jigs/Leslie's March.png> <./jigs/Lisnagun Jig.png>] <jigs/"Jig of Mass D
-estruction".png, id=1002, 540.8205pt x 205.9695pt>
+estruction".png, id=465, 540.8205pt x 205.9695pt>
 File: jigs/"Jig of Mass Destruction".png Graphic file (type png)
 
 <use jigs/"Jig of Mass Destruction".png>
 Package pdftex.def Info: jigs/"Jig of Mass Destruction".png used on input line 
-221.
+223.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<jigs/"Jiggery Pokerwork".png, id=1003, 540.8205pt x 201.8742pt>
+<jigs/"Jiggery Pokerwork".png, id=466, 540.8205pt x 201.8742pt>
 File: jigs/"Jiggery Pokerwork".png Graphic file (type png)
 
 <use jigs/"Jiggery Pokerwork".png>
-Package pdftex.def Info: jigs/"Jiggery Pokerwork".png used on input line 223.
+Package pdftex.def Info: jigs/"Jiggery Pokerwork".png used on input line 225.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
  [9 <./jigs/Jig o' Beer.png> <./jigs/Jig of Mass Destruction.png>]
-<jigs/"Jump at the Sun".png, id=1011, 540.8205pt x 204.5241pt>
+<jigs/"Jump at the Sun".png, id=473, 540.8205pt x 204.5241pt>
 File: jigs/"Jump at the Sun".png Graphic file (type png)
 
 <use jigs/"Jump at the Sun".png>
-Package pdftex.def Info: jigs/"Jump at the Sun".png used on input line 225.
+Package pdftex.def Info: jigs/"Jump at the Sun".png used on input line 227.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
 
-<jigs/"Maureen's Jig".png, id=1012, 540.8205pt x 205.9695pt>
+<jigs/"Maureen's Jig".png, id=474, 540.8205pt x 205.9695pt>
 File: jigs/"Maureen's Jig".png Graphic file (type png)
 
 <use jigs/"Maureen's Jig".png>
-Package pdftex.def Info: jigs/"Maureen's Jig".png used on input line 227.
+Package pdftex.def Info: jigs/"Maureen's Jig".png used on input line 229.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<jigs/"Mouse in the Kitchen".png, id=1013, 540.8205pt x 203.3196pt>
+<jigs/"Mouse in the Kitchen".png, id=475, 540.8205pt x 203.3196pt>
 File: jigs/"Mouse in the Kitchen".png Graphic file (type png)
 
 <use jigs/"Mouse in the Kitchen".png>
-Package pdftex.def Info: jigs/"Mouse in the Kitchen".png used on input line 229
+Package pdftex.def Info: jigs/"Mouse in the Kitchen".png used on input line 231
 .
 (pdftex.def)             Requested size: 364.1953pt x 136.91835pt.
  [10 <./jigs/Jiggery Pokerwork.png> <./jigs/Jump at the Sun.png> <./jigs/Mauree
 n's Jig.png>]
-<jigs/"The Mystery Inch".png, id=1021, 540.8205pt x 318.9516pt>
+<jigs/"The Mystery Inch".png, id=483, 540.8205pt x 318.9516pt>
 File: jigs/"The Mystery Inch".png Graphic file (type png)
 
 <use jigs/"The Mystery Inch".png>
-Package pdftex.def Info: jigs/"The Mystery Inch".png used on input line 231.
+Package pdftex.def Info: jigs/"The Mystery Inch".png used on input line 233.
 (pdftex.def)             Requested size: 364.1953pt x 214.7866pt.
 
-<jigs/"Norrie's Carry-out".png, id=1022, 540.8205pt x 318.9516pt>
+<jigs/"Norrie's Carry-out".png, id=484, 540.8205pt x 318.9516pt>
 File: jigs/"Norrie's Carry-out".png Graphic file (type png)
 
 <use jigs/"Norrie's Carry-out".png>
-Package pdftex.def Info: jigs/"Norrie's Carry-out".png used on input line 233.
+Package pdftex.def Info: jigs/"Norrie's Carry-out".png used on input line 235.
 (pdftex.def)             Requested size: 364.1953pt x 214.7866pt.
  [11 <./jigs/Mouse in the Kitchen.png> <./jigs/The Mystery Inch.png>]
-<jigs/"One Pint Down".png, id=1030, 540.8205pt x 201.8742pt>
+<jigs/"One Pint Down".png, id=492, 540.8205pt x 201.8742pt>
 File: jigs/"One Pint Down".png Graphic file (type png)
 
 <use jigs/"One Pint Down".png>
-Package pdftex.def Info: jigs/"One Pint Down".png used on input line 235.
+Package pdftex.def Info: jigs/"One Pint Down".png used on input line 237.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<jigs/"The Poetic Milkman".png, id=1031, 540.8205pt x 423.0204pt>
+<jigs/"The Poetic Milkman".png, id=493, 540.8205pt x 423.0204pt>
 File: jigs/"The Poetic Milkman".png Graphic file (type png)
 
 <use jigs/"The Poetic Milkman".png>
-Package pdftex.def Info: jigs/"The Poetic Milkman".png used on input line 237.
+Package pdftex.def Info: jigs/"The Poetic Milkman".png used on input line 239.
 (pdftex.def)             Requested size: 364.1953pt x 284.86806pt.
  [12 <./jigs/Norrie's Carry-out.png> <./jigs/One Pint Down.png>]
-<jigs/"The Sailor's Wife".png, id=1038, 540.8205pt x 201.8742pt>
+<jigs/"The Sailor's Wife".png, id=500, 540.8205pt x 201.8742pt>
 File: jigs/"The Sailor's Wife".png Graphic file (type png)
 
 <use jigs/"The Sailor's Wife".png>
-Package pdftex.def Info: jigs/"The Sailor's Wife".png used on input line 240.
+Package pdftex.def Info: jigs/"The Sailor's Wife".png used on input line 242.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<jigs/"The Soup Dragon".png, id=1039, 540.8205pt x 257.2812pt>
+<jigs/"The Soup Dragon".png, id=501, 540.8205pt x 257.2812pt>
 File: jigs/"The Soup Dragon".png Graphic file (type png)
 
 <use jigs/"The Soup Dragon".png>
-Package pdftex.def Info: jigs/"The Soup Dragon".png used on input line 243.
+Package pdftex.def Info: jigs/"The Soup Dragon".png used on input line 245.
 (pdftex.def)             Requested size: 364.1953pt x 173.25688pt.
  [13 <./jigs/The Poetic Milkman.png> <./jigs/The Sailor's Wife.png>]
-<jigs/"Three Little Boats".png, id=1046, 540.8205pt x 201.8742pt>
+<jigs/"Three Little Boats".png, id=508, 540.8205pt x 201.8742pt>
 File: jigs/"Three Little Boats".png Graphic file (type png)
 
 <use jigs/"Three Little Boats".png>
-Package pdftex.def Info: jigs/"Three Little Boats".png used on input line 246.
+Package pdftex.def Info: jigs/"Three Little Boats".png used on input line 248.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<jigs/"Toast".png, id=1047, 541.0614pt x 315.0972pt>
+<jigs/"Toast".png, id=509, 541.0614pt x 315.0972pt>
 File: jigs/"Toast".png Graphic file (type png)
  <use jigs/"Toast".png>
-Package pdftex.def Info: jigs/"Toast".png used on input line 247.
+Package pdftex.def Info: jigs/"Toast".png used on input line 249.
 (pdftex.def)             Requested size: 364.1953pt x 212.10446pt.
 
 [14 <./jigs/The Soup Dragon.png> <./jigs/Three Little Boats.png>]
-<photos/toast2.jpg, id=1054, 3660.67625pt x 2258.4375pt>
+<photos/toast2.jpg, id=516, 3660.67625pt x 2258.4375pt>
 File: photos/toast2.jpg Graphic file (type jpg)
 
 <use photos/toast2.jpg>
-Package pdftex.def Info: photos/toast2.jpg used on input line 251.
+Package pdftex.def Info: photos/toast2.jpg used on input line 253.
 (pdftex.def)             Requested size: 351.31378pt x 216.72482pt.
 
-<jigs/"Together Again".png, id=1055, 540.8205pt x 202.356pt>
+<jigs/"Together Again".png, id=517, 540.8205pt x 202.356pt>
 File: jigs/"Together Again".png Graphic file (type png)
 
 <use jigs/"Together Again".png>
-Package pdftex.def Info: jigs/"Together Again".png used on input line 253.
+Package pdftex.def Info: jigs/"Together Again".png used on input line 255.
 (pdftex.def)             Requested size: 364.1953pt x 136.26945pt.
  [15 <./jigs/Toast.png> <./photos/toast2.jpg>]
-<jigs/"Victoria's Jig".png, id=1061, 540.8205pt x 422.7795pt>
+<jigs/"Victoria's Jig".png, id=523, 540.8205pt x 422.7795pt>
 File: jigs/"Victoria's Jig".png Graphic file (type png)
 
 <use jigs/"Victoria's Jig".png>
-Package pdftex.def Info: jigs/"Victoria's Jig".png used on input line 257.
+Package pdftex.def Info: jigs/"Victoria's Jig".png used on input line 259.
 (pdftex.def)             Requested size: 364.1953pt x 284.70583pt.
 
-<jigs/"Zakynthos Jig".png, id=1062, 540.8205pt x 312.2064pt>
+<jigs/"Zakynthos Jig".png, id=524, 540.8205pt x 312.2064pt>
 File: jigs/"Zakynthos Jig".png Graphic file (type png)
 
 <use jigs/"Zakynthos Jig".png>
-Package pdftex.def Info: jigs/"Zakynthos Jig".png used on input line 259.
+Package pdftex.def Info: jigs/"Zakynthos Jig".png used on input line 261.
 (pdftex.def)             Requested size: 364.1953pt x 210.24431pt.
  [16 <./jigs/Together Again.png> <./jigs/Victoria's Jig.png>] <photos/offsessio
-n.jpg, id=1069, 2055.68pt x 1372.12625pt>
+n.jpg, id=531, 2055.68pt x 1372.12625pt>
 File: photos/offsession.jpg Graphic file (type jpg)
 
 <use photos/offsession.jpg>
-Package pdftex.def Info: photos/offsession.jpg used on input line 263.
+Package pdftex.def Info: photos/offsession.jpg used on input line 265.
 (pdftex.def)             Requested size: 331.23871pt x 221.09402pt.
- [17 <./jigs/Zakynthos Jig.png> <./photos/offsession.jpg>] <slipjigs/"Hats Off 
-to Dodd".png, id=1076, 540.8205pt x 98.2872pt>
-File: slipjigs/"Hats Off to Dodd".png Graphic file (type png)
-
-<use slipjigs/"Hats Off to Dodd".png>
-Package pdftex.def Info: slipjigs/"Hats Off to Dodd".png used on input line 267
-.
-(pdftex.def)             Requested size: 364.1953pt x 66.188pt.
-
-<slipjigs/"The Grinder".png, id=1077, 540.8205pt x 92.0238pt>
+ [17 <./jigs/Zakynthos Jig.png> <./photos/offsession.jpg>] <slipjigs/"The Grind
+er".png, id=538, 540.8205pt x 98.769pt>
 File: slipjigs/"The Grinder".png Graphic file (type png)
 
 <use slipjigs/"The Grinder".png>
-Package pdftex.def Info: slipjigs/"The Grinder".png used on input line 272.
-(pdftex.def)             Requested size: 364.1953pt x 61.97015pt.
+Package pdftex.def Info: slipjigs/"The Grinder".png used on input line 270.
+(pdftex.def)             Requested size: 364.1953pt x 66.51245pt.
 
-<slipjigs/"Paddy be Easy".png, id=1078, 540.8205pt x 91.542pt>
+<slipjigs/"Hats Off to Dodd".png, id=539, 540.8205pt x 98.2872pt>
+File: slipjigs/"Hats Off to Dodd".png Graphic file (type png)
+
+<use slipjigs/"Hats Off to Dodd".png>
+Package pdftex.def Info: slipjigs/"Hats Off to Dodd".png used on input line 273
+.
+(pdftex.def)             Requested size: 364.1953pt x 66.188pt.
+
+<slipjigs/"Paddy be Easy".png, id=540, 540.8205pt x 91.542pt>
 File: slipjigs/"Paddy be Easy".png Graphic file (type png)
 
 <use slipjigs/"Paddy be Easy".png>
-Package pdftex.def Info: slipjigs/"Paddy be Easy".png used on input line 276.
+Package pdftex.def Info: slipjigs/"Paddy be Easy".png used on input line 278.
 (pdftex.def)             Requested size: 364.1953pt x 61.6457pt.
 
-<slipjigs/"The Witch Island".png, id=1079, 540.8205pt x 91.542pt>
+<slipjigs/"The Witch Island".png, id=541, 540.8205pt x 91.542pt>
 File: slipjigs/"The Witch Island".png Graphic file (type png)
 
 <use slipjigs/"The Witch Island".png>
-Package pdftex.def Info: slipjigs/"The Witch Island".png used on input line 279
+Package pdftex.def Info: slipjigs/"The Witch Island".png used on input line 281
 .
 (pdftex.def)             Requested size: 364.1953pt x 61.6457pt.
- [18 <./slipjigs/Hats Off to Dodd.png> <./slipjigs/The Grinder.png> <./slipjigs
+ [18 <./slipjigs/The Grinder.png> <./slipjigs/Hats Off to Dodd.png> <./slipjigs
 /Paddy be Easy.png> <./slipjigs/The Witch Island.png>] <reels/"Baby Broon".png,
- id=1088, 540.8205pt x 205.9695pt>
+ id=550, 540.8205pt x 205.9695pt>
 File: reels/"Baby Broon".png Graphic file (type png)
 
 <use reels/"Baby Broon".png>
-Package pdftex.def Info: reels/"Baby Broon".png used on input line 285.
+Package pdftex.def Info: reels/"Baby Broon".png used on input line 287.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<reels/"Ben C Niven".png, id=1089, 540.8205pt x 425.4294pt>
+<reels/"Ben C Niven".png, id=551, 540.8205pt x 425.4294pt>
 File: reels/"Ben C Niven".png Graphic file (type png)
 
 <use reels/"Ben C Niven".png>
-Package pdftex.def Info: reels/"Ben C Niven".png used on input line 287.
+Package pdftex.def Info: reels/"Ben C Niven".png used on input line 289.
 (pdftex.def)             Requested size: 364.1953pt x 286.49031pt.
 
-<reels/"Bulgarian Red".png, id=1090, 540.8205pt x 207.174pt>
+<reels/"Bulgarian Red".png, id=552, 540.8205pt x 207.174pt>
 File: reels/"Bulgarian Red".png Graphic file (type png)
 
 <use reels/"Bulgarian Red".png>
-Package pdftex.def Info: reels/"Bulgarian Red".png used on input line 289.
+Package pdftex.def Info: reels/"Bulgarian Red".png used on input line 291.
 (pdftex.def)             Requested size: 364.1953pt x 139.51396pt.
  [19 <./reels/Baby Broon.png> <./reels/Ben C Niven.png>]
-<reels/"Calgary Fiddlers' Welcome to Shetland".png, id=1097, 540.8205pt x 205.0
-059pt>
+<reels/"Calgary Fiddlers' Welcome to Shetland".png, id=559, 540.8205pt x 205.00
+59pt>
 File: reels/"Calgary Fiddlers' Welcome to Shetland".png Graphic file (type png)
 
  <use reels/"Calgary Fiddlers' Welcome to Shetland".png>
 Package pdftex.def Info: reels/"Calgary Fiddlers' Welcome to Shetland".png used
- on input line 291.
+ on input line 293.
 (pdftex.def)             Requested size: 364.1953pt x 138.05392pt.
 
-<reels/"Clueless".png, id=1098, 540.8205pt x 314.8563pt>
+<reels/"Clueless".png, id=560, 540.8205pt x 314.8563pt>
 File: reels/"Clueless".png Graphic file (type png)
 
 <use reels/"Clueless".png>
-Package pdftex.def Info: reels/"Clueless".png used on input line 295.
+Package pdftex.def Info: reels/"Clueless".png used on input line 297.
 (pdftex.def)             Requested size: 364.1953pt x 212.02878pt.
  [20 <./reels/Bulgarian Red.png> <./reels/Calgary Fiddlers' Welcome to Shetland
 .png>]
-<reels/"The Dirty Bee".png, id=1105, 540.8205pt x 203.8014pt>
+<reels/"The Dirty Bee".png, id=568, 540.8205pt x 203.8014pt>
 File: reels/"The Dirty Bee".png Graphic file (type png)
 
 <use reels/"The Dirty Bee".png>
-Package pdftex.def Info: reels/"The Dirty Bee".png used on input line 299.
+Package pdftex.def Info: reels/"The Dirty Bee".png used on input line 301.
 (pdftex.def)             Requested size: 364.1953pt x 137.2428pt.
 
-<reels/"Dot the Dragon's Eyes".png, id=1106, 544.1931pt x 262.3401pt>
+<reels/"Dot the Dragon's Eyes".png, id=569, 544.1931pt x 262.3401pt>
 File: reels/"Dot the Dragon's Eyes".png Graphic file (type png)
 
 <use reels/"Dot the Dragon's Eyes".png>
 Package pdftex.def Info: reels/"Dot the Dragon's Eyes".png used on input line 3
-01.
+03.
 (pdftex.def)             Requested size: 364.1953pt x 175.56679pt.
  [21 <./reels/Clueless.png> <./reels/The Dirty Bee.png>] <reels/"Drowsy Maggie"
-.png, id=1113, 540.8205pt x 156.1032pt>
+.png, id=576, 540.8205pt x 156.1032pt>
 File: reels/"Drowsy Maggie".png Graphic file (type png)
 
 <use reels/"Drowsy Maggie".png>
-Package pdftex.def Info: reels/"Drowsy Maggie".png used on input line 304.
+Package pdftex.def Info: reels/"Drowsy Maggie".png used on input line 306.
 (pdftex.def)             Requested size: 364.1953pt x 105.12213pt.
 
-<photos/drowsyfolksoc.jpg, id=1114, 2601.72pt x 1461.46pt>
+<photos/drowsyfolksoc.jpg, id=577, 2601.72pt x 1461.46pt>
 File: photos/drowsyfolksoc.jpg Graphic file (type jpg)
 
 <use photos/drowsyfolksoc.jpg>
-Package pdftex.def Info: photos/drowsyfolksoc.jpg used on input line 305.
+Package pdftex.def Info: photos/drowsyfolksoc.jpg used on input line 307.
 (pdftex.def)             Requested size: 260.97595pt x 146.57826pt.
 
-<reels/"Edinburgh Rock".png, id=1115, 540.8205pt x 206.4513pt>
+<reels/"Edinburgh Rock".png, id=578, 540.8205pt x 206.4513pt>
 File: reels/"Edinburgh Rock".png Graphic file (type png)
 
 <use reels/"Edinburgh Rock".png>
-Package pdftex.def Info: reels/"Edinburgh Rock".png used on input line 309.
+Package pdftex.def Info: reels/"Edinburgh Rock".png used on input line 311.
 (pdftex.def)             Requested size: 364.1953pt x 139.02728pt.
  [22 <./reels/Dot the Dragon's Eyes.png> <./reels/Drowsy Maggie.png> <./photos/
 drowsyfolksoc.jpg>]
-<reels/"High Drive".png, id=1122, 540.8205pt x 426.6339pt>
+<reels/"High Drive".png, id=585, 540.8205pt x 426.6339pt>
 File: reels/"High Drive".png Graphic file (type png)
 
 <use reels/"High Drive".png>
-Package pdftex.def Info: reels/"High Drive".png used on input line 311.
+Package pdftex.def Info: reels/"High Drive".png used on input line 313.
 (pdftex.def)             Requested size: 364.1953pt x 287.30144pt.
 
-<reels/"Homage a Edmond Parizeau".png, id=1123, 540.8205pt x 316.3017pt>
+<reels/"Homage a Edmond Parizeau".png, id=586, 540.8205pt x 316.3017pt>
 File: reels/"Homage a Edmond Parizeau".png Graphic file (type png)
 
 <use reels/"Homage a Edmond Parizeau".png>
 Package pdftex.def Info: reels/"Homage a Edmond Parizeau".png used on input lin
-e 315.
+e 317.
 (pdftex.def)             Requested size: 364.1953pt x 213.00214pt.
  [23 <./reels/Edinburgh Rock.png> <./reels/High Drive.png>]
-<reels/"Hull's Reel".png, id=1131, 540.8205pt x 211.7511pt>
+<reels/"Hull's Reel".png, id=594, 540.8205pt x 211.7511pt>
 File: reels/"Hull's Reel".png Graphic file (type png)
 
 <use reels/"Hull's Reel".png>
-Package pdftex.def Info: reels/"Hull's Reel".png used on input line 317.
+Package pdftex.def Info: reels/"Hull's Reel".png used on input line 319.
 (pdftex.def)             Requested size: 364.1953pt x 142.59624pt.
 
-<reels/"Hurlock's Reel".png, id=1132, 540.8205pt x 313.8927pt>
+<reels/"Hurlock's Reel".png, id=595, 540.8205pt x 313.8927pt>
 File: reels/"Hurlock's Reel".png Graphic file (type png)
 
 <use reels/"Hurlock's Reel".png>
-Package pdftex.def Info: reels/"Hurlock's Reel".png used on input line 319.
+Package pdftex.def Info: reels/"Hurlock's Reel".png used on input line 321.
 (pdftex.def)             Requested size: 364.1953pt x 211.37988pt.
  [24 <./reels/Homage a Edmond Parizeau.png> <./reels/Hull's Reel.png>]
-<reels/"Kitchen Criminal".png, id=1139, 540.8205pt x 210.0648pt>
+<reels/"Kitchen Criminal".png, id=602, 540.8205pt x 210.0648pt>
 File: reels/"Kitchen Criminal".png Graphic file (type png)
 
 <use reels/"Kitchen Criminal".png>
-Package pdftex.def Info: reels/"Kitchen Criminal".png used on input line 321.
+Package pdftex.def Info: reels/"Kitchen Criminal".png used on input line 323.
 (pdftex.def)             Requested size: 364.1953pt x 141.46068pt.
 
-<reels/"Kitchen Girl".png, id=1140, 540.8205pt x 203.8014pt>
+<reels/"Kitchen Girl".png, id=603, 540.8205pt x 203.8014pt>
 File: reels/"Kitchen Girl".png Graphic file (type png)
 
 <use reels/"Kitchen Girl".png>
-Package pdftex.def Info: reels/"Kitchen Girl".png used on input line 324.
+Package pdftex.def Info: reels/"Kitchen Girl".png used on input line 326.
 (pdftex.def)             Requested size: 364.1953pt x 137.2428pt.
  [25 <./reels/Hurlock's Reel.png> <./reels/Kitchen Criminal.png>]
-<reels/"The Knockard Elf".png, id=1147, 540.8205pt x 204.5241pt>
+<reels/"The Knockard Elf".png, id=610, 540.8205pt x 204.5241pt>
 File: reels/"The Knockard Elf".png Graphic file (type png)
 
 <use reels/"The Knockard Elf".png>
-Package pdftex.def Info: reels/"The Knockard Elf".png used on input line 327.
+Package pdftex.def Info: reels/"The Knockard Elf".png used on input line 329.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
 
-<photos/orkneyswim.jpg, id=1148, 722.7pt x 384.6872pt>
+<photos/orkneyswim.jpg, id=611, 722.7pt x 384.6872pt>
 File: photos/orkneyswim.jpg Graphic file (type jpg)
 
 <use photos/orkneyswim.jpg>
-Package pdftex.def Info: photos/orkneyswim.jpg used on input line 329.
+Package pdftex.def Info: photos/orkneyswim.jpg used on input line 331.
 (pdftex.def)             Requested size: 260.97595pt x 138.91577pt.
 
-<reels/"Leila's Birthday".png, id=1149, 540.8205pt x 259.6902pt>
+<reels/"Leila's Birthday".png, id=612, 540.8205pt x 259.6902pt>
 File: reels/"Leila's Birthday".png Graphic file (type png)
 
 <use reels/"Leila's Birthday".png>
-Package pdftex.def Info: reels/"Leila's Birthday".png used on input line 331.
+Package pdftex.def Info: reels/"Leila's Birthday".png used on input line 333.
 (pdftex.def)             Requested size: 364.1953pt x 174.87912pt.
  [26 <./reels/Kitchen Girl.png> <./reels/The Knockard Elf.png> <./photos/orkney
 swim.jpg>]
-<reels/"Lexy MacAskill's".png, id=1156, 540.8205pt x 204.5241pt>
+<reels/"Lexy MacAskill's".png, id=619, 540.8205pt x 204.5241pt>
 File: reels/"Lexy MacAskill's".png Graphic file (type png)
 
 <use reels/"Lexy MacAskill's".png>
-Package pdftex.def Info: reels/"Lexy MacAskill's".png used on input line 333.
+Package pdftex.def Info: reels/"Lexy MacAskill's".png used on input line 335.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
 
-<reels/"Maggie's Pancakes".png, id=1157, 540.8205pt x 205.7286pt>
+<reels/"Maggie's Pancakes".png, id=620, 540.8205pt x 205.7286pt>
 File: reels/"Maggie's Pancakes".png Graphic file (type png)
 
 <use reels/"Maggie's Pancakes".png>
-Package pdftex.def Info: reels/"Maggie's Pancakes".png used on input line 335.
+Package pdftex.def Info: reels/"Maggie's Pancakes".png used on input line 337.
 (pdftex.def)             Requested size: 364.1953pt x 138.5406pt.
  [27 <./reels/Leila's Birthday.png> <./reels/Lexy MacAskill's.png>]
-<reels/"The Magic Fiddle".png, id=1164, 540.8205pt x 204.5241pt>
+<reels/"The Magic Fiddle".png, id=627, 540.8205pt x 204.5241pt>
 File: reels/"The Magic Fiddle".png Graphic file (type png)
 
 <use reels/"The Magic Fiddle".png>
-Package pdftex.def Info: reels/"The Magic Fiddle".png used on input line 338.
+Package pdftex.def Info: reels/"The Magic Fiddle".png used on input line 340.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
 
-<photos/fiddlebodhran.jpg, id=1165, 2055.68pt x 1213.53375pt>
+<photos/fiddlebodhran.jpg, id=628, 2055.68pt x 1213.53375pt>
 File: photos/fiddlebodhran.jpg Graphic file (type jpg)
 
 <use photos/fiddlebodhran.jpg>
-Package pdftex.def Info: photos/fiddlebodhran.jpg used on input line 339.
+Package pdftex.def Info: photos/fiddlebodhran.jpg used on input line 341.
 (pdftex.def)             Requested size: 250.93842pt x 148.13608pt.
 
-<reels/"Maverick Angels".png, id=1166, 540.8205pt x 207.8967pt>
+<reels/"Maverick Angels".png, id=629, 540.8205pt x 207.8967pt>
 File: reels/"Maverick Angels".png Graphic file (type png)
 
 <use reels/"Maverick Angels".png>
-Package pdftex.def Info: reels/"Maverick Angels".png used on input line 341.
+Package pdftex.def Info: reels/"Maverick Angels".png used on input line 343.
 (pdftex.def)             Requested size: 364.1953pt x 140.00064pt.
  [28 <./reels/Maggie's Pancakes.png> <./reels/The Magic Fiddle.png> <./photos/f
 iddlebodhran.jpg>]
-<reels/"Miss Shepherd".png, id=1173, 540.8205pt x 154.6578pt>
+<reels/"Miss Shepherd".png, id=636, 540.8205pt x 154.6578pt>
 File: reels/"Miss Shepherd".png Graphic file (type png)
 
 <use reels/"Miss Shepherd".png>
-Package pdftex.def Info: reels/"Miss Shepherd".png used on input line 343.
+Package pdftex.def Info: reels/"Miss Shepherd".png used on input line 345.
 (pdftex.def)             Requested size: 364.1953pt x 104.14879pt.
 
-<reels/"Miss Susan Cooper".png, id=1174, 540.8205pt x 203.5605pt>
+<reels/"Miss Susan Cooper".png, id=637, 540.8205pt x 203.5605pt>
 File: reels/"Miss Susan Cooper".png Graphic file (type png)
 
 <use reels/"Miss Susan Cooper".png>
-Package pdftex.def Info: reels/"Miss Susan Cooper".png used on input line 345.
+Package pdftex.def Info: reels/"Miss Susan Cooper".png used on input line 347.
 (pdftex.def)             Requested size: 364.1953pt x 137.08058pt.
 
-<reels/"Pressed for Time".png, id=1175, 540.8205pt x 483.0045pt>
+<reels/"Pressed for Time".png, id=638, 540.8205pt x 483.0045pt>
 File: reels/"Pressed for Time".png Graphic file (type png)
 
 <use reels/"Pressed for Time".png>
-Package pdftex.def Info: reels/"Pressed for Time".png used on input line 347.
+Package pdftex.def Info: reels/"Pressed for Time".png used on input line 349.
 (pdftex.def)             Requested size: 364.1953pt x 325.26222pt.
  [29 <./reels/Maverick Angels.png> <./reels/Miss Shepherd.png> <./reels/Miss Su
 san Cooper.png>]
-<reels/"Pumpkin's Fancy".png, id=1185, 542.5068pt x 479.391pt>
+<reels/"Pumpkin's Fancy".png, id=647, 542.5068pt x 479.391pt>
 File: reels/"Pumpkin's Fancy".png Graphic file (type png)
 
 <use reels/"Pumpkin's Fancy".png>
-Package pdftex.def Info: reels/"Pumpkin's Fancy".png used on input line 351.
+Package pdftex.def Info: reels/"Pumpkin's Fancy".png used on input line 353.
 (pdftex.def)             Requested size: 364.1953pt x 321.8267pt.
  [30 <./reels/Pressed for Time.png>]
-<photos/suff.jpg, id=1191, 758.835pt x 355.3275pt>
+<photos/suff.jpg, id=653, 758.835pt x 355.3275pt>
 File: photos/suff.jpg Graphic file (type jpg)
  <use photos/suff.jpg>
-Package pdftex.def Info: photos/suff.jpg used on input line 353.
+Package pdftex.def Info: photos/suff.jpg used on input line 355.
 (pdftex.def)             Requested size: 291.08856pt x 136.3054pt.
 
-<reels/"Ramnee Ceilidh".png, id=1192, 540.8205pt x 205.0059pt>
+<reels/"Ramnee Ceilidh".png, id=654, 540.8205pt x 205.0059pt>
 File: reels/"Ramnee Ceilidh".png Graphic file (type png)
 
 <use reels/"Ramnee Ceilidh".png>
-Package pdftex.def Info: reels/"Ramnee Ceilidh".png used on input line 355.
+Package pdftex.def Info: reels/"Ramnee Ceilidh".png used on input line 357.
 (pdftex.def)             Requested size: 364.1953pt x 138.05392pt.
  [31 <./reels/Pumpkin's Fancy.png> <./photos/suff.jpg>] <reels/"The Red Haired 
-Boy".png, id=1198, 540.8205pt x 207.8967pt>
+Boy".png, id=660, 540.8205pt x 207.8967pt>
 File: reels/"The Red Haired Boy".png Graphic file (type png)
 
 <use reels/"The Red Haired Boy".png>
-Package pdftex.def Info: reels/"The Red Haired Boy".png used on input line 360.
+Package pdftex.def Info: reels/"The Red Haired Boy".png used on input line 362.
 
 (pdftex.def)             Requested size: 364.1953pt x 140.00064pt.
 
-<photos/albumcover.jpg, id=1199, 646.66594pt x 356.83313pt>
+<photos/albumcover.jpg, id=661, 646.66594pt x 356.83313pt>
 File: photos/albumcover.jpg Graphic file (type jpg)
 
 <use photos/albumcover.jpg>
-Package pdftex.def Info: photos/albumcover.jpg used on input line 361.
+Package pdftex.def Info: photos/albumcover.jpg used on input line 363.
 (pdftex.def)             Requested size: 230.86334pt x 127.39264pt.
 
-<reels/"Salty Boys".png, id=1200, 540.8205pt x 207.6558pt>
+<reels/"Salty Boys".png, id=662, 540.8205pt x 207.6558pt>
 File: reels/"Salty Boys".png Graphic file (type png)
 
 <use reels/"Salty Boys".png>
-Package pdftex.def Info: reels/"Salty Boys".png used on input line 365.
+Package pdftex.def Info: reels/"Salty Boys".png used on input line 367.
 (pdftex.def)             Requested size: 364.1953pt x 139.83841pt.
  [32 <./reels/Ramnee Ceilidh.png> <./reels/The Red Haired Boy.png> <./photos/al
 bumcover.jpg>]
-<reels/"Sinfully Delicious".png, id=1207, 540.8205pt x 316.7835pt>
+<reels/"Sinfully Delicious".png, id=669, 540.8205pt x 316.7835pt>
 File: reels/"Sinfully Delicious".png Graphic file (type png)
 
 <use reels/"Sinfully Delicious".png>
-Package pdftex.def Info: reels/"Sinfully Delicious".png used on input line 369.
+Package pdftex.def Info: reels/"Sinfully Delicious".png used on input line 371.
 
 (pdftex.def)             Requested size: 364.1953pt x 213.32658pt.
 
-<reels/"Smelling Fresh".png, id=1208, 540.8205pt x 204.5241pt>
+<reels/"Smelling Fresh".png, id=670, 540.8205pt x 204.5241pt>
 File: reels/"Smelling Fresh".png Graphic file (type png)
 
 <use reels/"Smelling Fresh".png>
-Package pdftex.def Info: reels/"Smelling Fresh".png used on input line 371.
+Package pdftex.def Info: reels/"Smelling Fresh".png used on input line 373.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
  [33 <./reels/Salty Boys.png> <./reels/Sinfully Delicious.png>] <reels/"Staten 
-Island".png, id=1215, 540.8205pt x 201.8742pt>
+Island".png, id=677, 540.8205pt x 201.8742pt>
 File: reels/"Staten Island".png Graphic file (type png)
 
 <use reels/"Staten Island".png>
-Package pdftex.def Info: reels/"Staten Island".png used on input line 374.
+Package pdftex.def Info: reels/"Staten Island".png used on input line 376.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<reels/"Superfly".png, id=1216, 540.8205pt x 201.8742pt>
+<reels/"Superfly".png, id=678, 540.8205pt x 201.8742pt>
 File: reels/"Superfly".png Graphic file (type png)
 
 <use reels/"Superfly".png>
-Package pdftex.def Info: reels/"Superfly".png used on input line 377.
+Package pdftex.def Info: reels/"Superfly".png used on input line 379.
 (pdftex.def)             Requested size: 364.1953pt x 135.945pt.
 
-<reels/"Taybank Shenanigans".png, id=1217, 540.8205pt x 206.2104pt>
+<reels/"Taybank Shenanigans".png, id=679, 540.8205pt x 206.2104pt>
 File: reels/"Taybank Shenanigans".png Graphic file (type png)
 
 <use reels/"Taybank Shenanigans".png>
-Package pdftex.def Info: reels/"Taybank Shenanigans".png used on input line 379
+Package pdftex.def Info: reels/"Taybank Shenanigans".png used on input line 381
 .
 (pdftex.def)             Requested size: 364.1953pt x 138.86505pt.
  [34 <./reels/Smelling Fresh.png> <./reels/Staten Island.png> <./reels/Superfly
 .png>]
-<reels/"The Trip to Herve's".png, id=1225, 540.8205pt x 257.0403pt>
+<reels/"The Trip to Herve's".png, id=687, 540.8205pt x 257.0403pt>
 File: reels/"The Trip to Herve's".png Graphic file (type png)
 
 <use reels/"The Trip to Herve's".png>
-Package pdftex.def Info: reels/"The Trip to Herve's".png used on input line 381
+Package pdftex.def Info: reels/"The Trip to Herve's".png used on input line 383
 .
 (pdftex.def)             Requested size: 364.1953pt x 173.09465pt.
 
-<reels/"The Trip to the Market".png, id=1226, 540.8205pt x 206.2104pt>
+<reels/"The Trip to the Market".png, id=688, 540.8205pt x 206.2104pt>
 File: reels/"The Trip to the Market".png Graphic file (type png)
 
 <use reels/"The Trip to the Market".png>
 Package pdftex.def Info: reels/"The Trip to the Market".png used on input line 
-383.
+385.
 (pdftex.def)             Requested size: 364.1953pt x 138.86505pt.
  [35 <./reels/Taybank Shenanigans.png> <./reels/The Trip to Herve's.png>]
-<reels/"Trondheimsfjorden".png, id=1234, 540.8205pt x 205.9695pt>
+<reels/"Trondheimsfjorden".png, id=696, 540.8205pt x 205.9695pt>
 File: reels/"Trondheimsfjorden".png Graphic file (type png)
 
 <use reels/"Trondheimsfjorden".png>
-Package pdftex.def Info: reels/"Trondheimsfjorden".png used on input line 386.
+Package pdftex.def Info: reels/"Trondheimsfjorden".png used on input line 388.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<reels/"Wolf in the Whiskey".png, id=1235, 540.8205pt x 205.9695pt>
+<reels/"Wolf in the Whiskey".png, id=697, 540.8205pt x 205.9695pt>
 File: reels/"Wolf in the Whiskey".png Graphic file (type png)
 
 <use reels/"Wolf in the Whiskey".png>
-Package pdftex.def Info: reels/"Wolf in the Whiskey".png used on input line 389
+Package pdftex.def Info: reels/"Wolf in the Whiskey".png used on input line 391
 .
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
  [36 <./reels/The Trip to the Market.png> <./reels/Trondheimsfjorden.png> <./re
 els/Wolf in the Whiskey.png>]
-<polkas/"Ballydesmond".png, id=1243, 540.8205pt x 91.542pt>
+<polkas/"Ballydesmond".png, id=705, 540.8205pt x 91.542pt>
 File: polkas/"Ballydesmond".png Graphic file (type png)
 
 <use polkas/"Ballydesmond".png>
-Package pdftex.def Info: polkas/"Ballydesmond".png used on input line 396.
+Package pdftex.def Info: polkas/"Ballydesmond".png used on input line 398.
 (pdftex.def)             Requested size: 364.1953pt x 61.6457pt.
 
-<polkas/"Belgian".png, id=1244, 540.8205pt x 91.542pt>
+<polkas/"Belgian".png, id=706, 540.8205pt x 91.542pt>
 File: polkas/"Belgian".png Graphic file (type png)
 
 <use polkas/"Belgian".png>
-Package pdftex.def Info: polkas/"Belgian".png used on input line 400.
+Package pdftex.def Info: polkas/"Belgian".png used on input line 402.
 (pdftex.def)             Requested size: 364.1953pt x 61.6457pt.
 
-<polkas/"Denis Murphy's".png, id=1245, 540.8205pt x 202.1151pt>
+<polkas/"Denis Murphy's".png, id=707, 540.8205pt x 202.1151pt>
 File: polkas/"Denis Murphy's".png Graphic file (type png)
 
 <use polkas/"Denis Murphy's".png>
-Package pdftex.def Info: polkas/"Denis Murphy's".png used on input line 404.
+Package pdftex.def Info: polkas/"Denis Murphy's".png used on input line 406.
 (pdftex.def)             Requested size: 364.1953pt x 136.10722pt.
 
-<polkas/"Egan's".png, id=1246, 540.8205pt x 91.542pt>
+<polkas/"Egan's".png, id=708, 540.8205pt x 91.542pt>
 File: polkas/"Egan's".png Graphic file (type png)
-
-<use polkas/"Egan's".png>
-Package pdftex.def Info: polkas/"Egan's".png used on input line 406.
+ <use polkas/"Egan's".png>
+Package pdftex.def Info: polkas/"Egan's".png used on input line 408.
 (pdftex.def)             Requested size: 364.1953pt x 61.6457pt.
 
-<polkas/"Finskapolka".png, id=1247, 540.8205pt x 203.8014pt>
+<polkas/"Finskapolka".png, id=709, 540.8205pt x 203.8014pt>
 File: polkas/"Finskapolka".png Graphic file (type png)
 
 <use polkas/"Finskapolka".png>
-Package pdftex.def Info: polkas/"Finskapolka".png used on input line 408.
+Package pdftex.def Info: polkas/"Finskapolka".png used on input line 410.
 (pdftex.def)             Requested size: 364.1953pt x 137.2428pt.
  [37 <./polkas/Ballydesmond.png> <./polkas/Belgian.png> <./polkas/Denis Murphy'
 s.png> <./polkas/Egan's.png>]
-<polkas/"For the Young".png, id=1256, 540.8205pt x 95.6373pt>
+<polkas/"For the Young".png, id=718, 540.8205pt x 95.6373pt>
 File: polkas/"For the Young".png Graphic file (type png)
 
 <use polkas/"For the Young".png>
-Package pdftex.def Info: polkas/"For the Young".png used on input line 411.
+Package pdftex.def Info: polkas/"For the Young".png used on input line 413.
 (pdftex.def)             Requested size: 364.1953pt x 64.40352pt.
 
-<polkas/"Gardebylaten".png, id=1257, 540.8205pt x 202.1151pt>
+<polkas/"Gardebylaten".png, id=719, 540.8205pt x 202.1151pt>
 File: polkas/"Gardebylaten".png Graphic file (type png)
 
 <use polkas/"Gardebylaten".png>
-Package pdftex.def Info: polkas/"Gardebylaten".png used on input line 414.
+Package pdftex.def Info: polkas/"Gardebylaten".png used on input line 416.
 (pdftex.def)             Requested size: 364.1953pt x 136.10722pt.
 
-<polkas/"John Ryan's".png, id=1258, 540.8205pt x 94.1919pt>
+<polkas/"John Ryan's".png, id=720, 540.8205pt x 94.1919pt>
 File: polkas/"John Ryan's".png Graphic file (type png)
 
 <use polkas/"John Ryan's".png>
-Package pdftex.def Info: polkas/"John Ryan's".png used on input line 416.
+Package pdftex.def Info: polkas/"John Ryan's".png used on input line 418.
 (pdftex.def)             Requested size: 364.1953pt x 63.43018pt.
  [38 <./polkas/Finskapolka.png> <./polkas/For the Young.png> <./polkas/Gardebyl
 aten.png>]
-<polkas/"Mina Olen Mees".png, id=1266, 540.8205pt x 36.135pt>
+<polkas/"Mina Olen Mees".png, id=728, 540.8205pt x 36.135pt>
 File: polkas/"Mina Olen Mees".png Graphic file (type png)
 
 <use polkas/"Mina Olen Mees".png>
-Package pdftex.def Info: polkas/"Mina Olen Mees".png used on input line 420.
+Package pdftex.def Info: polkas/"Mina Olen Mees".png used on input line 422.
 (pdftex.def)             Requested size: 364.1953pt x 24.3338pt.
 
-<polkas/"No Fixed Abode".png, id=1267, 540.8205pt x 95.3964pt>
+<polkas/"No Fixed Abode".png, id=729, 540.8205pt x 95.3964pt>
 File: polkas/"No Fixed Abode".png Graphic file (type png)
 
 <use polkas/"No Fixed Abode".png>
-Package pdftex.def Info: polkas/"No Fixed Abode".png used on input line 423.
+Package pdftex.def Info: polkas/"No Fixed Abode".png used on input line 425.
 (pdftex.def)             Requested size: 364.1953pt x 64.24129pt.
 
-<polkas/"The Tolka Polka".png, id=1268, 540.8205pt x 150.5625pt>
+<polkas/"The Tolka Polka".png, id=730, 540.8205pt x 150.5625pt>
 File: polkas/"The Tolka Polka".png Graphic file (type png)
 
 <use polkas/"The Tolka Polka".png>
-Package pdftex.def Info: polkas/"The Tolka Polka".png used on input line 427.
+Package pdftex.def Info: polkas/"The Tolka Polka".png used on input line 429.
 (pdftex.def)             Requested size: 364.1953pt x 101.39095pt.
 
-<polkas/"The Vatersay Ambulance".png, id=1269, 540.8205pt x 98.2872pt>
+<polkas/"The Vatersay Ambulance".png, id=731, 540.8205pt x 98.2872pt>
 File: polkas/"The Vatersay Ambulance".png Graphic file (type png)
 
 <use polkas/"The Vatersay Ambulance".png>
 Package pdftex.def Info: polkas/"The Vatersay Ambulance".png used on input line
- 431.
+ 433.
 (pdftex.def)             Requested size: 364.1953pt x 66.188pt.
  [39 <./polkas/John Ryan's.png> <./polkas/Mina Olen Mees.png> <./polkas/No Fixe
-d Abode.png> <./polkas/The Tolka Polka.png>] <polkas/"Wiggen".png, id=1278, 540
-.8205pt x 317.7471pt>
+d Abode.png> <./polkas/The Tolka Polka.png>] <polkas/"Wiggen".png, id=741, 540.
+8205pt x 317.7471pt>
 File: polkas/"Wiggen".png Graphic file (type png)
 
 <use polkas/"Wiggen".png>
-Package pdftex.def Info: polkas/"Wiggen".png used on input line 436.
+Package pdftex.def Info: polkas/"Wiggen".png used on input line 438.
 (pdftex.def)             Requested size: 364.1953pt x 213.97548pt.
  [40 <./polkas/The Vatersay Ambulance.png> <./polkas/Wiggen.png>] <polskas/"Bac
-kman's Lat".png, id=1285, 540.8205pt x 95.3964pt>
+kman's Lat".png, id=748, 540.8205pt x 95.3964pt>
 File: polskas/"Backman's Lat".png Graphic file (type png)
 
 <use polskas/"Backman's Lat".png>
-Package pdftex.def Info: polskas/"Backman's Lat".png used on input line 444.
+Package pdftex.def Info: polskas/"Backman's Lat".png used on input line 446.
 (pdftex.def)             Requested size: 364.1953pt x 64.24129pt.
 
-<polskas/"Ek Lunda".png, id=1286, 540.8205pt x 206.2104pt>
+<polskas/"Ek Lunda".png, id=749, 540.8205pt x 206.2104pt>
 File: polskas/"Ek Lunda".png Graphic file (type png)
 
 <use polskas/"Ek Lunda".png>
-Package pdftex.def Info: polskas/"Ek Lunda".png used on input line 447.
+Package pdftex.def Info: polskas/"Ek Lunda".png used on input line 449.
 (pdftex.def)             Requested size: 364.1953pt x 138.86505pt.
 
-<photos/masquerade.jpg, id=1287, 2055.68pt x 1370.11874pt>
+<photos/masquerade.jpg, id=750, 2055.68pt x 1370.11874pt>
 File: photos/masquerade.jpg Graphic file (type jpg)
 
 <use photos/masquerade.jpg>
-Package pdftex.def Info: photos/masquerade.jpg used on input line 451.
+Package pdftex.def Info: photos/masquerade.jpg used on input line 453.
 (pdftex.def)             Requested size: 250.93842pt x 167.25041pt.
 
-<polskas/"Fantomenland".png, id=1288, 540.8205pt x 257.5221pt>
+<polskas/"Fantomenland".png, id=751, 540.8205pt x 257.5221pt>
 File: polskas/"Fantomenland".png Graphic file (type png)
 
 <use polskas/"Fantomenland".png>
-Package pdftex.def Info: polskas/"Fantomenland".png used on input line 454.
+Package pdftex.def Info: polskas/"Fantomenland".png used on input line 456.
 (pdftex.def)             Requested size: 364.1953pt x 173.4191pt.
  [41 <./polskas/Backman's Lat.png> <./polskas/Ek Lunda.png> <./photos/masquerad
 e.jpg>]
-<polskas/"Festen".png, id=1296, 541.0614pt x 93.2283pt>
+<polskas/"Festen".png, id=759, 541.0614pt x 93.2283pt>
 File: polskas/"Festen".png Graphic file (type png)
 
 <use polskas/"Festen".png>
-Package pdftex.def Info: polskas/"Festen".png used on input line 458.
+Package pdftex.def Info: polskas/"Festen".png used on input line 460.
 (pdftex.def)             Requested size: 364.1953pt x 62.75568pt.
 
-<polskas/"Glad Lat".png, id=1297, 540.8205pt x 206.6922pt>
+<polskas/"Glad Lat".png, id=760, 540.8205pt x 206.6922pt>
 File: polskas/"Glad Lat".png Graphic file (type png)
 
 <use polskas/"Glad Lat".png>
-Package pdftex.def Info: polskas/"Glad Lat".png used on input line 461.
+Package pdftex.def Info: polskas/"Glad Lat".png used on input line 463.
 (pdftex.def)             Requested size: 364.1953pt x 139.1895pt.
 
-<polskas/"Hellulaulu Polska".png, id=1298, 540.8205pt x 93.2283pt>
+<polskas/"Hellulaulu Polska".png, id=761, 540.8205pt x 93.2283pt>
 File: polskas/"Hellulaulu Polska".png Graphic file (type png)
 
 <use polskas/"Hellulaulu Polska".png>
-Package pdftex.def Info: polskas/"Hellulaulu Polska".png used on input line 464
+Package pdftex.def Info: polskas/"Hellulaulu Polska".png used on input line 466
 .
 (pdftex.def)             Requested size: 364.1953pt x 62.78128pt.
  [42 <./polskas/Fantomenland.png> <./polskas/Festen.png> <./polskas/Glad Lat.pn
 g>]
-<polskas/"Hullu Sakari".png, id=1306, 540.8205pt x 209.583pt>
+<polskas/"Hullu Sakari".png, id=769, 540.8205pt x 209.583pt>
 File: polskas/"Hullu Sakari".png Graphic file (type png)
 
 <use polskas/"Hullu Sakari".png>
-Package pdftex.def Info: polskas/"Hullu Sakari".png used on input line 468.
+Package pdftex.def Info: polskas/"Hullu Sakari".png used on input line 470.
 (pdftex.def)             Requested size: 364.1953pt x 141.13622pt.
 
-<polskas/"Juringius Polska".png, id=1307, 540.8205pt x 146.7081pt>
+<polskas/"Juringius Polska".png, id=770, 540.8205pt x 146.7081pt>
 File: polskas/"Juringius Polska".png Graphic file (type png)
 
 <use polskas/"Juringius Polska".png>
-Package pdftex.def Info: polskas/"Juringius Polska".png used on input line 471.
+Package pdftex.def Info: polskas/"Juringius Polska".png used on input line 473.
 
 (pdftex.def)             Requested size: 364.1953pt x 98.79535pt.
 
-<polskas/"Nystrom's Polska".png, id=1308, 540.8205pt x 207.4149pt>
+<polskas/"Nystrom's Polska".png, id=771, 540.8205pt x 207.4149pt>
 File: polskas/"Nystrom's Polska".png Graphic file (type png)
 
 <use polskas/"Nystrom's Polska".png>
-Package pdftex.def Info: polskas/"Nystrom's Polska".png used on input line 474.
+Package pdftex.def Info: polskas/"Nystrom's Polska".png used on input line 476.
 
 (pdftex.def)             Requested size: 364.1953pt x 139.67618pt.
  [43 <./polskas/Hellulaulu Polska.png> <./polskas/Hullu Sakari.png> <./polskas/
 Juringius Polska.png>]
-<polskas/"Polska Efter Carl-Erik Berndt".png, id=1316, 540.8205pt x 203.5605pt>
+<polskas/"Polska Efter Carl-Erik Berndt".png, id=779, 540.8205pt x 203.5605pt>
 File: polskas/"Polska Efter Carl-Erik Berndt".png Graphic file (type png)
+
 <use polskas/"Polska Efter Carl-Erik Berndt".png>
 Package pdftex.def Info: polskas/"Polska Efter Carl-Erik Berndt".png used on in
-put line 477.
+put line 479.
 (pdftex.def)             Requested size: 364.1953pt x 137.08058pt.
 
-<polskas/"Polska Fran Morko".png, id=1317, 540.8205pt x 208.8603pt>
+<polskas/"Polska Fran Morko".png, id=780, 540.8205pt x 208.8603pt>
 File: polskas/"Polska Fran Morko".png Graphic file (type png)
 
 <use polskas/"Polska Fran Morko".png>
-Package pdftex.def Info: polskas/"Polska Fran Morko".png used on input line 480
+Package pdftex.def Info: polskas/"Polska Fran Morko".png used on input line 482
 .
 (pdftex.def)             Requested size: 364.1953pt x 140.64954pt.
  [44 <./polskas/Nystrom's Polska.png> <./polskas/Polska Efter Carl-Erik Berndt.
 png>]
-<polskas/"Signepolskan".png, id=1324, 540.8205pt x 201.8742pt>
+<polskas/"Signepolskan".png, id=787, 540.8205pt x 186.6975pt>
 File: polskas/"Signepolskan".png Graphic file (type png)
 
 <use polskas/"Signepolskan".png>
-Package pdftex.def Info: polskas/"Signepolskan".png used on input line 483.
-(pdftex.def)             Requested size: 364.1953pt x 135.945pt.
+Package pdftex.def Info: polskas/"Signepolskan".png used on input line 485.
+(pdftex.def)             Requested size: 364.1953pt x 125.7248pt.
 
-<polskas/"Slangpolska efter Byss-Kalle".png, id=1325, 540.8205pt x 203.8014pt>
+<polskas/"Slangpolska efter Byss-Kalle".png, id=788, 540.8205pt x 203.8014pt>
 File: polskas/"Slangpolska efter Byss-Kalle".png Graphic file (type png)
 
 <use polskas/"Slangpolska efter Byss-Kalle".png>
 Package pdftex.def Info: polskas/"Slangpolska efter Byss-Kalle".png used on inp
-ut line 486.
+ut line 488.
 (pdftex.def)             Requested size: 364.1953pt x 137.2428pt.
- [45 <./polskas/Polska Fran Morko.png> <./polskas/Signepolskan.png> <./polskas/
-Slangpolska efter Byss-Kalle.png>] <polskas/"The Vankarin".png, id=1333, 540.82
-05pt x 203.5605pt>
+
+<polskas/"The Vankarin".png, id=789, 540.8205pt x 203.5605pt>
 File: polskas/"The Vankarin".png Graphic file (type png)
 
 <use polskas/"The Vankarin".png>
-Package pdftex.def Info: polskas/"The Vankarin".png used on input line 488.
+Package pdftex.def Info: polskas/"The Vankarin".png used on input line 490.
 (pdftex.def)             Requested size: 364.1953pt x 137.08058pt.
-
-<polskas/"Vinden".png, id=1334, 540.8205pt x 208.1376pt>
+ [45 <./polskas/Polska Fran Morko.png> <./polskas/Signepolskan.png> <./polskas/
+Slangpolska efter Byss-Kalle.png>]
+<polskas/"Vinden".png, id=797, 540.8205pt x 208.1376pt>
 File: polskas/"Vinden".png Graphic file (type png)
 
 <use polskas/"Vinden".png>
-Package pdftex.def Info: polskas/"Vinden".png used on input line 491.
+Package pdftex.def Info: polskas/"Vinden".png used on input line 493.
 (pdftex.def)             Requested size: 364.1953pt x 140.16286pt.
  [46 <./polskas/The Vankarin.png> <./polskas/Vinden.png>] <slowairs/"Da Auld Re
-sting Chair".png, id=1341, 540.8205pt x 161.403pt>
+sting Chair".png, id=804, 540.8205pt x 161.403pt>
 File: slowairs/"Da Auld Resting Chair".png Graphic file (type png)
 
 <use slowairs/"Da Auld Resting Chair".png>
 Package pdftex.def Info: slowairs/"Da Auld Resting Chair".png used on input lin
-e 497.
+e 499.
 (pdftex.def)             Requested size: 364.1953pt x 108.69112pt.
 
-<slowairs/"Chasing Daylight".png, id=1342, 540.8205pt x 202.356pt>
+<slowairs/"Chasing Daylight".png, id=805, 540.8205pt x 202.356pt>
 File: slowairs/"Chasing Daylight".png Graphic file (type png)
 
 <use slowairs/"Chasing Daylight".png>
-Package pdftex.def Info: slowairs/"Chasing Daylight".png used on input line 499
+Package pdftex.def Info: slowairs/"Chasing Daylight".png used on input line 501
 .
 (pdftex.def)             Requested size: 364.1953pt x 136.26945pt.
 
-<slowairs/"Easter Island".png, id=1343, 540.8205pt x 204.5241pt>
+<slowairs/"Easter Island".png, id=806, 540.8205pt x 204.5241pt>
 File: slowairs/"Easter Island".png Graphic file (type png)
 
 <use slowairs/"Easter Island".png>
-Package pdftex.def Info: slowairs/"Easter Island".png used on input line 501.
+Package pdftex.def Info: slowairs/"Easter Island".png used on input line 503.
 (pdftex.def)             Requested size: 364.1953pt x 137.72946pt.
 
-<slowairs/"Farewell to Uist".png, id=1344, 540.8205pt x 153.9351pt>
+<slowairs/"Farewell to Uist".png, id=807, 540.8205pt x 153.9351pt>
 File: slowairs/"Farewell to Uist".png Graphic file (type png)
 
 <use slowairs/"Farewell to Uist".png>
-Package pdftex.def Info: slowairs/"Farewell to Uist".png used on input line 503
+Package pdftex.def Info: slowairs/"Farewell to Uist".png used on input line 505
 .
 (pdftex.def)             Requested size: 364.1953pt x 103.66211pt.
  [47 <./slowairs/Da Auld Resting Chair.png> <./slowairs/Chasing Daylight.png> <
 ./slowairs/Easter Island.png>]
-<slowairs/"Farley Bridge".png, id=1354, 540.8205pt x 205.9695pt>
+<slowairs/"Farley Bridge".png, id=816, 540.8205pt x 205.9695pt>
 File: slowairs/"Farley Bridge".png Graphic file (type png)
 
 <use slowairs/"Farley Bridge".png>
-Package pdftex.def Info: slowairs/"Farley Bridge".png used on input line 505.
+Package pdftex.def Info: slowairs/"Farley Bridge".png used on input line 507.
 (pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
 
-<slowairs/"Flatwater Fran".png, id=1355, 540.8205pt x 202.356pt>
+<slowairs/"Flatwater Fran".png, id=817, 540.8205pt x 202.356pt>
 File: slowairs/"Flatwater Fran".png Graphic file (type png)
 
 <use slowairs/"Flatwater Fran".png>
-Package pdftex.def Info: slowairs/"Flatwater Fran".png used on input line 509.
+Package pdftex.def Info: slowairs/"Flatwater Fran".png used on input line 511.
 (pdftex.def)             Requested size: 364.1953pt x 136.26945pt.
 
-<slowairs/"Gillian's Waltz".png, id=1356, 540.8205pt x 211.5102pt>
+<slowairs/"Gillian's Waltz".png, id=818, 540.8205pt x 211.5102pt>
 File: slowairs/"Gillian's Waltz".png Graphic file (type png)
 
 <use slowairs/"Gillian's Waltz".png>
-Package pdftex.def Info: slowairs/"Gillian's Waltz".png used on input line 511.
+Package pdftex.def Info: slowairs/"Gillian's Waltz".png used on input line 513.
 
 (pdftex.def)             Requested size: 364.1953pt x 142.43402pt.
  [48 <./slowairs/Farewell to Uist.png> <./slowairs/Farley Bridge.png> <./slowai
 rs/Flatwater Fran.png>]
-<slowairs/"Da Greenland Man's Tune".png, id=1364, 540.8205pt x 93.4692pt>
+<slowairs/"Da Greenland Man's Tune".png, id=826, 540.8205pt x 93.4692pt>
 File: slowairs/"Da Greenland Man's Tune".png Graphic file (type png)
 
 <use slowairs/"Da Greenland Man's Tune".png>
 Package pdftex.def Info: slowairs/"Da Greenland Man's Tune".png used on input l
-ine 516.
+ine 518.
 (pdftex.def)             Requested size: 364.1953pt x 62.9435pt.
 
-<photos/bigorkneysesh3.jpg, id=1365, 721.94719pt x 382.42876pt>
-File: photos/bigorkneysesh3.jpg Graphic file (type jpg)
-
-<use photos/bigorkneysesh3.jpg>
-Package pdftex.def Info: photos/bigorkneysesh3.jpg used on input line 519.
-(pdftex.def)             Requested size: 341.27625pt x 180.78023pt.
-Missing character: There is no Ã in font cmr9!
-Missing character: There is no ¸ in font cmr9!
-
-<slowairs/"The Lounge Bar".png, id=1366, 540.8205pt x 312.6882pt>
-File: slowairs/"The Lounge Bar".png Graphic file (type png)
-
-<use slowairs/"The Lounge Bar".png>
-Package pdftex.def Info: slowairs/"The Lounge Bar".png used on input line 521.
-(pdftex.def)             Requested size: 364.1953pt x 210.56876pt.
- [49 <./slowairs/Gillian's Waltz.png> <./slowairs/Da Greenland Man's Tune.png> 
-<./photos/bigorkneysesh3.jpg>]
-<slowairs/"Maggie West's".png, id=1373, 540.8205pt x 204.0423pt>
-File: slowairs/"Maggie West's".png Graphic file (type png)
-
-<use slowairs/"Maggie West's".png>
-Package pdftex.def Info: slowairs/"Maggie West's".png used on input line 523.
-(pdftex.def)             Requested size: 364.1953pt x 137.40501pt.
-
-<slowairs/"Mangersta Beach".png, id=1374, 540.8205pt x 205.9695pt>
-File: slowairs/"Mangersta Beach".png Graphic file (type png)
-
-<use slowairs/"Mangersta Beach".png>
-Package pdftex.def Info: slowairs/"Mangersta Beach".png used on input line 525.
-
-(pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
- [50 <./slowairs/The Lounge Bar.png> <./slowairs/Maggie West's.png>]
-<slowairs/"Miss Rowan Davis".png, id=1381, 540.8205pt x 201.8742pt>
-File: slowairs/"Miss Rowan Davis".png Graphic file (type png)
-
-<use slowairs/"Miss Rowan Davis".png>
-Package pdftex.def Info: slowairs/"Miss Rowan Davis".png used on input line 527
-.
-(pdftex.def)             Requested size: 364.1953pt x 135.945pt.
-
-<slowairs/"Kirree fo Niaghtey".png, id=1382, 540.8205pt x 92.9874pt>
+<slowairs/"Kirree fo Niaghtey".png, id=827, 540.8205pt x 92.9874pt>
 File: slowairs/"Kirree fo Niaghtey".png Graphic file (type png)
 
 <use slowairs/"Kirree fo Niaghtey".png>
 Package pdftex.def Info: slowairs/"Kirree fo Niaghtey".png used on input line 5
-30.
+22.
 (pdftex.def)             Requested size: 364.1953pt x 62.61905pt.
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ¸ in font cmr9!
 
-<slowairs/"Stronsay Waltz".png, id=1383, 540.8205pt x 258.9675pt>
+<slowairs/"The Lounge Bar".png, id=828, 540.8205pt x 312.6882pt>
+File: slowairs/"The Lounge Bar".png Graphic file (type png)
+
+<use slowairs/"The Lounge Bar".png>
+Package pdftex.def Info: slowairs/"The Lounge Bar".png used on input line 525.
+(pdftex.def)             Requested size: 364.1953pt x 210.56876pt.
+ [49 <./slowairs/Gillian's Waltz.png> <./slowairs/Da Greenland Man's Tune.png> 
+<./slowairs/Kirree fo Niaghtey.png>]
+<slowairs/"Maggie West's".png, id=836, 540.8205pt x 204.0423pt>
+File: slowairs/"Maggie West's".png Graphic file (type png)
+
+<use slowairs/"Maggie West's".png>
+Package pdftex.def Info: slowairs/"Maggie West's".png used on input line 527.
+(pdftex.def)             Requested size: 364.1953pt x 137.40501pt.
+
+<slowairs/"Mangersta Beach".png, id=837, 540.8205pt x 205.9695pt>
+File: slowairs/"Mangersta Beach".png Graphic file (type png)
+
+<use slowairs/"Mangersta Beach".png>
+Package pdftex.def Info: slowairs/"Mangersta Beach".png used on input line 529.
+
+(pdftex.def)             Requested size: 364.1953pt x 138.70282pt.
+ [50 <./slowairs/The Lounge Bar.png> <./slowairs/Maggie West's.png>]
+<slowairs/"Miss Rowan Davis".png, id=844, 540.8205pt x 201.8742pt>
+File: slowairs/"Miss Rowan Davis".png Graphic file (type png)
+
+<use slowairs/"Miss Rowan Davis".png>
+Package pdftex.def Info: slowairs/"Miss Rowan Davis".png used on input line 531
+.
+(pdftex.def)             Requested size: 364.1953pt x 135.945pt.
+
+<photos/bigorkneysesh3.jpg, id=845, 721.94719pt x 382.42876pt>
+File: photos/bigorkneysesh3.jpg Graphic file (type jpg)
+
+<use photos/bigorkneysesh3.jpg>
+Package pdftex.def Info: photos/bigorkneysesh3.jpg used on input line 533.
+(pdftex.def)             Requested size: 291.08856pt x 154.19421pt.
+
+<slowairs/"Stronsay Waltz".png, id=846, 540.8205pt x 258.9675pt>
 File: slowairs/"Stronsay Waltz".png Graphic file (type png)
 
 <use slowairs/"Stronsay Waltz".png>
-Package pdftex.def Info: slowairs/"Stronsay Waltz".png used on input line 533.
+Package pdftex.def Info: slowairs/"Stronsay Waltz".png used on input line 535.
 (pdftex.def)             Requested size: 364.1953pt x 174.39244pt.
- [51 <./slowairs/Mangersta Beach.png> <./slowairs/Miss Rowan Davis.png> <./slow
-airs/Kirree fo Niaghtey.png>]
-<slowairs/"Vals Efter Lasse i Lyby".png, id=1391, 540.8205pt x 146.7081pt>
+ [51 <./slowairs/Mangersta Beach.png> <./slowairs/Miss Rowan Davis.png> <./phot
+os/bigorkneysesh3.jpg>]
+<slowairs/"Vals Efter Lasse i Lyby".png, id=853, 540.8205pt x 146.7081pt>
 File: slowairs/"Vals Efter Lasse i Lyby".png Graphic file (type png)
 
 <use slowairs/"Vals Efter Lasse i Lyby".png>
 Package pdftex.def Info: slowairs/"Vals Efter Lasse i Lyby".png used on input l
-ine 535.
+ine 537.
 (pdftex.def)             Requested size: 364.1953pt x 98.79535pt.
 
-<photos/dualwhistles.jpg, id=1392, 1282.7925pt x 746.79pt>
+<photos/dualwhistles.jpg, id=854, 1282.7925pt x 746.79pt>
 File: photos/dualwhistles.jpg Graphic file (type jpg)
 
 <use photos/dualwhistles.jpg>
-Package pdftex.def Info: photos/dualwhistles.jpg used on input line 537.
+Package pdftex.def Info: photos/dualwhistles.jpg used on input line 539.
 (pdftex.def)             Requested size: 260.97595pt x 151.91924pt.
  [52 <./slowairs/Stronsay Waltz.png> <./slowairs/Vals Efter Lasse i Lyby.png> <
 ./photos/dualwhistles.jpg>]
-<strathspeys/"Ben Williams of Tiree".png, id=1399, 540.8205pt x 203.3196pt>
+<strathspeys/"Ben Williams of Tiree".png, id=861, 540.8205pt x 203.3196pt>
 File: strathspeys/"Ben Williams of Tiree".png Graphic file (type png)
 
 <use strathspeys/"Ben Williams of Tiree".png>
 Package pdftex.def Info: strathspeys/"Ben Williams of Tiree".png used on input 
-line 543.
+line 545.
 (pdftex.def)             Requested size: 364.1953pt x 136.91835pt.
 
-<strathspeys/"Calum's Road".png, id=1400, 540.8205pt x 207.6558pt>
+<strathspeys/"Calum's Road".png, id=862, 540.8205pt x 207.6558pt>
 File: strathspeys/"Calum's Road".png Graphic file (type png)
 
 <use strathspeys/"Calum's Road".png>
-Package pdftex.def Info: strathspeys/"Calum's Road".png used on input line 545.
+Package pdftex.def Info: strathspeys/"Calum's Road".png used on input line 547.
 
 (pdftex.def)             Requested size: 364.1953pt x 139.83841pt.
 
-<strathspeys/"The Hut on Staffin Island".png, id=1401, 540.8205pt x 317.7471pt>
+<strathspeys/"The Hut on Staffin Island".png, id=863, 540.8205pt x 317.7471pt>
 File: strathspeys/"The Hut on Staffin Island".png Graphic file (type png)
+
 <use strathspeys/"The Hut on Staffin Island".png>
 Package pdftex.def Info: strathspeys/"The Hut on Staffin Island".png used on in
-put line 547.
+put line 549.
 (pdftex.def)             Requested size: 364.1953pt x 213.97548pt.
  [53 <./strathspeys/Ben Williams of Tiree.png> <./strathspeys/Calum's Road.png>
 ]
-<photos/tallships.jpg, id=1409, 2055.68pt x 1541.76pt>
+<photos/tallships.jpg, id=871, 2055.68pt x 1541.76pt>
 File: photos/tallships.jpg Graphic file (type jpg)
 
 <use photos/tallships.jpg>
-Package pdftex.def Info: photos/tallships.jpg used on input line 551.
+Package pdftex.def Info: photos/tallships.jpg used on input line 553.
 (pdftex.def)             Requested size: 311.16364pt x 233.37129pt.
  [54 <./strathspeys/The Hut on Staffin Island.png> <./photos/tallships.jpg>]
-<other/"Bear Dance".png, id=1415, 540.8205pt x 98.2872pt>
+<other/"Bear Dance".png, id=877, 540.8205pt x 98.2872pt>
 File: other/"Bear Dance".png Graphic file (type png)
 
 <use other/"Bear Dance".png>
-Package pdftex.def Info: other/"Bear Dance".png used on input line 558.
+Package pdftex.def Info: other/"Bear Dance".png used on input line 560.
 (pdftex.def)             Requested size: 364.1953pt x 66.188pt.
 
-<other/"Ethnica".png, id=1416, 540.8205pt x 151.5261pt>
+<other/"Ethnica".png, id=878, 540.8205pt x 151.5261pt>
 File: other/"Ethnica".png Graphic file (type png)
 
 <use other/"Ethnica".png>
-Package pdftex.def Info: other/"Ethnica".png used on input line 561.
+Package pdftex.def Info: other/"Ethnica".png used on input line 563.
 (pdftex.def)             Requested size: 364.1953pt x 102.03986pt.
 
-<other/"The Lochaber Badger".png, id=1417, 540.8205pt x 92.0238pt>
+<other/"The Lochaber Badger".png, id=879, 540.8205pt x 92.0238pt>
 File: other/"The Lochaber Badger".png Graphic file (type png)
 
 <use other/"The Lochaber Badger".png>
-Package pdftex.def Info: other/"The Lochaber Badger".png used on input line 565
+Package pdftex.def Info: other/"The Lochaber Badger".png used on input line 567
 .
 (pdftex.def)             Requested size: 364.1953pt x 61.97015pt.
 
-<other/"Mazurka dans les Petites Fleurs".png, id=1418, 540.8205pt x 98.2872pt>
+<other/"Mazurka dans les Petites Fleurs".png, id=880, 540.8205pt x 98.2872pt>
 File: other/"Mazurka dans les Petites Fleurs".png Graphic file (type png)
 
 <use other/"Mazurka dans les Petites Fleurs".png>
 Package pdftex.def Info: other/"Mazurka dans les Petites Fleurs".png used on in
-put line 567.
+put line 569.
 (pdftex.def)             Requested size: 364.1953pt x 66.188pt.
 
-<other/"Mylecharaine's March".png, id=1419, 540.8205pt x 203.5605pt>
+<other/"Mylecharaine's March".png, id=881, 540.8205pt x 203.5605pt>
 File: other/"Mylecharaine's March".png Graphic file (type png)
 
 <use other/"Mylecharaine's March".png>
 Package pdftex.def Info: other/"Mylecharaine's March".png used on input line 57
-0.
+2.
 (pdftex.def)             Requested size: 364.1953pt x 137.08058pt.
  [55 <./other/Bear Dance.png> <./other/Ethnica.png> <./other/The Lochaber Badge
 r.png> <./other/Mazurka dans les Petites Fleurs.png>] <other/"Rackenitza".png, 
-id=1428, 540.8205pt x 312.4473pt>
+id=890, 540.8205pt x 312.4473pt>
 File: other/"Rackenitza".png Graphic file (type png)
 
 <use other/"Rackenitza".png>
-Package pdftex.def Info: other/"Rackenitza".png used on input line 574.
+Package pdftex.def Info: other/"Rackenitza".png used on input line 576.
 (pdftex.def)             Requested size: 364.1953pt x 210.40652pt.
 
-<other/"Oarsmen Go Berserk".png, id=1429, 541.0614pt x 201.8742pt>
+<other/"Oarsmen Go Berserk".png, id=891, 541.0614pt x 201.8742pt>
 File: other/"Oarsmen Go Berserk".png Graphic file (type png)
 
 <use other/"Oarsmen Go Berserk".png>
-Package pdftex.def Info: other/"Oarsmen Go Berserk".png used on input line 575.
+Package pdftex.def Info: other/"Oarsmen Go Berserk".png used on input line 577.
 
 (pdftex.def)             Requested size: 364.1953pt x 135.88956pt.
  [56 <./other/Mylecharaine's March.png> <./other/Rackenitza.png>]
-<other/"Rose of Raby".png, id=1436, 540.8205pt x 149.1171pt>
+<other/"Rose of Raby".png, id=898, 540.8205pt x 149.1171pt>
 File: other/"Rose of Raby".png Graphic file (type png)
 
 <use other/"Rose of Raby".png>
-Package pdftex.def Info: other/"Rose of Raby".png used on input line 580.
+Package pdftex.def Info: other/"Rose of Raby".png used on input line 582.
 (pdftex.def)             Requested size: 364.1953pt x 100.4176pt.
 
-<photos/anglershaven.jpg, id=1437, 933.4875pt x 489.32813pt>
+<photos/anglershaven.jpg, id=899, 933.4875pt x 489.32813pt>
 File: photos/anglershaven.jpg Graphic file (type jpg)
 
 <use photos/anglershaven.jpg>
-Package pdftex.def Info: photos/anglershaven.jpg used on input line 582.
+Package pdftex.def Info: photos/anglershaven.jpg used on input line 584.
 (pdftex.def)             Requested size: 301.1261pt x 157.85004pt.
  [57 <./other/Oarsmen Go Berserk.png> <./other/Rose of Raby.png> <./photos/angl
 ershaven.jpg>]
-<songs/"Aling Baling".png, id=1444, 540.8205pt x 108.8868pt>
+<photos/ceilidhdolla.jpg, id=907, 1461.46pt x 2601.72pt>
+File: photos/ceilidhdolla.jpg Graphic file (type jpg)
+
+<use photos/ceilidhdolla.jpg>
+Package pdftex.def Info: photos/ceilidhdolla.jpg used on input line 588.
+(pdftex.def)             Requested size: 281.05103pt x 500.32649pt.
+ [58 <./photos/ceilidhdolla.jpg>]
+<songs/"Aling Baling".png, id=912, 540.8205pt x 108.8868pt>
 File: songs/"Aling Baling".png Graphic file (type png)
 
 <use songs/"Aling Baling".png>
-Package pdftex.def Info: songs/"Aling Baling".png used on input line 588.
+Package pdftex.def Info: songs/"Aling Baling".png used on input line 594.
 (pdftex.def)             Requested size: 364.1953pt x 73.32593pt.
- (./lyrics/Aling Baling.tex) [58 <./songs/Aling Baling.png>] <songs/"Anderson's
- Coast".png, id=1450, 541.0614pt x 327.1422pt>
+ (./lyrics/Aling Baling.tex) [59 <./songs/Aling Baling.png>] <songs/"Anderson's
+ Coast".png, id=919, 541.0614pt x 327.1422pt>
 File: songs/"Anderson's Coast".png Graphic file (type png)
 
 <use songs/"Anderson's Coast".png>
-Package pdftex.def Info: songs/"Anderson's Coast".png used on input line 597.
+Package pdftex.def Info: songs/"Anderson's Coast".png used on input line 603.
 (pdftex.def)             Requested size: 364.1953pt x 220.21243pt.
- (./lyrics/Anderson's Coast.tex [59 <./songs/Anderson's Coast.png>])
-<photos/intenseeamon.jpg, id=1458, 1413.28pt x 2055.68pt>
+ (./lyrics/Anderson's Coast.tex [60 <./songs/Anderson's Coast.png>])
+<photos/intenseeamon.jpg, id=926, 1413.28pt x 2055.68pt>
 File: photos/intenseeamon.jpg Graphic file (type jpg)
 
 <use photos/intenseeamon.jpg>
-Package pdftex.def Info: photos/intenseeamon.jpg used on input line 599.
+Package pdftex.def Info: photos/intenseeamon.jpg used on input line 605.
 (pdftex.def)             Requested size: 240.90088pt x 350.402pt.
- [60 <./photos/intenseeamon.jpg>]
-<songs/"The Ballad of the Orphir Taxi".png, id=1463, 540.8205pt x 214.401pt>
+ [61 <./photos/intenseeamon.jpg>]
+<songs/"The Ballad of the Orphir Taxi".png, id=931, 540.8205pt x 214.401pt>
 File: songs/"The Ballad of the Orphir Taxi".png Graphic file (type png)
 
 <use songs/"The Ballad of the Orphir Taxi".png>
 Package pdftex.def Info: songs/"The Ballad of the Orphir Taxi".png used on inpu
-t line 603.
+t line 609.
 (pdftex.def)             Requested size: 364.1953pt x 144.38072pt.
 
-(./lyrics/The Ballad of the Orphir Taxi.tex [61 <./songs/The Ballad of the Orph
-ir Taxi.png>]) [62]
-<songs/"Bold Sir Rylas".png, id=1473, 540.8205pt x 217.2918pt>
+(./lyrics/The Ballad of the Orphir Taxi.tex [62 <./songs/The Ballad of the Orph
+ir Taxi.png>]) [63]
+<songs/"Bold Sir Rylas".png, id=941, 540.8205pt x 217.2918pt>
 File: songs/"Bold Sir Rylas".png Graphic file (type png)
 
 <use songs/"Bold Sir Rylas".png>
-Package pdftex.def Info: songs/"Bold Sir Rylas".png used on input line 611.
+Package pdftex.def Info: songs/"Bold Sir Rylas".png used on input line 617.
 (pdftex.def)             Requested size: 364.1953pt x 146.32742pt.
- (./lyrics/Bold Sir Rylas.tex [63 <./songs/Bold Sir Rylas.png>]) [64]
-<songs/"Captain Ward".png, id=1483, 540.8205pt x 269.5671pt>
+ (./lyrics/Bold Sir Rylas.tex [64 <./songs/Bold Sir Rylas.png>]) [65]
+<songs/"Captain Ward".png, id=952, 540.8205pt x 269.5671pt>
 File: songs/"Captain Ward".png Graphic file (type png)
 
 <use songs/"Captain Ward".png>
-Package pdftex.def Info: songs/"Captain Ward".png used on input line 616.
+Package pdftex.def Info: songs/"Captain Ward".png used on input line 622.
 (pdftex.def)             Requested size: 364.1953pt x 181.53038pt.
- (./lyrics/Captain Ward.tex [65 <./songs/Captain Ward.png>]) <photos/ceilidhdol
-la.jpg, id=1490, 1461.46pt x 2601.72pt>
-File: photos/ceilidhdolla.jpg Graphic file (type jpg)
+ (./lyrics/Captain Ward.tex [66 <./songs/Captain Ward.png>]) <photos/grumpycoll
+.jpg, id=958, 405.76593pt x 722.7pt>
+File: photos/grumpycoll.jpg Graphic file (type jpg)
 
-<use photos/ceilidhdolla.jpg>
-Package pdftex.def Info: photos/ceilidhdolla.jpg used on input line 617.
-(pdftex.def)             Requested size: 230.86334pt x 410.96405pt.
- [66 <./photos/ceilidhdolla.jpg>]
-<songs/"Dundee Doag".png, id=1495, 540.8205pt x 215.8464pt>
+<use photos/grumpycoll.jpg>
+Package pdftex.def Info: photos/grumpycoll.jpg used on input line 623.
+(pdftex.def)             Requested size: 230.86334pt x 411.1934pt.
+ [67 <./photos/grumpycoll.jpg>]
+<songs/"Dundee Doag".png, id=963, 540.8205pt x 215.8464pt>
 File: songs/"Dundee Doag".png Graphic file (type png)
 
 <use songs/"Dundee Doag".png>
-Package pdftex.def Info: songs/"Dundee Doag".png used on input line 621.
+Package pdftex.def Info: songs/"Dundee Doag".png used on input line 627.
 (pdftex.def)             Requested size: 364.1953pt x 145.35408pt.
- (./lyrics/Dundee Doag.tex [67 <./songs/Dundee Doag.png>]) [68]
-<songs/"Farewell to Nova Scotia".png, id=1505, 540.8205pt x 92.0238pt>
+ (./lyrics/Dundee Doag.tex [68 <./songs/Dundee Doag.png>]) [69]
+<songs/"Farewell to Nova Scotia".png, id=973, 540.8205pt x 92.0238pt>
 File: songs/"Farewell to Nova Scotia".png Graphic file (type png)
 
 <use songs/"Farewell to Nova Scotia".png>
 Package pdftex.def Info: songs/"Farewell to Nova Scotia".png used on input line
- 625.
+ 631.
 (pdftex.def)             Requested size: 364.1953pt x 61.97015pt.
- (./lyrics/Farewell to Nova Scotia.tex) <photos/openingwine.jpg, id=1506, 542.0
-25pt x 963.6pt>
+ (./lyrics/Farewell to Nova Scotia.tex) <photos/openingwine.jpg, id=974, 542.02
+5pt x 963.6pt>
 File: photos/openingwine.jpg Graphic file (type jpg)
 
 <use photos/openingwine.jpg>
-Package pdftex.def Info: photos/openingwine.jpg used on input line 627.
+Package pdftex.def Info: photos/openingwine.jpg used on input line 633.
 (pdftex.def)             Requested size: 281.05103pt x 499.66338pt.
- [69 <./songs/Farewell to Nova Scotia.png>]
-[70 <./photos/openingwine.jpg>]
-<songs/"Fuck EUSA".png, id=1517, 540.8205pt x 267.1581pt>
+ [70 <./songs/Farewell to Nova Scotia.png>]
+[71 <./photos/openingwine.jpg>]
+<songs/"Fuck EUSA".png, id=985, 540.8205pt x 214.401pt>
 File: songs/"Fuck EUSA".png Graphic file (type png)
 
 <use songs/"Fuck EUSA".png>
-Package pdftex.def Info: songs/"Fuck EUSA".png used on input line 631.
-(pdftex.def)             Requested size: 364.1953pt x 179.90813pt.
- (./lyrics/Fuck EUSA.tex [71 <./songs/Fuck EUSA.png>]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ² in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ² in font cmr10!
-) [72]
-<songs/"The Georgemas Junction Blues".png, id=1528, 540.8205pt x 221.8689pt>
+Package pdftex.def Info: songs/"Fuck EUSA".png used on input line 637.
+(pdftex.def)             Requested size: 364.1953pt x 144.38072pt.
+ (./lyrics/Fuck EUSA.tex [72 <./songs/Fuck EUSA.png>]) <photos/ireland2015.jpg,
+ id=991, 3661.68pt x 2746.26pt>
+File: photos/ireland2015.jpg Graphic file (type jpg)
+
+<use photos/ireland2015.jpg>
+Package pdftex.def Info: photos/ireland2015.jpg used on input line 640.
+(pdftex.def)             Requested size: 291.08856pt x 218.28053pt.
+ [73 <./photos/ireland2015.jpg>]
+<songs/"The Georgemas Junction Blues".png, id=996, 540.8205pt x 221.8689pt>
 File: songs/"The Georgemas Junction Blues".png Graphic file (type png)
 
 <use songs/"The Georgemas Junction Blues".png>
 Package pdftex.def Info: songs/"The Georgemas Junction Blues".png used on input
- line 636.
+ line 644.
 (pdftex.def)             Requested size: 364.1953pt x 149.40971pt.
 
-(./lyrics/The Georgemas Junction Blues.tex) [73 <./songs/The Georgemas Junction
- Blues.png>] <photos/roadtoerrogal.jpg, id=1534, 2746.26pt x 3661.68pt>
+(./lyrics/The Georgemas Junction Blues.tex) [74 <./songs/The Georgemas Junction
+ Blues.png>] <photos/roadtoerrogal.jpg, id=1002, 2746.26pt x 3661.68pt>
 File: photos/roadtoerrogal.jpg Graphic file (type jpg)
 
 <use photos/roadtoerrogal.jpg>
-Package pdftex.def Info: photos/roadtoerrogal.jpg used on input line 644.
+Package pdftex.def Info: photos/roadtoerrogal.jpg used on input line 652.
 (pdftex.def)             Requested size: 301.1261pt x 401.50098pt.
- [74 <./photos/roadtoerrogal.jpg>]
-<songs/"Gloomy December".png, id=1539, 540.8205pt x 404.9529pt>
+ [75 <./photos/roadtoerrogal.jpg>]
+<songs/"Gloomy December".png, id=1007, 540.8205pt x 404.9529pt>
 File: songs/"Gloomy December".png Graphic file (type png)
 
 <use songs/"Gloomy December".png>
-Package pdftex.def Info: songs/"Gloomy December".png used on input line 649.
+Package pdftex.def Info: songs/"Gloomy December".png used on input line 657.
 (pdftex.def)             Requested size: 364.1953pt x 272.70114pt.
- (./lyrics/Gloomy December.tex) [75 <./songs/Gloomy December.png>]
-<songs/"Greenland (is a hell of a place)".png, id=1545, 540.8205pt x 161.6439pt
+ (./lyrics/Gloomy December.tex) [76 <./songs/Gloomy December.png>]
+<songs/"Greenland (is a hell of a place)".png, id=1013, 540.8205pt x 161.6439pt
 >
 File: songs/"Greenland (is a hell of a place)".png Graphic file (type png)
  <use songs/"Greenland (is a hell of a place)".png>
 Package pdftex.def Info: songs/"Greenland (is a hell of a place)".png used on i
-nput line 652.
+nput line 660.
 (pdftex.def)             Requested size: 364.1953pt x 108.85333pt.
 
-(./lyrics/Greenland (is a hell of a place).tex) [76 <./songs/Greenland (is a he
+(./lyrics/Greenland (is a hell of a place).tex) [77 <./songs/Greenland (is a he
 ll of a place).png>]
-<songs/"Good Old Mountain Dew".png, id=1551, 540.8205pt x 216.81pt>
-File: songs/"Good Old Mountain Dew".png Graphic file (type png)
+<songs/"Good Ol' Mountain Dew".png, id=1020, 540.8205pt x 216.81pt>
+File: songs/"Good Ol' Mountain Dew".png Graphic file (type png)
 
-<use songs/"Good Old Mountain Dew".png>
-Package pdftex.def Info: songs/"Good Old Mountain Dew".png used on input line 6
-56.
+<use songs/"Good Ol' Mountain Dew".png>
+Package pdftex.def Info: songs/"Good Ol' Mountain Dew".png used on input line 6
+64.
 (pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
- (./lyrics/Good Old Mountain Dew.tex
-[77 <./songs/Good Old Mountain Dew.png>])
-<photos/freshersfair.jpg, id=1558, 454.69875pt x 606.265pt>
+ (./lyrics/Good Ol' Mountain Dew.tex
+[78 <./songs/Good Ol' Mountain Dew.png>])
+<photos/freshersfair.jpg, id=1026, 454.69875pt x 606.265pt>
 File: photos/freshersfair.jpg Graphic file (type jpg)
 
 <use photos/freshersfair.jpg>
-Package pdftex.def Info: photos/freshersfair.jpg used on input line 658.
-(pdftex.def)             Requested size: 291.08856pt x 388.11928pt.
- [78 <./photos/freshersfair.jpg>]
-<songs/"Guise o' Tough".png, id=1563, 540.8205pt x 166.7028pt>
+Package pdftex.def Info: photos/freshersfair.jpg used on input line 666.
+(pdftex.def)             Requested size: 311.16364pt x 414.89124pt.
+ [79 <./photos/freshersfair.jpg>]
+<songs/"Guise o' Tough".png, id=1031, 540.8205pt x 166.7028pt>
 File: songs/"Guise o' Tough".png Graphic file (type png)
 
 <use songs/"Guise o' Tough".png>
-Package pdftex.def Info: songs/"Guise o' Tough".png used on input line 662.
+Package pdftex.def Info: songs/"Guise o' Tough".png used on input line 670.
 (pdftex.def)             Requested size: 364.1953pt x 112.26007pt.
- (./lyrics/Guise o' Tough.tex [79 <./songs/Guise o' Tough.png>]) <photos/accord
-ionstack.jpg, id=1569, 963.6pt x 722.7pt>
+ (./lyrics/Guise o' Tough.tex [80 <./songs/Guise o' Tough.png>]) <photos/accord
+ionstack.jpg, id=1037, 963.6pt x 722.7pt>
 File: photos/accordionstack.jpg Graphic file (type jpg)
 
 <use photos/accordionstack.jpg>
-Package pdftex.def Info: photos/accordionstack.jpg used on input line 664.
+Package pdftex.def Info: photos/accordionstack.jpg used on input line 672.
 (pdftex.def)             Requested size: 331.23871pt x 248.4275pt.
- [80 <./photos/accordionstack.jpg>]
-<songs/"Hang Me, Oh Hang Me".png, id=1574, 541.0614pt x 219.219pt>
+ [81 <./photos/accordionstack.jpg>]
+<songs/"Hang Me, Oh Hang Me".png, id=1042, 541.0614pt x 219.219pt>
 File: songs/"Hang Me, Oh Hang Me".png Graphic file (type png)
 
 <use songs/"Hang Me, Oh Hang Me".png>
-Package pdftex.def Info: songs/"Hang Me, Oh Hang Me".png used on input line 668
+Package pdftex.def Info: songs/"Hang Me, Oh Hang Me".png used on input line 676
 .
 (pdftex.def)             Requested size: 364.1953pt x 147.56502pt.
  (./lyrics/Hang Me, Oh Hang Me.tex
-[81 <./songs/Hang Me, Oh Hang Me.png>])
-<photos/paint2.jpg, id=1580, 441.90094pt x 542.025pt>
+[82 <./songs/Hang Me, Oh Hang Me.png>])
+<photos/paint2.jpg, id=1048, 441.90094pt x 542.025pt>
 File: photos/paint2.jpg Graphic file (type jpg)
  <use photos/paint2.jpg>
-Package pdftex.def Info: photos/paint2.jpg used on input line 670.
+Package pdftex.def Info: photos/paint2.jpg used on input line 678.
 (pdftex.def)             Requested size: 291.08856pt x 357.0594pt.
 
-[82 <./photos/paint2.jpg>]
-<songs/"Hanging Johnny".png, id=1585, 540.8205pt x 106.4778pt>
+[83 <./photos/paint2.jpg>]
+<songs/"Hanging Johnny".png, id=1054, 540.8205pt x 106.4778pt>
 File: songs/"Hanging Johnny".png Graphic file (type png)
 
 <use songs/"Hanging Johnny".png>
-Package pdftex.def Info: songs/"Hanging Johnny".png used on input line 674.
+Package pdftex.def Info: songs/"Hanging Johnny".png used on input line 682.
 (pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
- (./lyrics/Hanging Johnny.tex) [83 <./songs/Hanging Johnny.png>]
-<songs/"Hey, Ho, Nobody Home".png, id=1592, 540.8205pt x 106.4778pt>
+ (./lyrics/Hanging Johnny.tex) [84 <./songs/Hanging Johnny.png>]
+<songs/"Hey, Ho, Nobody Home".png, id=1060, 540.8205pt x 106.4778pt>
 File: songs/"Hey, Ho, Nobody Home".png Graphic file (type png)
 
 <use songs/"Hey, Ho, Nobody Home".png>
-Package pdftex.def Info: songs/"Hey, Ho, Nobody Home".png used on input line 67
-8.
+Package pdftex.def Info: songs/"Hey, Ho, Nobody Home".png used on input line 68
+6.
 (pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
  (./lyrics/Hey, Ho, Nobody Home.tex)
-<photos/cocktail.png, id=1593, 362.76706pt x 554.77853pt>
+<photos/cocktail.png, id=1061, 362.76706pt x 554.77853pt>
 File: photos/cocktail.png Graphic file (type png)
 
 <use photos/cocktail.png>
-Package pdftex.def Info: photos/cocktail.png used on input line 686.
+Package pdftex.def Info: photos/cocktail.png used on input line 694.
 (pdftex.def)             Requested size: 30.11261pt x 46.05083pt.
- [84 <./songs/Hey, Ho, Nobody Home.png> <./photos/cocktail.png>] <songs/"If I w
-ere a Blackbird".png, id=1601, 540.8205pt x 216.81pt>
+ [85 <./songs/Hey, Ho, Nobody Home.png> <./photos/cocktail.png>] <songs/"If I w
+ere a Blackbird".png, id=1070, 540.8205pt x 216.81pt>
 File: songs/"If I were a Blackbird".png Graphic file (type png)
 
 <use songs/"If I were a Blackbird".png>
 Package pdftex.def Info: songs/"If I were a Blackbird".png used on input line 6
-90.
+98.
 (pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
  (./lyrics/If I were a Blackbird.tex)
-[85 <./songs/If I were a Blackbird.png>]
-<songs/"John Ball".png, id=1607, 540.8205pt x 216.81pt>
+[86 <./songs/If I were a Blackbird.png>]
+<songs/"John Ball".png, id=1076, 540.8205pt x 216.81pt>
 File: songs/"John Ball".png Graphic file (type png)
 
 <use songs/"John Ball".png>
-Package pdftex.def Info: songs/"John Ball".png used on input line 695.
+Package pdftex.def Info: songs/"John Ball".png used on input line 703.
 (pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
- (./lyrics/John Ball.tex) [86 <./songs/John Ball.png>]
-<songs/"Keep Your Feet Still Geordey Hinny".png, id=1613, 540.8205pt x 324.7332
+ (./lyrics/John Ball.tex) [87 <./songs/John Ball.png>]
+<songs/"Keep Your Feet Still Geordey Hinny".png, id=1082, 540.8205pt x 324.7332
 pt>
 File: songs/"Keep Your Feet Still Geordey Hinny".png Graphic file (type png)
  <use songs/"Keep Your Feet Still Geordey Hinny".png>
 Package pdftex.def Info: songs/"Keep Your Feet Still Geordey Hinny".png used on
- input line 698.
+ input line 706.
 (pdftex.def)             Requested size: 364.1953pt x 218.68004pt.
 
-(./lyrics/Keep Your Feet Still Geordey Hinny.tex [87 <./songs/Keep Your Feet St
+(./lyrics/Keep Your Feet Still Geordey Hinny.tex [88 <./songs/Keep Your Feet St
 ill Geordey Hinny.png>])
-<photos/officialorkneysession.jpg, id=1619, 2055.68pt x 1541.76pt>
+<photos/officialorkneysession.jpg, id=1088, 2055.68pt x 1541.76pt>
 File: photos/officialorkneysession.jpg Graphic file (type jpg)
 
 <use photos/officialorkneysession.jpg>
 Package pdftex.def Info: photos/officialorkneysession.jpg used on input line 70
-0.
+8.
 (pdftex.def)             Requested size: 331.23871pt x 248.4275pt.
- [88 <./photos/officialorkneysession.jpg>] <songs/"The Last Shanty".png, id=162
+ [89 <./photos/officialorkneysession.jpg>] <songs/"The Last Shanty".png, id=109
 4, 540.8205pt x 435.0654pt>
 File: songs/"The Last Shanty".png Graphic file (type png)
 
 <use songs/"The Last Shanty".png>
-Package pdftex.def Info: songs/"The Last Shanty".png used on input line 705.
+Package pdftex.def Info: songs/"The Last Shanty".png used on input line 713.
 (pdftex.def)             Requested size: 364.1953pt x 292.97932pt.
- (./lyrics/The Last Shanty.tex [89 <./songs/The Last Shanty.png>])
-<photos/hownottoburrito.jpg, id=1631, 3661.68pt x 2746.26pt>
+ (./lyrics/The Last Shanty.tex [90 <./songs/The Last Shanty.png>])
+<photos/hownottoburrito.jpg, id=1100, 3661.68pt x 2746.26pt>
 File: photos/hownottoburrito.jpg Graphic file (type jpg)
 
 <use photos/hownottoburrito.jpg>
-Package pdftex.def Info: photos/hownottoburrito.jpg used on input line 708.
+Package pdftex.def Info: photos/hownottoburrito.jpg used on input line 716.
 (pdftex.def)             Requested size: 331.23871pt x 248.40987pt.
- [90 <./photos/hownottoburrito.jpg>]
-<songs/"Little Black Pony".png, id=1636, 540.8205pt x 161.6439pt>
+ [91 <./photos/hownottoburrito.jpg>]
+<songs/"Little Black Pony".png, id=1105, 540.8205pt x 161.6439pt>
 File: songs/"Little Black Pony".png Graphic file (type png)
 
 <use songs/"Little Black Pony".png>
-Package pdftex.def Info: songs/"Little Black Pony".png used on input line 712.
+Package pdftex.def Info: songs/"Little Black Pony".png used on input line 720.
 (pdftex.def)             Requested size: 364.1953pt x 108.85333pt.
- (./lyrics/Little Black Pony.tex [91 <./songs/Little Black Pony.png>])
-<photos/standingstones.jpg, id=1642, 462.22687pt x 615.80063pt>
+ (./lyrics/Little Black Pony.tex [92 <./songs/Little Black Pony.png>])
+<photos/standingstones.jpg, id=1111, 462.22687pt x 615.80063pt>
 File: photos/standingstones.jpg Graphic file (type jpg)
 
 <use photos/standingstones.jpg>
-Package pdftex.def Info: photos/standingstones.jpg used on input line 714.
+Package pdftex.def Info: photos/standingstones.jpg used on input line 722.
 (pdftex.def)             Requested size: 250.93842pt x 334.31268pt.
- [92 <./photos/standingstones.jpg>]
-<songs/"Midnight Feast".png, id=1647, 541.0614pt x 271.9761pt>
+ [93 <./photos/standingstones.jpg>]
+<songs/"Midnight Feast".png, id=1116, 541.0614pt x 271.9761pt>
 File: songs/"Midnight Feast".png Graphic file (type png)
 
 <use songs/"Midnight Feast".png>
-Package pdftex.def Info: songs/"Midnight Feast".png used on input line 718.
+Package pdftex.def Info: songs/"Midnight Feast".png used on input line 726.
 (pdftex.def)             Requested size: 364.1953pt x 183.07793pt.
- (./lyrics/Midnight Feast.tex) [93 <./songs/Midnight Feast.png>]
-<photos/lewisandrowan.jpg, id=1653, 405.01312pt x 618.05907pt>
+ (./lyrics/Midnight Feast.tex) [94 <./songs/Midnight Feast.png>]
+<photos/lewisandrowan.jpg, id=1122, 405.01312pt x 618.05907pt>
 File: photos/lewisandrowan.jpg Graphic file (type jpg)
 
 <use photos/lewisandrowan.jpg>
-Package pdftex.def Info: photos/lewisandrowan.jpg used on input line 720.
+Package pdftex.def Info: photos/lewisandrowan.jpg used on input line 728.
 (pdftex.def)             Requested size: 301.1261pt x 459.53506pt.
- [94 <./photos/lewisandrowan.jpg>]
-<songs/"Midnight Meat Party".png, id=1658, 540.8205pt x 407.6028pt>
+ [95 <./photos/lewisandrowan.jpg>]
+<songs/"Midnight Meat Party".png, id=1128, 540.8205pt x 407.6028pt>
 File: songs/"Midnight Meat Party".png Graphic file (type png)
 
 <use songs/"Midnight Meat Party".png>
-Package pdftex.def Info: songs/"Midnight Meat Party".png used on input line 725
+Package pdftex.def Info: songs/"Midnight Meat Party".png used on input line 733
 .
 (pdftex.def)             Requested size: 364.1953pt x 274.48561pt.
  (./lyrics/Midnight Meat Party.tex
-[95 <./songs/Midnight Meat Party.png>])
+[96 <./songs/Midnight Meat Party.png>])
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 730.
+(Font)              <9> on input line 738.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 730.
+(Font)              <6> on input line 738.
 
-<photos/noroomintheinn.jpg, id=1665, 2055.68pt x 1541.76pt>
+<photos/noroomintheinn.jpg, id=1134, 2055.68pt x 1541.76pt>
 File: photos/noroomintheinn.jpg Graphic file (type jpg)
 
 <use photos/noroomintheinn.jpg>
-Package pdftex.def Info: photos/noroomintheinn.jpg used on input line 732.
+Package pdftex.def Info: photos/noroomintheinn.jpg used on input line 740.
 (pdftex.def)             Requested size: 291.08856pt x 218.31508pt.
- [96 <./photos/noroomintheinn.jpg>]
-<songs/"The Moose Song".png, id=1671, 540.8205pt x 435.0654pt>
+ [97 <./photos/noroomintheinn.jpg>]
+<songs/"The Moose Song".png, id=1140, 540.8205pt x 431.6928pt>
 File: songs/"The Moose Song".png Graphic file (type png)
 
 <use songs/"The Moose Song".png>
-Package pdftex.def Info: songs/"The Moose Song".png used on input line 736.
-(pdftex.def)             Requested size: 364.1953pt x 292.97932pt.
- (./lyrics/The Moose Song.tex [97 <./songs/The Moose Song.png>]) <photos/irelan
-d2015.jpg, id=1678, 3661.68pt x 2746.26pt>
-File: photos/ireland2015.jpg Graphic file (type jpg)
+Package pdftex.def Info: songs/"The Moose Song".png used on input line 744.
+(pdftex.def)             Requested size: 364.1953pt x 290.70818pt.
+ (./lyrics/The Moose Song.tex [98 <./songs/The Moose Song.png>])
+<photos/spottherealone.jpg, id=1146, 1385.92781pt x 777.65532pt>
+File: photos/spottherealone.jpg Graphic file (type jpg)
 
-<use photos/ireland2015.jpg>
-Package pdftex.def Info: photos/ireland2015.jpg used on input line 738.
-(pdftex.def)             Requested size: 331.23871pt x 248.40987pt.
- [98 <./photos/ireland2015.jpg>]
-<songs/"Noah's Ark Shanty".png, id=1683, 540.8205pt x 103.8279pt>
+<use photos/spottherealone.jpg>
+Package pdftex.def Info: photos/spottherealone.jpg used on input line 746.
+(pdftex.def)             Requested size: 283.05853pt x 158.82707pt.
+ [99 <./photos/spottherealone.jpg>]
+<songs/"Noah's Ark Shanty".png, id=1151, 540.8205pt x 103.8279pt>
 File: songs/"Noah's Ark Shanty".png Graphic file (type png)
 
 <use songs/"Noah's Ark Shanty".png>
-Package pdftex.def Info: songs/"Noah's Ark Shanty".png used on input line 742.
+Package pdftex.def Info: songs/"Noah's Ark Shanty".png used on input line 750.
 (pdftex.def)             Requested size: 364.1953pt x 69.9192pt.
- (./lyrics/Noah's Ark Shanty.tex [99 <./songs/Noah's Ark Shanty.png>])
+ (./lyrics/Noah's Ark Shanty.tex [100 <./songs/Noah's Ark Shanty.png>])
 File: photos/cocktail.png Graphic file (type png)
  <use photos/cocktail.png>
-Package pdftex.def Info: photos/cocktail.png used on input line 748.
+Package pdftex.def Info: photos/cocktail.png used on input line 756.
 (pdftex.def)             Requested size: 30.11261pt x 46.05083pt.
- [100]
-<songs/"Norlan' Wind".png, id=1693, 540.8205pt x 224.7597pt>
+ [101]
+<songs/"Norlan' Wind".png, id=1162, 540.8205pt x 224.7597pt>
 File: songs/"Norlan' Wind".png Graphic file (type png)
 
 <use songs/"Norlan' Wind".png>
-Package pdftex.def Info: songs/"Norlan' Wind".png used on input line 752.
+Package pdftex.def Info: songs/"Norlan' Wind".png used on input line 760.
 (pdftex.def)             Requested size: 364.1953pt x 151.35643pt.
- (./lyrics/Norlan' Wind.tex) [101 <./songs/Norlan' Wind.png>] <songs/"Plov".png
-, id=1700, 540.8205pt x 159.2349pt>
+ (./lyrics/Norlan' Wind.tex) [102 <./songs/Norlan' Wind.png>] <songs/"Plov".png
+, id=1168, 540.8205pt x 159.2349pt>
 File: songs/"Plov".png Graphic file (type png)
 
 <use songs/"Plov".png>
-Package pdftex.def Info: songs/"Plov".png used on input line 758.
+Package pdftex.def Info: songs/"Plov".png used on input line 766.
 (pdftex.def)             Requested size: 364.1953pt x 107.23108pt.
- (./lyrics/Plov.tex) [102 <./songs/Plov.png>]
-<songs/"Oak and Ash and Thorn".png, id=1706, 540.8205pt x 106.4778pt>
+ (./lyrics/Plov.tex) [103 <./songs/Plov.png>]
+<songs/"Oak and Ash and Thorn".png, id=1174, 540.8205pt x 106.4778pt>
 File: songs/"Oak and Ash and Thorn".png Graphic file (type png)
 
 <use songs/"Oak and Ash and Thorn".png>
 Package pdftex.def Info: songs/"Oak and Ash and Thorn".png used on input line 7
-66.
+74.
 (pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
  (./lyrics/Oak and Ash and Thorn.tex
-[103 <./songs/Oak and Ash and Thorn.png>])
-<photos/bowdancing.jpg, id=1712, 2055.68pt x 1541.76pt>
+[104 <./songs/Oak and Ash and Thorn.png>])
+<photos/bowdancing.jpg, id=1180, 2055.68pt x 1541.76pt>
 File: photos/bowdancing.jpg Graphic file (type jpg)
 
 <use photos/bowdancing.jpg>
-Package pdftex.def Info: photos/bowdancing.jpg used on input line 768.
+Package pdftex.def Info: photos/bowdancing.jpg used on input line 776.
 (pdftex.def)             Requested size: 331.23871pt x 248.4275pt.
- [104 <./photos/bowdancing.jpg>]
-<songs/"Poor Ned".png, id=1717, 540.8205pt x 324.7332pt>
+ [105 <./photos/bowdancing.jpg>]
+<songs/"Poor Ned".png, id=1185, 540.8205pt x 324.7332pt>
 File: songs/"Poor Ned".png Graphic file (type png)
 
 <use songs/"Poor Ned".png>
-Package pdftex.def Info: songs/"Poor Ned".png used on input line 773.
+Package pdftex.def Info: songs/"Poor Ned".png used on input line 781.
 (pdftex.def)             Requested size: 364.1953pt x 218.68004pt.
- (./lyrics/Poor Ned.tex [105 <./songs/Poor Ned.png>]) <photos/tractor.jpg, id=1
-723, 963.6pt x 722.7pt>
+ (./lyrics/Poor Ned.tex [106 <./songs/Poor Ned.png>]) <photos/tractor.jpg, id=1
+191, 963.6pt x 722.7pt>
 File: photos/tractor.jpg Graphic file (type jpg)
  <use photos/tractor.jpg>
-Package pdftex.def Info: photos/tractor.jpg used on input line 774.
+Package pdftex.def Info: photos/tractor.jpg used on input line 782.
 (pdftex.def)             Requested size: 331.23871pt x 248.4275pt.
 
-[106 <./photos/tractor.jpg>]
-<songs/"Prickle Eye Bush".png, id=1728, 540.8205pt x 103.8279pt>
+[107 <./photos/tractor.jpg>]
+<songs/"Prickle Eye Bush".png, id=1197, 540.8205pt x 103.8279pt>
 File: songs/"Prickle Eye Bush".png Graphic file (type png)
 
 <use songs/"Prickle Eye Bush".png>
-Package pdftex.def Info: songs/"Prickle Eye Bush".png used on input line 778.
+Package pdftex.def Info: songs/"Prickle Eye Bush".png used on input line 786.
 (pdftex.def)             Requested size: 364.1953pt x 69.9192pt.
- (./lyrics/Prickle Eye Bush.tex [107 <./songs/Prickle Eye Bush.png>])
-<photos/chillysonggroupnethybridge.jpg, id=1735, 3661.68pt x 2746.26pt>
+ (./lyrics/Prickle Eye Bush.tex [108 <./songs/Prickle Eye Bush.png>])
+<photos/chillysonggroupnethybridge.jpg, id=1203, 3661.68pt x 2746.26pt>
 File: photos/chillysonggroupnethybridge.jpg Graphic file (type jpg)
 
 <use photos/chillysonggroupnethybridge.jpg>
 Package pdftex.def Info: photos/chillysonggroupnethybridge.jpg used on input li
-ne 780.
+ne 788.
 (pdftex.def)             Requested size: 331.23871pt x 248.40987pt.
- [108 <./photos/chillysonggroupnethybridge.jpg>]
-<songs/"Railway Station Porter".png, id=1740, 540.8205pt x 437.7153pt>
+ [109 <./photos/chillysonggroupnethybridge.jpg>]
+<songs/"Railway Station Porter".png, id=1208, 540.8205pt x 437.7153pt>
 File: songs/"Railway Station Porter".png Graphic file (type png)
 
 <use songs/"Railway Station Porter".png>
 Package pdftex.def Info: songs/"Railway Station Porter".png used on input line 
-784.
+792.
 (pdftex.def)             Requested size: 364.1953pt x 294.76381pt.
  (./lyrics/Railway Station Porter.tex
-[109 <./songs/Railway Station Porter.png>])
-<photos/mattygroves.png, id=1746, 1228.59pt x 819.06pt>
+[110 <./songs/Railway Station Porter.png>])
+<photos/mattygroves.png, id=1214, 1228.59pt x 819.06pt>
 File: photos/mattygroves.png Graphic file (type png)
 
 <use photos/mattygroves.png>
-Package pdftex.def Info: photos/mattygroves.png used on input line 786.
+Package pdftex.def Info: photos/mattygroves.png used on input line 794.
 (pdftex.def)             Requested size: 311.16364pt x 207.43903pt.
 
-<photos/cannon.jpg, id=1747, 722.7pt x 381.67593pt>
+<photos/cannon.jpg, id=1215, 722.7pt x 381.67593pt>
 File: photos/cannon.jpg Graphic file (type jpg)
  <use photos/cannon.jpg>
-Package pdftex.def Info: photos/cannon.jpg used on input line 788.
+Package pdftex.def Info: photos/cannon.jpg used on input line 796.
 (pdftex.def)             Requested size: 311.16364pt x 164.33293pt.
 
-[110 <./photos/mattygroves.png> <./photos/cannon.jpg>]
-<songs/"Rattlin' Bog".png, id=1753, 540.8205pt x 214.401pt>
+[111 <./photos/mattygroves.png> <./photos/cannon.jpg>]
+<songs/"Rattlin' Bog".png, id=1221, 540.8205pt x 214.401pt>
 File: songs/"Rattlin' Bog".png Graphic file (type png)
 
 <use songs/"Rattlin' Bog".png>
-Package pdftex.def Info: songs/"Rattlin' Bog".png used on input line 792.
+Package pdftex.def Info: songs/"Rattlin' Bog".png used on input line 800.
 (pdftex.def)             Requested size: 364.1953pt x 144.38072pt.
- (./lyrics/Rattlin' Bog.tex [111 <./songs/Rattlin' Bog.png>]) <photos/lasertag.
-jpg, id=1759, 2457.18pt x 1382.16376pt>
+ (./lyrics/Rattlin' Bog.tex [112 <./songs/Rattlin' Bog.png>]) <photos/lasertag.
+jpg, id=1227, 2457.18pt x 1382.16376pt>
 File: photos/lasertag.jpg Graphic file (type jpg)
 
 <use photos/lasertag.jpg>
-Package pdftex.def Info: photos/lasertag.jpg used on input line 794.
+Package pdftex.def Info: photos/lasertag.jpg used on input line 802.
 (pdftex.def)             Requested size: 301.1261pt x 169.37454pt.
- [112 <./photos/lasertag.jpg>]
-<songs/"Shady Grove".png, id=1764, 540.8205pt x 106.4778pt>
+ [113 <./photos/lasertag.jpg>]
+<songs/"Shady Grove".png, id=1234, 540.8205pt x 106.4778pt>
 File: songs/"Shady Grove".png Graphic file (type png)
 
 <use songs/"Shady Grove".png>
-Package pdftex.def Info: songs/"Shady Grove".png used on input line 798.
+Package pdftex.def Info: songs/"Shady Grove".png used on input line 806.
 (pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
- (./lyrics/Shady Grove.tex) [113 <./songs/Shady Grove.png>] <songs/"The Sly Bol
-d Rambler".png, id=1771, 540.8205pt x 215.8464pt>
+ (./lyrics/Shady Grove.tex) [114 <./songs/Shady Grove.png>] <songs/"The Sly Bol
+d Rambler".png, id=1240, 540.8205pt x 215.8464pt>
 File: songs/"The Sly Bold Rambler".png Graphic file (type png)
 
 <use songs/"The Sly Bold Rambler".png>
-Package pdftex.def Info: songs/"The Sly Bold Rambler".png used on input line 80
-3.
+Package pdftex.def Info: songs/"The Sly Bold Rambler".png used on input line 81
+1.
 (pdftex.def)             Requested size: 364.1953pt x 145.35408pt.
  (./lyrics/The Sly Bold Rambler.tex
-[114 <./songs/The Sly Bold Rambler.png>] [115])
-<photos/president.jpg, id=1781, 722.7pt x 963.6pt>
+[115 <./songs/The Sly Bold Rambler.png>] [116])
+<photos/president.jpg, id=1250, 722.7pt x 963.6pt>
 File: photos/president.jpg Graphic file (type jpg)
  <use photos/president.jpg>
-Package pdftex.def Info: photos/president.jpg used on input line 804.
+Package pdftex.def Info: photos/president.jpg used on input line 812.
 (pdftex.def)             Requested size: 271.01349pt x 361.34912pt.
 
-[116 <./photos/president.jpg>]
-<songs/"Swedish Beauty Contest".png, id=1786, 540.8205pt x 112.5003pt>
+[117 <./photos/president.jpg>]
+<songs/"Swedish Beauty Contest".png, id=1255, 540.8205pt x 112.5003pt>
 File: songs/"Swedish Beauty Contest".png Graphic file (type png)
 
 <use songs/"Swedish Beauty Contest".png>
 Package pdftex.def Info: songs/"Swedish Beauty Contest".png used on input line 
-808.
+816.
 (pdftex.def)             Requested size: 364.1953pt x 75.75932pt.
  (./lyrics/Swedish Beauty Contest.tex)
-<photos/suff2.jpg, id=1787, 1390.44469pt x 782.17218pt>
+<photos/suff2.jpg, id=1256, 1390.44469pt x 782.17218pt>
 File: photos/suff2.jpg Graphic file (type jpg)
  <use photos/suff2.jpg>
-Package pdftex.def Info: photos/suff2.jpg used on input line 812.
+Package pdftex.def Info: photos/suff2.jpg used on input line 820.
 (pdftex.def)             Requested size: 331.23871pt x 186.32877pt.
 
-[117 <./songs/Swedish Beauty Contest.png> <./photos/suff2.jpg>]
-<songs/"Tattie Jock".png, id=1793, 540.8205pt x 161.6439pt>
+[118 <./songs/Swedish Beauty Contest.png> <./photos/suff2.jpg>]
+<songs/"Tattie Jock".png, id=1262, 540.8205pt x 161.6439pt>
 File: songs/"Tattie Jock".png Graphic file (type png)
 
 <use songs/"Tattie Jock".png>
-Package pdftex.def Info: songs/"Tattie Jock".png used on input line 816.
+Package pdftex.def Info: songs/"Tattie Jock".png used on input line 824.
 (pdftex.def)             Requested size: 364.1953pt x 108.85333pt.
- (./lyrics/Tattie Jock.tex [118 <./songs/Tattie Jock.png>] [119]) <photos/scott
-.jpg, id=1804, 2055.68pt x 1372.12625pt>
+ (./lyrics/Tattie Jock.tex [119 <./songs/Tattie Jock.png>] [120]) <photos/scott
+.jpg, id=1273, 2055.68pt x 1372.12625pt>
 File: photos/scott.jpg Graphic file (type jpg)
 
 <use photos/scott.jpg>
-Package pdftex.def Info: photos/scott.jpg used on input line 818.
+Package pdftex.def Info: photos/scott.jpg used on input line 826.
 (pdftex.def)             Requested size: 311.16364pt x 207.69438pt.
- <photos/lab.jpg, id=1805, 963.6pt x 542.025pt>
+ <photos/lab.jpg, id=1274, 963.6pt x 542.025pt>
 File: photos/lab.jpg Graphic file (type jpg)
 
 <use photos/lab.jpg>
-Package pdftex.def Info: photos/lab.jpg used on input line 820.
+Package pdftex.def Info: photos/lab.jpg used on input line 828.
 (pdftex.def)             Requested size: 311.16364pt x 175.02295pt.
- [120 <./photos/scott.jpg> <./photos/lab.jpg>]
-<songs/"The Twelve Folk Days of Christmas".png, id=1810, 541.0614pt x 161.6439p
+ [121 <./photos/scott.jpg> <./photos/lab.jpg>]
+<songs/"The Twelve Folk Days of Christmas".png, id=1279, 541.0614pt x 161.6439p
 t>
 File: songs/"The Twelve Folk Days of Christmas".png Graphic file (type png)
  <use songs/"The Twelve Folk Days of Christmas".png>
 Package pdftex.def Info: songs/"The Twelve Folk Days of Christmas".png used on 
-input line 824.
+input line 832.
 (pdftex.def)             Requested size: 364.1953pt x 108.80894pt.
 
-(./lyrics/The Twelve Folk Days of Christmas.tex [121 <./songs/The Twelve Folk D
-ays of Christmas.png>]) [122]
-<songs/"Ushag Veg Ruy".png, id=1820, 540.8205pt x 106.4778pt>
+(./lyrics/The Twelve Folk Days of Christmas.tex [122 <./songs/The Twelve Folk D
+ays of Christmas.png>]) [123]
+<songs/"Ushag Veg Ruy".png, id=1289, 540.8205pt x 106.4778pt>
 File: songs/"Ushag Veg Ruy".png Graphic file (type png)
 
 <use songs/"Ushag Veg Ruy".png>
-Package pdftex.def Info: songs/"Ushag Veg Ruy".png used on input line 830.
+Package pdftex.def Info: songs/"Ushag Veg Ruy".png used on input line 838.
 (pdftex.def)             Requested size: 364.1953pt x 71.70367pt.
- (./lyrics/Ushag Veg Ruy.tex [123 <./songs/Ushag Veg Ruy.png>])
-<photos/christmasband.jpg, id=1826, 2141.75156pt x 974.89218pt>
+ (./lyrics/Ushag Veg Ruy.tex [124 <./songs/Ushag Veg Ruy.png>])
+<photos/christmasband.jpg, id=1295, 2141.75156pt x 974.89218pt>
 File: photos/christmasband.jpg Graphic file (type jpg)
 
 <use photos/christmasband.jpg>
-Package pdftex.def Info: photos/christmasband.jpg used on input line 832.
+Package pdftex.def Info: photos/christmasband.jpg used on input line 840.
 (pdftex.def)             Requested size: 331.23871pt x 150.76459pt.
- [124 <./photos/christmasband.jpg>]
-<songs/"Weetabix and Cheese".png, id=1831, 540.8205pt x 268.6035pt>
+ [125 <./photos/christmasband.jpg>]
+<songs/"Weetabix and Cheese".png, id=1301, 540.8205pt x 268.6035pt>
 File: songs/"Weetabix and Cheese".png Graphic file (type png)
 
 <use songs/"Weetabix and Cheese".png>
-Package pdftex.def Info: songs/"Weetabix and Cheese".png used on input line 837
+Package pdftex.def Info: songs/"Weetabix and Cheese".png used on input line 845
 .
 (pdftex.def)             Requested size: 364.1953pt x 180.88148pt.
  (./lyrics/Weetabix and Cheese.tex
-[125 <./songs/Weetabix and Cheese.png>])
-<photos/activityawards.jpg, id=1839, 722.7pt x 481.8pt>
+[126 <./songs/Weetabix and Cheese.png>])
+<photos/activityawards.jpg, id=1307, 722.7pt x 481.8pt>
 File: photos/activityawards.jpg Graphic file (type jpg)
 
 <use photos/activityawards.jpg>
-Package pdftex.def Info: photos/activityawards.jpg used on input line 840.
+Package pdftex.def Info: photos/activityawards.jpg used on input line 848.
 (pdftex.def)             Requested size: 331.23871pt x 220.82199pt.
- [126 <./photos/activityawards.jpg>]
-<songs/"Wild Mountain Thyme".png, id=1844, 540.8205pt x 216.81pt>
+ [127 <./photos/activityawards.jpg>]
+<songs/"Wild Mountain Thyme".png, id=1312, 540.8205pt x 216.81pt>
 File: songs/"Wild Mountain Thyme".png Graphic file (type png)
 
 <use songs/"Wild Mountain Thyme".png>
-Package pdftex.def Info: songs/"Wild Mountain Thyme".png used on input line 845
+Package pdftex.def Info: songs/"Wild Mountain Thyme".png used on input line 853
 .
 (pdftex.def)             Requested size: 364.1953pt x 146.00299pt.
  (./lyrics/Wild Mountain Thyme.tex
-[127 <./songs/Wild Mountain Thyme.png>])
-<photos/eyes.jpg, id=1850, 569.12625pt x 758.835pt>
+[128 <./songs/Wild Mountain Thyme.png>])
+<photos/eyes.jpg, id=1318, 569.12625pt x 758.835pt>
 File: photos/eyes.jpg Graphic file (type jpg)
  <use photos/eyes.jpg>
-Package pdftex.def Info: photos/eyes.jpg used on input line 846.
+Package pdftex.def Info: photos/eyes.jpg used on input line 854.
 (pdftex.def)             Requested size: 281.05103pt x 374.75029pt.
 
-[128 <./photos/eyes.jpg>]
-<songs/"Working on a Building".png, id=1855, 540.8205pt x 327.1422pt>
+[129 <./photos/eyes.jpg>]
+<songs/"Working on a Building".png, id=1323, 540.8205pt x 327.1422pt>
 File: songs/"Working on a Building".png Graphic file (type png)
 
 <use songs/"Working on a Building".png>
 Package pdftex.def Info: songs/"Working on a Building".png used on input line 8
-50.
+58.
 (pdftex.def)             Requested size: 364.1953pt x 220.30228pt.
  (./lyrics/Working on a Building.tex
-[129 <./songs/Working on a Building.png>])
-<photos/byepiano.jpg, id=1861, 2055.68pt x 1541.76pt>
+[130 <./songs/Working on a Building.png>])
+<photos/byepiano.jpg, id=1329, 2055.68pt x 1541.76pt>
 File: photos/byepiano.jpg Graphic file (type jpg)
 
 <use photos/byepiano.jpg>
-Package pdftex.def Info: photos/byepiano.jpg used on input line 852.
+Package pdftex.def Info: photos/byepiano.jpg used on input line 860.
 (pdftex.def)             Requested size: 331.23871pt x 248.4275pt.
- [130 <./photos/byepiano.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 854.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 854.
+ [131 <./photos/byepiano.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 862.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 862.
  (./tunebook.xwm)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 (./tunebook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 854.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 854.
-Package rerunfilecheck Info: File `tunebook.out' has not changed.
-(rerunfilecheck)             Checksum: E813C3C5E39DD0EF88AE4601CDF6A018;11601.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 862.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 862.
+
+
+Package rerunfilecheck Warning: File `tunebook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `tunebook.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  6EA3DCDF7B3DA28D55581392858EEF79;11601.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 29105 strings out of 493013
- 566430 string characters out of 6136994
- 608047 words of memory out of 5000000
- 31719 multiletter control sequences out of 15000+600000
+ 28947 strings out of 493013
+ 564435 string characters out of 6136994
+ 608015 words of memory out of 5000000
+ 31558 multiletter control sequences out of 15000+600000
  10849 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,7n,64p,10483b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2523,10 +2544,10 @@ c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2016/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb><c:/texlive/2016/texmf-dist/fo
 nts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on tunebook.pdf (138 pages, 50156677 bytes).
+Output written on tunebook.pdf (139 pages, 50970865 bytes).
 PDF statistics:
- 1972 PDF objects out of 2073 (max. 8388607)
- 1424 compressed objects within 15 object streams
- 306 named destinations out of 1000 (max. 500000)
- 2492 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1439 PDF objects out of 1440 (max. 8388607)
+ 894 compressed objects within 9 object streams
+ 307 named destinations out of 1000 (max. 500000)
+ 1078 words of extra memory for PDF output out of 10000 (max. 10000000)
 
