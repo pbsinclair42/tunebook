@@ -145,7 +145,7 @@
 \contentsline {section}{Fuck EUSA}{72}{section*.137}
 \contentsline {section}{The Georgemas Junction Blues}{74}{section*.138}
 \contentsline {section}{Gloomy December}{76}{section*.139}
-\contentsline {section}{Greenland (is a hell of a place)}{77}{section*.140}
+\contentsline {section}{Greenland (is a Hell of a Place)}{77}{section*.140}
 \contentsline {section}{Good Ol' Mountain Dew}{78}{section*.141}
 \contentsline {section}{Guise o' Tough}{80}{section*.142}
 \contentsline {section}{Hang Me, Oh Hang Me}{82}{section*.143}
